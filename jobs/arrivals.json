@@ -1,0 +1,9 @@
+{
+	"phases": [ {
+		"exec": "/assets/bpijewski/stor/munistats/assets/generate_arrivals.sh",
+		"assets": [
+			"/bpijewski/stor/munistats/assets/generate_arrivals.sh",
+			"/bpijewski/stor/munistats/assets/arrival_predictor.jar"
+		]
+	} ]
+}

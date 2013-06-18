@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="L" title="L-Taraval" color="660099" oppositeColor="ffffff" latMin="37.7361299" latMax="37.7932299" lonMin="-122.5045799" lonMax="-122.3964">
+<stop tag="7217" title="Embarcadero Station OB" lat="37.7932299" lon="-122.39654" stopId="17217"/>
+<stop tag="6994" title="Montgomery Station Outbound" lat="37.78879" lon="-122.4021299" stopId="16994"/>
+<stop tag="6995" title="Powell Station Outbound" lat="37.7843" lon="-122.4078199" stopId="16995"/>
+<stop tag="6997" title="Civic Center Station Outbound" lat="37.7786799" lon="-122.41499" stopId="16997"/>
+<stop tag="6996" title="Van Ness Station OB" lat="37.7752299" lon="-122.41934" stopId="16996"/>
+<stop tag="6998" title="Church St Station Outbound" lat="37.7673299" lon="-122.42932" stopId="16998"/>
+<stop tag="6991" title="Castro Station Outbound" lat="37.7626799" lon="-122.43529" stopId="16991"/>
+<stop tag="6993" title="Forest Hill Station Outbound" lat="37.7481699" lon="-122.45919" stopId="16993"/>
+<stop tag="6739" title="West Portal Station" lat="37.7409599" lon="-122.4658" stopId="16739"/>
+<stop tag="7058" title="West Portal Ave &amp; Ulloa St" lat="37.7408899" lon="-122.46585" stopId="17058"/>
+<stop tag="6736" title="Ulloa St &amp; Forest Side Ave" lat="37.7415399" lon="-122.46847" stopId="16736"/>
+<stop tag="3268" title="15th Ave &amp; Ulloa St" lat="37.7415299" lon="-122.47119" stopId="13268"/>
+<stop tag="3266" title="15th Ave &amp; Taraval St" lat="37.7431199" lon="-122.4712999" stopId="13266"/>
+<stop tag="6614" title="Taraval St &amp; 17th Ave" lat="37.7432" lon="-122.4734299" stopId="16614"/>
+<stop tag="6616" title="Taraval St &amp; 19th Ave" lat="37.7431099" lon="-122.47544" stopId="16616"/>
+<stop tag="6618" title="Taraval St &amp; 22nd Ave" lat="37.7429699" lon="-122.47879" stopId="16618"/>
+<stop tag="6620" title="Taraval St &amp; 23rd Ave" lat="37.74287" lon="-122.4804499" stopId="16620"/>
+<stop tag="6622" title="Taraval St &amp; 26th Ave" lat="37.74278" lon="-122.4830699" stopId="16622"/>
+<stop tag="6624" title="Taraval St &amp; 28th Ave" lat="37.7426799" lon="-122.48521" stopId="16624"/>
+<stop tag="6626" title="Taraval St &amp; 30th Ave" lat="37.74259" lon="-122.4873399" stopId="16626"/>
+<stop tag="6628" title="Taraval St &amp; 32nd Ave" lat="37.7424899" lon="-122.48949" stopId="16628"/>
+<stop tag="6630" title="Taraval St &amp; 35th Ave" lat="37.74235" lon="-122.4927099" stopId="16630"/>
+<stop tag="6640" title="Taraval St &amp; Sunset Blvd" lat="37.7422699" lon="-122.49422" stopId="16640"/>
+<stop tag="6632" title="Taraval St &amp; 40th Ave" lat="37.74212" lon="-122.4980499" stopId="16632"/>
+<stop tag="6634" title="Taraval St &amp; 42nd Ave" lat="37.74202" lon="-122.5001999" stopId="16634"/>
+<stop tag="6636" title="Taraval St &amp; 44th Ave" lat="37.7419199" lon="-122.50235" stopId="16636"/>
+<stop tag="6638" title="Taraval St &amp; 46th Ave" lat="37.74182" lon="-122.5044899" stopId="16638"/>
+<stop tag="3600" title="46th Ave &amp; Ulloa St" lat="37.7399999" lon="-122.5045799" stopId="13600"/>
+<stop tag="3602" title="46th Ave &amp; Vicente St" lat="37.7381399" lon="-122.5044399" stopId="13602"/>
+<stop tag="36932" title="Wawona St &amp; 46th Ave" lat="37.7361299" lon="-122.50435" stopId="136932"/>
+<stop tag="6932" title="Wawona St &amp; 46th Ave" lat="37.7361299" lon="-122.50435" stopId="16932"/>
+<stop tag="3603" title="46th Ave &amp; Vicente St" lat="37.73797" lon="-122.50427" stopId="13603"/>
+<stop tag="3601" title="46th Ave &amp; Ulloa St" lat="37.73983" lon="-122.50441" stopId="13601"/>
+<stop tag="3599" title="46th Ave &amp; Taraval St" lat="37.7416899" lon="-122.5045299" stopId="13599"/>
+<stop tag="6637" title="Taraval St &amp; 44th Ave" lat="37.7418" lon="-122.5026099" stopId="16637"/>
+<stop tag="6635" title="Taraval St &amp; 42nd Ave" lat="37.7419" lon="-122.5004599" stopId="16635"/>
+<stop tag="6633" title="Taraval St &amp; 40th Ave" lat="37.7419899" lon="-122.49832" stopId="16633"/>
+<stop tag="6641" title="Taraval St &amp; Sunset Blvd" lat="37.7421799" lon="-122.49465" stopId="16641"/>
+<stop tag="6631" title="Taraval St &amp; 35th Ave" lat="37.74224" lon="-122.4929599" stopId="16631"/>
+<stop tag="6629" title="Taraval St &amp; 32nd Ave" lat="37.74236" lon="-122.4897499" stopId="16629"/>
+<stop tag="6627" title="Taraval St &amp; 30th Ave" lat="37.7424599" lon="-122.48761" stopId="16627"/>
+<stop tag="6625" title="Taraval St &amp; 28th Ave" lat="37.74254" lon="-122.4854699" stopId="16625"/>
+<stop tag="6623" title="Taraval St &amp; 26th Ave" lat="37.7426499" lon="-122.48332" stopId="16623"/>
+<stop tag="6621" title="Taraval St &amp; 24th Ave" lat="37.74274" lon="-122.4811999" stopId="16621"/>
+<stop tag="6619" title="Taraval St &amp; 22nd Ave" lat="37.7428899" lon="-122.47843" stopId="16619"/>
+<stop tag="6617" title="Taraval St &amp; 19th Ave" lat="37.7429699" lon="-122.47582" stopId="16617"/>
+<stop tag="6615" title="Taraval St &amp; 17th Ave" lat="37.7430699" lon="-122.4737" stopId="16615"/>
+<stop tag="3267" title="15th Ave &amp; Taraval St" lat="37.7430699" lon="-122.4713999" stopId="13267"/>
+<stop tag="3269" title="15th Ave &amp; Ulloa St" lat="37.74148" lon="-122.4713" stopId="13269"/>
+<stop tag="6737" title="Ulloa St &amp; Forest Side Ave" lat="37.74144" lon="-122.4687999" stopId="16737"/>
+<stop tag="6740" title="West Portal Station" lat="37.7409199" lon="-122.46578" stopId="16740"/>
+<stop tag="5730" title="Forest Hill Station Inbound" lat="37.74835" lon="-122.4586199" stopId="15730"/>
+<stop tag="5728" title="Castro Station Inbound" lat="37.7625799" lon="-122.43523" stopId="15728"/>
+<stop tag="5726" title="Church St Station Inbound" lat="37.76719" lon="-122.4291699" stopId="15726"/>
+<stop tag="5419" title="Van Ness Station Inbound" lat="37.7750699" lon="-122.41919" stopId="15419"/>
+<stop tag="5727" title="Civic Center Station Inbound" lat="37.77854" lon="-122.4148099" stopId="15727"/>
+<stop tag="5417" title="Powell Station Inbound" lat="37.7842" lon="-122.4076899" stopId="15417"/>
+<stop tag="5731" title="Montgomery Station Inbound" lat="37.7887" lon="-122.4019199" stopId="15731"/>
+<stop tag="6992" title="Embarcadero Station Arr" lat="37.7931399" lon="-122.3964" stopId="16992"/>
+<direction tag="L___OB1" title="Outbound to San Francisco Zoo" name="Outbound" useForUI="true">
+  <stop tag="7217" />
+  <stop tag="6994" />
+  <stop tag="6995" />
+  <stop tag="6997" />
+  <stop tag="6996" />
+  <stop tag="6998" />
+  <stop tag="6991" />
+  <stop tag="6993" />
+  <stop tag="6739" />
+  <stop tag="7058" />
+  <stop tag="6736" />
+  <stop tag="3268" />
+  <stop tag="3266" />
+  <stop tag="6614" />
+  <stop tag="6616" />
+  <stop tag="6618" />
+  <stop tag="6620" />
+  <stop tag="6622" />
+  <stop tag="6624" />
+  <stop tag="6626" />
+  <stop tag="6628" />
+  <stop tag="6630" />
+  <stop tag="6640" />
+  <stop tag="6632" />
+  <stop tag="6634" />
+  <stop tag="6636" />
+  <stop tag="6638" />
+  <stop tag="3600" />
+  <stop tag="3602" />
+  <stop tag="36932" />
+</direction>
+<direction tag="L___IB1" title="Inbound to Downtown" name="Inbound" useForUI="true">
+  <stop tag="6932" />
+  <stop tag="3603" />
+  <stop tag="3601" />
+  <stop tag="3599" />
+  <stop tag="6637" />
+  <stop tag="6635" />
+  <stop tag="6633" />
+  <stop tag="6641" />
+  <stop tag="6631" />
+  <stop tag="6629" />
+  <stop tag="6627" />
+  <stop tag="6625" />
+  <stop tag="6623" />
+  <stop tag="6621" />
+  <stop tag="6619" />
+  <stop tag="6617" />
+  <stop tag="6615" />
+  <stop tag="3267" />
+  <stop tag="3269" />
+  <stop tag="6737" />
+  <stop tag="6740" />
+  <stop tag="5730" />
+  <stop tag="5728" />
+  <stop tag="5726" />
+  <stop tag="5419" />
+  <stop tag="5727" />
+  <stop tag="5417" />
+  <stop tag="5731" />
+  <stop tag="6992" />
+</direction>
+<path>
+<point lat="37.73613" lon="-122.50435"/>
+<point lat="37.73797" lon="-122.50427"/>
+<point lat="37.73983" lon="-122.50441"/>
+<point lat="37.74169" lon="-122.50453"/>
+<point lat="37.74177" lon="-122.50461"/>
+<point lat="37.7418" lon="-122.50261"/>
+<point lat="37.7419" lon="-122.50046"/>
+<point lat="37.74199" lon="-122.49832"/>
+<point lat="37.74218" lon="-122.49465"/>
+</path>
+<path>
+<point lat="37.74227" lon="-122.49422"/>
+<point lat="37.74212" lon="-122.49805"/>
+<point lat="37.7420199" lon="-122.5002"/>
+<point lat="37.74192" lon="-122.50235"/>
+<point lat="37.74182" lon="-122.50449"/>
+<point lat="37.74177" lon="-122.50461"/>
+<point lat="37.74" lon="-122.50458"/>
+<point lat="37.73814" lon="-122.50444"/>
+<point lat="37.73805" lon="-122.50435"/>
+<point lat="37.73801" lon="-122.50542"/>
+<point lat="37.73613" lon="-122.50529"/>
+<point lat="37.73613" lon="-122.50435"/>
+</path>
+<path>
+<point lat="37.74297" lon="-122.47879"/>
+<point lat="37.74287" lon="-122.48045"/>
+<point lat="37.74278" lon="-122.48307"/>
+<point lat="37.74268" lon="-122.48521"/>
+<point lat="37.74259" lon="-122.48734"/>
+<point lat="37.7424899" lon="-122.48949"/>
+<point lat="37.74235" lon="-122.49271"/>
+<point lat="37.74227" lon="-122.49422"/>
+</path>
+<path>
+<point lat="37.74218" lon="-122.49465"/>
+<point lat="37.74224" lon="-122.49296"/>
+<point lat="37.74236" lon="-122.48975"/>
+<point lat="37.74246" lon="-122.48761"/>
+<point lat="37.74254" lon="-122.48547"/>
+<point lat="37.74265" lon="-122.48332"/>
+<point lat="37.74274" lon="-122.4812"/>
+<point lat="37.74289" lon="-122.47843"/>
+</path>
+<path>
+<point lat="37.77523" lon="-122.41934"/>
+<point lat="37.76733" lon="-122.42932"/>
+<point lat="37.7642" lon="-122.43308"/>
+<point lat="37.76268" lon="-122.43529"/>
+</path>
+<path>
+<point lat="37.79323" lon="-122.39654"/>
+<point lat="37.78879" lon="-122.40213"/>
+<point lat="37.7843" lon="-122.40782"/>
+<point lat="37.77868" lon="-122.41499"/>
+<point lat="37.77523" lon="-122.41934"/>
+</path>
+<path>
+<point lat="37.74092" lon="-122.46578"/>
+<point lat="37.74374" lon="-122.46368"/>
+<point lat="37.74835" lon="-122.45862"/>
+<point lat="37.75242" lon="-122.45512"/>
+<point lat="37.75883" lon="-122.44105"/>
+<point lat="37.76258" lon="-122.43523"/>
+</path>
+<path>
+<point lat="37.76268" lon="-122.43529"/>
+<point lat="37.75883" lon="-122.44105"/>
+<point lat="37.75242" lon="-122.45512"/>
+<point lat="37.74817" lon="-122.45919"/>
+<point lat="37.74374" lon="-122.46368"/>
+<point lat="37.74096" lon="-122.4658"/>
+</path>
+<path>
+<point lat="37.77507" lon="-122.41919"/>
+<point lat="37.77854" lon="-122.41481"/>
+<point lat="37.7842" lon="-122.40769"/>
+<point lat="37.7887" lon="-122.40192"/>
+<point lat="37.79314" lon="-122.3964"/>
+</path>
+<path>
+<point lat="37.74096" lon="-122.4658"/>
+<point lat="37.74089" lon="-122.46585"/>
+</path>
+<path>
+<point lat="37.74089" lon="-122.46585"/>
+<point lat="37.74129" lon="-122.46658"/>
+<point lat="37.74141" lon="-122.46697"/>
+<point lat="37.7415" lon="-122.46746"/>
+<point lat="37.74154" lon="-122.46847"/>
+<point lat="37.74138" lon="-122.47122"/>
+<point lat="37.74153" lon="-122.47119"/>
+<point lat="37.74312" lon="-122.4713"/>
+<point lat="37.74324" lon="-122.47135"/>
+<point lat="37.7432" lon="-122.47343"/>
+<point lat="37.74311" lon="-122.47544"/>
+<point lat="37.74297" lon="-122.47879"/>
+</path>
+<path>
+<point lat="37.76258" lon="-122.43523"/>
+<point lat="37.76719" lon="-122.42917"/>
+<point lat="37.77507" lon="-122.41919"/>
+</path>
+<path>
+<point lat="37.79314" lon="-122.3964"/>
+<point lat="37.7943799" lon="-122.39482"/>
+<point lat="37.79449" lon="-122.39456"/>
+<point lat="37.79451" lon="-122.39424"/>
+<point lat="37.79445" lon="-122.39391"/>
+<point lat="37.79427" lon="-122.39342"/>
+<point lat="37.79404" lon="-122.39303"/>
+<point lat="37.79293" lon="-122.39179"/>
+<point lat="37.79271" lon="-122.39147"/>
+<point lat="37.7927899" lon="-122.39126"/>
+<point lat="37.79313" lon="-122.39157"/>
+<point lat="37.7942899" lon="-122.3929"/>
+<point lat="37.79445" lon="-122.39317"/>
+<point lat="37.7947" lon="-122.39379"/>
+<point lat="37.79477" lon="-122.39419"/>
+<point lat="37.79475" lon="-122.39454"/>
+<point lat="37.79323" lon="-122.39654"/>
+</path>
+<path>
+<point lat="37.74289" lon="-122.47843"/>
+<point lat="37.74297" lon="-122.47582"/>
+<point lat="37.74307" lon="-122.4737"/>
+<point lat="37.74324" lon="-122.47135"/>
+<point lat="37.74307" lon="-122.4714"/>
+<point lat="37.74148" lon="-122.4713"/>
+<point lat="37.74138" lon="-122.47122"/>
+<point lat="37.74144" lon="-122.4688"/>
+<point lat="37.7415" lon="-122.46746"/>
+<point lat="37.74141" lon="-122.46697"/>
+<point lat="37.74133" lon="-122.4667"/>
+<point lat="37.74089" lon="-122.46582"/>
+<point lat="37.74092" lon="-122.46578"/>
+</path>
+<path>
+<point lat="37.74289" lon="-122.47843"/>
+<point lat="37.74297" lon="-122.47582"/>
+<point lat="37.74307" lon="-122.4737"/>
+<point lat="37.74324" lon="-122.47135"/>
+<point lat="37.74307" lon="-122.4714"/>
+<point lat="37.74148" lon="-122.4713"/>
+<point lat="37.74138" lon="-122.47122"/>
+<point lat="37.74144" lon="-122.4688"/>
+</path>
+</route>
+</body>

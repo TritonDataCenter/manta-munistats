@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="14L" title="14L-Mission Limited" color="009900" oppositeColor="ffffff" latMin="37.7057599" latMax="37.7942599" lonMin="-122.46927" lonMax="-122.39491">
+<stop tag="5603" title="Mission St &amp; Main St" lat="37.7919699" lon="-122.39493" stopId="15603"/>
+<stop tag="5579" title="Mission St &amp; Beale St" lat="37.79114" lon="-122.3959199" stopId="15579"/>
+<stop tag="5528" title="Mission St &amp; 1st St" lat="37.78992" lon="-122.3974899" stopId="15528"/>
+<stop tag="5529" title="Mission St &amp; 2nd St" lat="37.7877499" lon="-122.40024" stopId="15529"/>
+<stop tag="5532" title="Mission St &amp; 3rd St" lat="37.7859699" lon="-122.40249" stopId="15532"/>
+<stop tag="5534" title="Mission St &amp; 4th St" lat="37.7843599" lon="-122.40452" stopId="15534"/>
+<stop tag="5536" title="Mission St &amp; 5th St" lat="37.7827299" lon="-122.40664" stopId="15536"/>
+<stop tag="5540" title="Mission St &amp; 8th St" lat="37.7772299" lon="-122.41355" stopId="15540"/>
+<stop tag="5545" title="Mission St &amp; 11th St" lat="37.7743099" lon="-122.41729" stopId="15545"/>
+<stop tag="5552" title="Mission St &amp; 16th St" lat="37.7645499" lon="-122.41971" stopId="15552"/>
+<stop tag="5558" title="Mission St &amp; 20th St" lat="37.7581699" lon="-122.4190899" stopId="15558"/>
+<stop tag="5566" title="Mission St &amp; 24th St" lat="37.7519599" lon="-122.41853" stopId="15566"/>
+<stop tag="5572" title="Mission St &amp; 30th St" lat="37.7424399" lon="-122.422" stopId="15572"/>
+<stop tag="5614" title="Mission St &amp; Richland Ave" lat="37.73562" lon="-122.4246999" stopId="15614"/>
+<stop tag="5621" title="Mission St &amp; Silver Ave" lat="37.7286999" lon="-122.43141" stopId="15621"/>
+<stop tag="5616" title="Mission St &amp; Ruth St" lat="37.7228099" lon="-122.43633" stopId="15616"/>
+<stop tag="5592" title="Mission St &amp; Geneva Ave" lat="37.7164599" lon="-122.44115" stopId="15592"/>
+<stop tag="5602" title="Mission St &amp; Lowell St" lat="37.7114699" lon="-122.44653" stopId="15602"/>
+<stop tag="5619" title="Mission St &amp; Sickles Ave" lat="37.7086599" lon="-122.45332" stopId="15619"/>
+<stop tag="5594" title="Mission St &amp; Goethe St" lat="37.70736" lon="-122.4570799" stopId="15594"/>
+<stop tag="5588" title="Mission St &amp; Flournoy St" lat="37.70682" lon="-122.45906" stopId="15588"/>
+<stop tag="7099" title="Mission St &amp; San Jose Ave" lat="37.7060199" lon="-122.46126" stopId="17099"/>
+<stop tag="34341" title="Daly City Bart Station" lat="37.7057599" lon="-122.46927" stopId="134341"/>
+<stop tag="37099" title="Mission St &amp; San Jose Ave" lat="37.7060199" lon="-122.46126" stopId="137099"/>
+<stop tag="4341" title="Daly City Bart Station" lat="37.7057599" lon="-122.46927" stopId="14341"/>
+<stop tag="17099" title="Mission St &amp; San Jose Ave" lat="37.7060199" lon="-122.46126" stopId="117099"/>
+<stop tag="7554" title="Mission St &amp; Flournoy St" lat="37.70661" lon="-122.4591999" stopId="17554"/>
+<stop tag="5585" title="Mission St &amp; Evergreen St" lat="37.7074099" lon="-122.45653" stopId="15585"/>
+<stop tag="5574" title="Mission St &amp; Acton St" lat="37.7088899" lon="-122.4522" stopId="15574"/>
+<stop tag="5601" title="Mission St &amp; Lowell St" lat="37.71172" lon="-122.4456899" stopId="15601"/>
+<stop tag="5593" title="Mission St &amp; Geneva Ave" lat="37.7166399" lon="-122.44078" stopId="15593"/>
+<stop tag="5610" title="Mission St &amp; Persia Ave" lat="37.7233799" lon="-122.43568" stopId="15610"/>
+<stop tag="5620" title="Mission St &amp; Silver Ave" lat="37.7286199" lon="-122.4313" stopId="15620"/>
+<stop tag="5613" title="Mission St &amp; Richland Ave" lat="37.7359099" lon="-122.42442" stopId="15613"/>
+<stop tag="5571" title="Mission St &amp; 30th St" lat="37.7424399" lon="-122.42182" stopId="15571"/>
+<stop tag="5565" title="Mission St &amp; 24th St" lat="37.7527299" lon="-122.41841" stopId="15565"/>
+<stop tag="5557" title="Mission St &amp; 20th St" lat="37.7591099" lon="-122.4190199" stopId="15557"/>
+<stop tag="5551" title="Mission St &amp; 16th St" lat="37.7655399" lon="-122.41964" stopId="15551"/>
+<stop tag="5544" title="Mission St &amp; 11th St" lat="37.7742199" lon="-122.41712" stopId="15544"/>
+<stop tag="5541" title="Mission St &amp; 8th St" lat="37.7777" lon="-122.4127299" stopId="15541"/>
+<stop tag="5535" title="Mission St &amp; 5th St" lat="37.7825899" lon="-122.40654" stopId="15535"/>
+<stop tag="5533" title="Mission St &amp; 4th St" lat="37.7846399" lon="-122.40393" stopId="15533"/>
+<stop tag="5531" title="Mission St &amp; 3rd St" lat="37.7865099" lon="-122.40157" stopId="15531"/>
+<stop tag="5530" title="Mission St &amp; 2nd St" lat="37.78787" lon="-122.3998499" stopId="15530"/>
+<stop tag="5591" title="Mission St &amp; Fremont St" lat="37.7901499" lon="-122.39695" stopId="15591"/>
+<stop tag="5336" title="Main St &amp; Market St" lat="37.7925299" lon="-122.3956699" stopId="15336"/>
+<stop tag="5693" title="Market St &amp; Steuart St" lat="37.7942599" lon="-122.39491" stopId="15693"/>
+<stop tag="35603" title="Mission St &amp; Main St" lat="37.7919699" lon="-122.39493" stopId="135603"/>
+<direction tag="14L_OB1" title="Outbound to Daly City ( Daly City BART Station 4pm-7pm)" name="Outbound" useForUI="true">
+  <stop tag="5603" />
+  <stop tag="5579" />
+  <stop tag="5528" />
+  <stop tag="5529" />
+  <stop tag="5532" />
+  <stop tag="5534" />
+  <stop tag="5536" />
+  <stop tag="5540" />
+  <stop tag="5545" />
+  <stop tag="5552" />
+  <stop tag="5558" />
+  <stop tag="5566" />
+  <stop tag="5572" />
+  <stop tag="5614" />
+  <stop tag="5621" />
+  <stop tag="5616" />
+  <stop tag="5592" />
+  <stop tag="5602" />
+  <stop tag="5619" />
+  <stop tag="5594" />
+  <stop tag="5588" />
+  <stop tag="7099" />
+  <stop tag="34341" />
+</direction>
+<direction tag="14L_IB1" title="Inbound to Fremont &amp; Mission" name="Inbound" useForUI="true">
+  <stop tag="4341" />
+  <stop tag="17099" />
+  <stop tag="7554" />
+  <stop tag="5585" />
+  <stop tag="5574" />
+  <stop tag="5601" />
+  <stop tag="5593" />
+  <stop tag="5610" />
+  <stop tag="5620" />
+  <stop tag="5613" />
+  <stop tag="5571" />
+  <stop tag="5565" />
+  <stop tag="5557" />
+  <stop tag="5551" />
+  <stop tag="5544" />
+  <stop tag="5541" />
+  <stop tag="5535" />
+  <stop tag="5533" />
+  <stop tag="5531" />
+  <stop tag="5530" />
+  <stop tag="5591" />
+  <stop tag="5336" />
+  <stop tag="5693" />
+  <stop tag="35603" />
+</direction>
+<path>
+<point lat="37.74244" lon="-122.42182"/>
+<point lat="37.74817" lon="-122.41823"/>
+<point lat="37.74848" lon="-122.4181"/>
+<point lat="37.75273" lon="-122.41841"/>
+</path>
+<path>
+<point lat="37.7088899" lon="-122.4522"/>
+<point lat="37.71008" lon="-122.44892"/>
+<point lat="37.71172" lon="-122.44569"/>
+<point lat="37.7118899" lon="-122.44553"/>
+<point lat="37.71531" lon="-122.4419"/>
+<point lat="37.71664" lon="-122.44078"/>
+</path>
+<path>
+<point lat="37.71646" lon="-122.44115"/>
+<point lat="37.71543" lon="-122.4418"/>
+<point lat="37.7118899" lon="-122.44553"/>
+<point lat="37.71147" lon="-122.44653"/>
+<point lat="37.71008" lon="-122.44892"/>
+<point lat="37.70866" lon="-122.45332"/>
+<point lat="37.70736" lon="-122.45708"/>
+<point lat="37.70675" lon="-122.45905"/>
+<point lat="37.70682" lon="-122.45906"/>
+<point lat="37.70736" lon="-122.45999"/>
+<point lat="37.70602" lon="-122.46126"/>
+</path>
+<path>
+<point lat="37.76554" lon="-122.41964"/>
+<point lat="37.77011" lon="-122.42001"/>
+<point lat="37.77039" lon="-122.41986"/>
+<point lat="37.77279" lon="-122.4187"/>
+<point lat="37.77305" lon="-122.41862"/>
+<point lat="37.77347" lon="-122.41804"/>
+<point lat="37.77422" lon="-122.41712"/>
+</path>
+<path>
+<point lat="37.78259" lon="-122.40654"/>
+<point lat="37.78464" lon="-122.40393"/>
+<point lat="37.78651" lon="-122.40157"/>
+<point lat="37.78787" lon="-122.39985"/>
+<point lat="37.79015" lon="-122.39695"/>
+<point lat="37.79184" lon="-122.39494"/>
+<point lat="37.79253" lon="-122.39567"/>
+<point lat="37.79309" lon="-122.39651"/>
+<point lat="37.79426" lon="-122.39491"/>
+<point lat="37.7944699" lon="-122.39476"/>
+<point lat="37.79322" lon="-122.39319"/>
+<point lat="37.79197" lon="-122.39493"/>
+</path>
+<path>
+<point lat="37.71664" lon="-122.44078"/>
+<point lat="37.72338" lon="-122.43568"/>
+<point lat="37.72718" lon="-122.43291"/>
+<point lat="37.72862" lon="-122.4313"/>
+</path>
+<path>
+<point lat="37.70602" lon="-122.46126"/>
+<point lat="37.70661" lon="-122.4592"/>
+<point lat="37.70741" lon="-122.45653"/>
+<point lat="37.7088899" lon="-122.4522"/>
+</path>
+<path>
+<point lat="37.74244" lon="-122.422"/>
+<point lat="37.73956" lon="-122.42379"/>
+<point lat="37.73924" lon="-122.42393"/>
+<point lat="37.7374099" lon="-122.42404"/>
+<point lat="37.73562" lon="-122.4247"/>
+<point lat="37.73537" lon="-122.42471"/>
+<point lat="37.7287" lon="-122.43141"/>
+</path>
+<path>
+<point lat="37.77431" lon="-122.41729"/>
+<point lat="37.7732699" lon="-122.41847"/>
+<point lat="37.77305" lon="-122.41862"/>
+<point lat="37.77176" lon="-122.42035"/>
+<point lat="37.76455" lon="-122.41971"/>
+</path>
+<path>
+<point lat="37.77422" lon="-122.41712"/>
+<point lat="37.7777" lon="-122.41273"/>
+<point lat="37.78259" lon="-122.40654"/>
+</path>
+<path>
+<point lat="37.7519599" lon="-122.41853"/>
+<point lat="37.74861" lon="-122.41809"/>
+<point lat="37.74817" lon="-122.41823"/>
+<point lat="37.74244" lon="-122.422"/>
+</path>
+<path>
+<point lat="37.72862" lon="-122.4313"/>
+<point lat="37.73537" lon="-122.42471"/>
+<point lat="37.7359099" lon="-122.42442"/>
+<point lat="37.73724" lon="-122.42407"/>
+<point lat="37.73924" lon="-122.42393"/>
+<point lat="37.73956" lon="-122.42379"/>
+<point lat="37.74244" lon="-122.42182"/>
+</path>
+<path>
+<point lat="37.79197" lon="-122.39493"/>
+<point lat="37.79114" lon="-122.39592"/>
+<point lat="37.78992" lon="-122.39749"/>
+<point lat="37.78775" lon="-122.40024"/>
+<point lat="37.78597" lon="-122.40249"/>
+<point lat="37.78436" lon="-122.40452"/>
+<point lat="37.78273" lon="-122.40664"/>
+</path>
+<path>
+<point lat="37.78273" lon="-122.40664"/>
+<point lat="37.77723" lon="-122.41355"/>
+<point lat="37.77431" lon="-122.41729"/>
+</path>
+<path>
+<point lat="37.70576" lon="-122.46927"/>
+<point lat="37.7051" lon="-122.46926"/>
+<point lat="37.70505" lon="-122.46232"/>
+<point lat="37.70599" lon="-122.46145"/>
+<point lat="37.70602" lon="-122.46126"/>
+</path>
+<path>
+<point lat="37.75273" lon="-122.41841"/>
+<point lat="37.75911" lon="-122.41902"/>
+<point lat="37.76554" lon="-122.41964"/>
+</path>
+<path>
+<point lat="37.76455" lon="-122.41971"/>
+<point lat="37.75817" lon="-122.41909"/>
+<point lat="37.7519599" lon="-122.41853"/>
+</path>
+<path>
+<point lat="37.7287" lon="-122.43141"/>
+<point lat="37.72732" lon="-122.43281"/>
+<point lat="37.72281" lon="-122.43633"/>
+<point lat="37.71646" lon="-122.44115"/>
+</path>
+<path>
+<point lat="37.70602" lon="-122.46126"/>
+<point lat="37.70505" lon="-122.46232"/>
+<point lat="37.70515" lon="-122.4678"/>
+<point lat="37.70687" lon="-122.46777"/>
+<point lat="37.70689" lon="-122.46824"/>
+<point lat="37.70576" lon="-122.46927"/>
+</path>
+</route>
+</body>

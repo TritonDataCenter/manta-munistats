@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="39" title="39-Coit" color="ff6633" oppositeColor="000000" latMin="37.8001999" latMax="37.8083499" lonMin="-122.4125099" lonMax="-122.40447">
+<stop tag="5471" title="North Point St &amp; Stockton St" lat="37.8068799" lon="-122.41059" stopId="15471"/>
+<stop tag="4530" title="The Embarcadero &amp; Stockton St" lat="37.8083499" lon="-122.4102899" stopId="14530"/>
+<stop tag="6046" title="Powell St &amp; Beach St" lat="37.8080299" lon="-122.4125099" stopId="16046"/>
+<stop tag="6066" title="Powell St &amp; North Point St" lat="37.8065" lon="-122.41218" stopId="16066"/>
+<stop tag="6055" title="Powell St &amp; Francisco St" lat="37.8049599" lon="-122.4118799" stopId="16055"/>
+<stop tag="6061" title="Powell St &amp; Lombard St" lat="37.8027699" lon="-122.4114299" stopId="16061"/>
+<stop tag="6054" title="Powell St &amp; Filbert St" lat="37.8012299" lon="-122.4111199" stopId="16054"/>
+<stop tag="6751" title="Union St &amp; Columbus Ave" lat="37.8001999" lon="-122.41064" stopId="16751"/>
+<stop tag="6782" title="Union St &amp; Stockton St" lat="37.8003699" lon="-122.40927" stopId="16782"/>
+<stop tag="6518" title="Stockton St &amp; Greenwich St" lat="37.80221" lon="-122.4095" stopId="16518"/>
+<stop tag="6519" title="Stockton St &amp; Lombard St" lat="37.8031299" lon="-122.4096899" stopId="16519"/>
+<stop tag="5277" title="Lombard St &amp; Grant Ave" lat="37.80338" lon="-122.4080399" stopId="15277"/>
+<stop tag="5279" title="Lombard St &amp; Kearny St" lat="37.80356" lon="-122.40652" stopId="15279"/>
+<stop tag="6652" title="225 Telegraph Hill Blvd" lat="37.8030099" lon="-122.4067899" stopId="16652"/>
+<stop tag="6655" title="Telegraph Hill Blvd &amp; Greenwich St" lat="37.80272" lon="-122.40662" stopId="16655"/>
+<stop tag="6651" title="115 Telegraph Hill Blvd" lat="37.8017876" lon="-122.4056923" stopId="16651"/>
+<stop tag="34087" title="Coit Tower Parking Lot" lat="37.8026599" lon="-122.40579" stopId="134087"/>
+<stop tag="4087" title="Coit Tower Parking Lot" lat="37.8026599" lon="-122.40579" stopId="14087"/>
+<stop tag="6654" title="Telegraph Hill Bl. &amp; Filbert St" lat="37.8018499" lon="-122.40573" stopId="16654"/>
+<stop tag="6656" title="Telegraph Hill Blvd &amp; Greenwich St" lat="37.80261" lon="-122.40646" stopId="16656"/>
+<stop tag="6653" title="225 Telegraph Hill Blvd" lat="37.80299" lon="-122.40664" stopId="16653"/>
+<stop tag="5278" title="Lombard St &amp; Kearny St" lat="37.8036999" lon="-122.40651" stopId="15278"/>
+<stop tag="5276" title="Lombard St &amp; Grant Ave" lat="37.8035" lon="-122.4080699" stopId="15276"/>
+<stop tag="5286" title="Lombard St &amp; Stockton St" lat="37.80328" lon="-122.4096299" stopId="15286"/>
+<stop tag="6517" title="Stockton St &amp; Greenwich St" lat="37.8023499" lon="-122.4096599" stopId="16517"/>
+<stop tag="6515" title="Stockton St &amp; Filbert St" lat="37.80142" lon="-122.40946" stopId="16515"/>
+<stop tag="6525" title="Stockton St &amp; Union St" lat="37.8005399" lon="-122.4092799" stopId="16525"/>
+<stop tag="6759" title="Union St &amp; Grant Ave" lat="37.8006" lon="-122.4076899" stopId="16759"/>
+<stop tag="6765" title="Union St &amp; Kearny St" lat="37.80076" lon="-122.4060999" stopId="16765"/>
+<stop tag="6776" title="Union St &amp; Montgomery St" lat="37.8009599" lon="-122.40451" stopId="16776"/>
+<stop tag="6775" title="Union St &amp; Montgomery St" lat="37.8010899" lon="-122.40447" stopId="16775"/>
+<stop tag="6764" title="Union St &amp; Kearny St" lat="37.8009099" lon="-122.40596" stopId="16764"/>
+<stop tag="6758" title="Union St &amp; Grant Ave" lat="37.80068" lon="-122.4074999" stopId="16758"/>
+<stop tag="6750" title="Union St &amp; Columbus Ave" lat="37.8004099" lon="-122.40993" stopId="16750"/>
+<stop tag="6060" title="Powell St &amp; Lombard St" lat="37.8029499" lon="-122.4112699" stopId="16060"/>
+<stop tag="6056" title="Powell St &amp; Francisco St" lat="37.8048099" lon="-122.4116499" stopId="16056"/>
+<stop tag="6045" title="Powell St &amp; Bay St" lat="37.80574" lon="-122.41183" stopId="16045"/>
+<stop tag="6065" title="Powell St &amp; North Point St" lat="37.8066699" lon="-122.4120399" stopId="16065"/>
+<stop tag="35471" title="North Point St &amp; Stockton St" lat="37.8068799" lon="-122.41059" stopId="135471"/>
+<direction tag="39_IB" title="Inbound to Telegraph Hill" name="Inbound" useForUI="true">
+  <stop tag="4087" />
+  <stop tag="6654" />
+  <stop tag="6656" />
+  <stop tag="6653" />
+  <stop tag="5278" />
+  <stop tag="5276" />
+  <stop tag="5286" />
+  <stop tag="6517" />
+  <stop tag="6515" />
+  <stop tag="6525" />
+  <stop tag="6759" />
+  <stop tag="6765" />
+  <stop tag="6776" />
+  <stop tag="6775" />
+  <stop tag="6764" />
+  <stop tag="6758" />
+  <stop tag="6750" />
+  <stop tag="6060" />
+  <stop tag="6056" />
+  <stop tag="6045" />
+  <stop tag="6065" />
+  <stop tag="35471" />
+</direction>
+<direction tag="39_OB" title="Outbound to Telegraph Hill" name="Outbound" useForUI="true">
+  <stop tag="5471" />
+  <stop tag="4530" />
+  <stop tag="6046" />
+  <stop tag="6066" />
+  <stop tag="6055" />
+  <stop tag="6061" />
+  <stop tag="6054" />
+  <stop tag="6751" />
+  <stop tag="6782" />
+  <stop tag="6518" />
+  <stop tag="6519" />
+  <stop tag="5277" />
+  <stop tag="5279" />
+  <stop tag="6652" />
+  <stop tag="6655" />
+  <stop tag="6651" />
+  <stop tag="34087" />
+</direction>
+<path>
+<point lat="37.80266" lon="-122.40579"/>
+<point lat="37.8023" lon="-122.4054"/>
+<point lat="37.80207" lon="-122.40533"/>
+<point lat="37.80186" lon="-122.40548"/>
+<point lat="37.80185" lon="-122.40573"/>
+<point lat="37.80178" lon="-122.40581"/>
+<point lat="37.80197" lon="-122.40612"/>
+<point lat="37.80256" lon="-122.40644"/>
+<point lat="37.80261" lon="-122.40646"/>
+<point lat="37.8028199" lon="-122.40667"/>
+<point lat="37.80299" lon="-122.40664"/>
+<point lat="37.80307" lon="-122.40671"/>
+<point lat="37.80327" lon="-122.40651"/>
+<point lat="37.80345" lon="-122.40627"/>
+<point lat="37.80362" lon="-122.40658"/>
+<point lat="37.8037" lon="-122.40651"/>
+<point lat="37.8035" lon="-122.40807"/>
+<point lat="37.80328" lon="-122.40963"/>
+<point lat="37.80323" lon="-122.40976"/>
+<point lat="37.8023499" lon="-122.40966"/>
+<point lat="37.80142" lon="-122.40946"/>
+<point lat="37.80054" lon="-122.40928"/>
+<point lat="37.80044" lon="-122.4092"/>
+<point lat="37.80103" lon="-122.40444"/>
+<point lat="37.8006" lon="-122.40769"/>
+<point lat="37.8007599" lon="-122.4061"/>
+<point lat="37.80096" lon="-122.40451"/>
+</path>
+<path>
+<point lat="37.80688" lon="-122.41059"/>
+<point lat="37.80733" lon="-122.40752"/>
+<point lat="37.8081" lon="-122.40906"/>
+<point lat="37.80835" lon="-122.41029"/>
+<point lat="37.80862" lon="-122.4124"/>
+<point lat="37.80803" lon="-122.41251"/>
+<point lat="37.80768" lon="-122.41234"/>
+<point lat="37.8065" lon="-122.41218"/>
+<point lat="37.80496" lon="-122.41188"/>
+<point lat="37.80277" lon="-122.41143"/>
+<point lat="37.8012299" lon="-122.41112"/>
+<point lat="37.80116" lon="-122.41102"/>
+<point lat="37.80112" lon="-122.41138"/>
+<point lat="37.80083" lon="-122.41096"/>
+<point lat="37.80023" lon="-122.41084"/>
+<point lat="37.8001999" lon="-122.41064"/>
+</path>
+<path>
+<point lat="37.8001999" lon="-122.41064"/>
+<point lat="37.80037" lon="-122.40927"/>
+<point lat="37.80044" lon="-122.4092"/>
+<point lat="37.80221" lon="-122.4095"/>
+<point lat="37.80313" lon="-122.40969"/>
+<point lat="37.80323" lon="-122.40976"/>
+<point lat="37.80338" lon="-122.40804"/>
+<point lat="37.80362" lon="-122.40658"/>
+<point lat="37.80356" lon="-122.40652"/>
+<point lat="37.80357" lon="-122.40628"/>
+<point lat="37.80335" lon="-122.40636"/>
+<point lat="37.8031999" lon="-122.40663"/>
+<point lat="37.80301" lon="-122.40679"/>
+<point lat="37.80292" lon="-122.40671"/>
+<point lat="37.80272" lon="-122.40662"/>
+<point lat="37.80207" lon="-122.40622"/>
+<point lat="37.80188" lon="-122.40603"/>
+<point lat="37.80178" lon="-122.40571"/>
+<point lat="37.80191" lon="-122.40541"/>
+<point lat="37.80219" lon="-122.40534"/>
+<point lat="37.80266" lon="-122.40579"/>
+</path>
+<path>
+<point lat="37.80096" lon="-122.40451"/>
+<point lat="37.80109" lon="-122.40447"/>
+<point lat="37.80091" lon="-122.40596"/>
+<point lat="37.80068" lon="-122.4075"/>
+<point lat="37.80041" lon="-122.40993"/>
+</path>
+<path>
+<point lat="37.80041" lon="-122.40993"/>
+<point lat="37.80031" lon="-122.41021"/>
+<point lat="37.80083" lon="-122.41096"/>
+<point lat="37.80295" lon="-122.41127"/>
+<point lat="37.80481" lon="-122.41165"/>
+<point lat="37.80574" lon="-122.41183"/>
+<point lat="37.8066699" lon="-122.41204"/>
+<point lat="37.80676" lon="-122.41214"/>
+<point lat="37.80688" lon="-122.41059"/>
+</path>
+</route>
+</body>

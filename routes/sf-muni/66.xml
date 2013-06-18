@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="66" title="66-Quintara" color="666699" oppositeColor="ffffff" latMin="37.7387699" latMax="37.7620399" lonMin="-122.4879299" lonMax="-122.46602">
+<stop tag="3215" title="9th Ave &amp; Judah St" lat="37.7620399" lon="-122.46624" stopId="13215"/>
+<stop tag="3216" title="9th Ave &amp; Kirkham St" lat="37.76041" lon="-122.46615" stopId="13216"/>
+<stop tag="3218" title="9th Ave &amp; Lawton St" lat="37.75853" lon="-122.46602" stopId="13218"/>
+<stop tag="4856" title="Lawton St &amp; 11th Ave" lat="37.7583999" lon="-122.46793" stopId="14856"/>
+<stop tag="4858" title="Lawton St &amp; Funston Ave" lat="37.7582999" lon="-122.47008" stopId="14858"/>
+<stop tag="4860" title="Lawton St &amp; Lomita Ave" lat="37.7591299" lon="-122.4722699" stopId="14860"/>
+<stop tag="3273" title="16th Ave &amp; Lawton St" lat="37.7592999" lon="-122.4737" stopId="13273"/>
+<stop tag="7231" title="16th Ave &amp; Lawton St." lat="37.75802" lon="-122.4737899" stopId="17231"/>
+<stop tag="3275" title="16th Ave &amp; Lomita Ave" lat="37.75697" lon="-122.47351" stopId="13275"/>
+<stop tag="3277" title="16th Ave &amp; Moraga St" lat="37.7563599" lon="-122.47368" stopId="13277"/>
+<stop tag="5739" title="Noriega St &amp; 16th Ave" lat="37.7552784" lon="-122.4730979" stopId="15739"/>
+<stop tag="3262" title="15th Ave &amp; Noriega St" lat="37.7541099" lon="-122.4721699" stopId="13262"/>
+<stop tag="3263" title="15th Ave &amp; Ortega St" lat="37.75268" lon="-122.47206" stopId="13263"/>
+<stop tag="3264" title="15th Ave &amp; Pacheco St" lat="37.7508099" lon="-122.4719599" stopId="13264"/>
+<stop tag="3265" title="15th Ave &amp; Quintara St" lat="37.7489099" lon="-122.4718299" stopId="13265"/>
+<stop tag="7573" title="Quintara St &amp; 17th Ave" lat="37.7488299" lon="-122.4738" stopId="17573"/>
+<stop tag="6140" title="Quintara St &amp; 19th Ave" lat="37.7487099" lon="-122.47584" stopId="16140"/>
+<stop tag="6142" title="Quintara St &amp; 22nd Ave" lat="37.7485499" lon="-122.47917" stopId="16142"/>
+<stop tag="6144" title="Quintara St &amp; 24th Ave" lat="37.7484599" lon="-122.48131" stopId="16144"/>
+<stop tag="6146" title="Quintara St &amp; 26th Ave" lat="37.7483799" lon="-122.48345" stopId="16146"/>
+<stop tag="6148" title="Quintara St &amp; 27th Ave" lat="37.74832" lon="-122.4845799" stopId="16148"/>
+<stop tag="6150" title="Quintara St &amp; 28th Ave" lat="37.7482699" lon="-122.4856" stopId="16150"/>
+<stop tag="6152" title="Quintara St &amp; 29th Ave" lat="37.7482199" lon="-122.48666" stopId="16152"/>
+<stop tag="3527" title="30th Ave &amp; Quintara St" lat="37.74808" lon="-122.4879299" stopId="13527"/>
+<stop tag="3528" title="30th Ave &amp; Rivera St" lat="37.7463599" lon="-122.4877999" stopId="13528"/>
+<stop tag="3530" title="30th Ave &amp; Santiago St" lat="37.74451" lon="-122.48765" stopId="13530"/>
+<stop tag="3532" title="30th Ave &amp; Taraval St" lat="37.7426499" lon="-122.4875399" stopId="13532"/>
+<stop tag="3534" title="30th Ave &amp; Ulloa St" lat="37.74077" lon="-122.48739" stopId="13534"/>
+<stop tag="36835" title="Vicente St &amp; 30th Ave" lat="37.7387699" lon="-122.48713" stopId="136835"/>
+<stop tag="6835" title="Vicente St &amp; 30th Ave" lat="37.7387699" lon="-122.48713" stopId="16835"/>
+<stop tag="3525" title="29th Ave &amp; Vicente St" lat="37.73896" lon="-122.48611" stopId="13525"/>
+<stop tag="6735" title="Ulloa St &amp; 30th Ave" lat="37.7407199" lon="-122.4872199" stopId="16735"/>
+<stop tag="3533" title="30th Ave &amp; Taraval St" lat="37.7424099" lon="-122.4874299" stopId="13533"/>
+<stop tag="3531" title="30th Ave &amp; Santiago St" lat="37.7442699" lon="-122.4875599" stopId="13531"/>
+<stop tag="3529" title="30th Ave &amp; Rivera St" lat="37.7461599" lon="-122.4876699" stopId="13529"/>
+<stop tag="3526" title="30th Ave &amp; Quintara St" lat="37.74799" lon="-122.4878" stopId="13526"/>
+<stop tag="6153" title="Quintara St &amp; 29th Ave" lat="37.74812" lon="-122.4869199" stopId="16153"/>
+<stop tag="6151" title="Quintara St &amp; 28th Ave" lat="37.7481599" lon="-122.48586" stopId="16151"/>
+<stop tag="6149" title="Quintara St &amp; 27th Ave" lat="37.74822" lon="-122.4847699" stopId="16149"/>
+<stop tag="6147" title="Quintara St &amp; 26th Ave" lat="37.7482799" lon="-122.48347" stopId="16147"/>
+<stop tag="6145" title="Quintara St &amp; 24th Ave" lat="37.74836" lon="-122.4815699" stopId="16145"/>
+<stop tag="6143" title="Quintara St &amp; 22nd Ave" lat="37.74845" lon="-122.4794299" stopId="16143"/>
+<stop tag="6141" title="Quintara St &amp; 19th Ave" lat="37.7485799" lon="-122.47622" stopId="16141"/>
+<stop tag="6139" title="Quintara St &amp; 17th Ave" lat="37.7486699" lon="-122.47408" stopId="16139"/>
+<stop tag="6137" title="Quintara St &amp; 16th Ave" lat="37.7487199" lon="-122.47298" stopId="16137"/>
+<stop tag="3280" title="16th Ave &amp; Pacheco St" lat="37.75054" lon="-122.47295" stopId="13280"/>
+<stop tag="3279" title="16th Ave &amp; Ortega St" lat="37.7523999" lon="-122.4730899" stopId="13279"/>
+<stop tag="3278" title="16th Ave &amp; Noriega St" lat="37.75425" lon="-122.47321" stopId="13278"/>
+<stop tag="3276" title="16th Ave &amp; Moraga St" lat="37.7562999" lon="-122.47361" stopId="13276"/>
+<stop tag="3272" title="16th Ave &amp; Lawton St" lat="37.75811" lon="-122.47367" stopId="13272"/>
+<stop tag="4861" title="Lawton St &amp; Lomita Ave" lat="37.7591599" lon="-122.4726899" stopId="14861"/>
+<stop tag="4859" title="Lawton St &amp; Funston Ave" lat="37.7582" lon="-122.4700299" stopId="14859"/>
+<stop tag="4857" title="Lawton St &amp; 11th Ave" lat="37.75824" lon="-122.4681199" stopId="14857"/>
+<stop tag="4855" title="Lawton St &amp; 9th Ave" lat="37.75839" lon="-122.4660499" stopId="14855"/>
+<stop tag="33215" title="9th Ave &amp; Judah St" lat="37.7620399" lon="-122.46624" stopId="133215"/>
+<direction tag="66_IB1" title="Inbound to Judah &amp; 9th Av." name="Inbound" useForUI="true">
+  <stop tag="6835" />
+  <stop tag="3525" />
+  <stop tag="6735" />
+  <stop tag="3533" />
+  <stop tag="3531" />
+  <stop tag="3529" />
+  <stop tag="3526" />
+  <stop tag="6153" />
+  <stop tag="6151" />
+  <stop tag="6149" />
+  <stop tag="6147" />
+  <stop tag="6145" />
+  <stop tag="6143" />
+  <stop tag="6141" />
+  <stop tag="6139" />
+  <stop tag="6137" />
+  <stop tag="3280" />
+  <stop tag="3279" />
+  <stop tag="3278" />
+  <stop tag="3276" />
+  <stop tag="3272" />
+  <stop tag="4861" />
+  <stop tag="4859" />
+  <stop tag="4857" />
+  <stop tag="4855" />
+  <stop tag="33215" />
+</direction>
+<direction tag="66_OB1" title="Outbound to Vicente &amp; 30th Av." name="Outbound" useForUI="true">
+  <stop tag="3215" />
+  <stop tag="3216" />
+  <stop tag="3218" />
+  <stop tag="4856" />
+  <stop tag="4858" />
+  <stop tag="4860" />
+  <stop tag="3273" />
+  <stop tag="7231" />
+  <stop tag="3275" />
+  <stop tag="3277" />
+  <stop tag="5739" />
+  <stop tag="3262" />
+  <stop tag="3263" />
+  <stop tag="3264" />
+  <stop tag="3265" />
+  <stop tag="7573" />
+  <stop tag="6140" />
+  <stop tag="6142" />
+  <stop tag="6144" />
+  <stop tag="6146" />
+  <stop tag="6148" />
+  <stop tag="6150" />
+  <stop tag="6152" />
+  <stop tag="3527" />
+  <stop tag="3528" />
+  <stop tag="3530" />
+  <stop tag="3532" />
+  <stop tag="3534" />
+  <stop tag="36835" />
+</direction>
+<path>
+<point lat="37.76204" lon="-122.46624"/>
+<point lat="37.76041" lon="-122.46615"/>
+<point lat="37.75853" lon="-122.46602"/>
+<point lat="37.75845" lon="-122.46592"/>
+<point lat="37.7584" lon="-122.46793"/>
+<point lat="37.7583" lon="-122.47008"/>
+<point lat="37.7582499" lon="-122.47056"/>
+<point lat="37.75842" lon="-122.47095"/>
+<point lat="37.75871" lon="-122.47125"/>
+<point lat="37.75894" lon="-122.47166"/>
+<point lat="37.75905" lon="-122.47196"/>
+<point lat="37.75913" lon="-122.47227"/>
+<point lat="37.75933" lon="-122.47349"/>
+<point lat="37.7593" lon="-122.4737"/>
+<point lat="37.75915" lon="-122.47376"/>
+<point lat="37.75802" lon="-122.47379"/>
+<point lat="37.75759" lon="-122.47366"/>
+<point lat="37.75697" lon="-122.47351"/>
+<point lat="37.75685" lon="-122.47344"/>
+<point lat="37.75636" lon="-122.47368"/>
+<point lat="37.75624" lon="-122.47368"/>
+<point lat="37.75555" lon="-122.47334"/>
+<point lat="37.75528" lon="-122.4731"/>
+<point lat="37.75477" lon="-122.47242"/>
+<point lat="37.75439" lon="-122.47212"/>
+<point lat="37.75411" lon="-122.47217"/>
+<point lat="37.75268" lon="-122.47206"/>
+<point lat="37.7513099" lon="-122.47192"/>
+<point lat="37.75106" lon="-122.47194"/>
+<point lat="37.75081" lon="-122.47196"/>
+<point lat="37.74891" lon="-122.47183"/>
+<point lat="37.74884" lon="-122.47175"/>
+<point lat="37.74883" lon="-122.4738"/>
+<point lat="37.74871" lon="-122.47584"/>
+<point lat="37.74855" lon="-122.47917"/>
+<point lat="37.74846" lon="-122.48131"/>
+<point lat="37.74838" lon="-122.48345"/>
+<point lat="37.74832" lon="-122.48458"/>
+<point lat="37.74827" lon="-122.4856"/>
+<point lat="37.74822" lon="-122.48666"/>
+<point lat="37.74813" lon="-122.48787"/>
+<point lat="37.74808" lon="-122.48793"/>
+<point lat="37.74636" lon="-122.4878"/>
+<point lat="37.74451" lon="-122.48765"/>
+<point lat="37.74265" lon="-122.48754"/>
+<point lat="37.74077" lon="-122.48739"/>
+<point lat="37.73877" lon="-122.48713"/>
+</path>
+<path>
+<point lat="37.73877" lon="-122.48713"/>
+<point lat="37.73885" lon="-122.48614"/>
+<point lat="37.73896" lon="-122.48611"/>
+<point lat="37.74071" lon="-122.48628"/>
+<point lat="37.74072" lon="-122.48722"/>
+<point lat="37.74066" lon="-122.48735"/>
+<point lat="37.74241" lon="-122.48743"/>
+<point lat="37.74427" lon="-122.48756"/>
+<point lat="37.74616" lon="-122.48767"/>
+<point lat="37.74799" lon="-122.4878"/>
+<point lat="37.74813" lon="-122.48787"/>
+<point lat="37.74812" lon="-122.48692"/>
+<point lat="37.74816" lon="-122.48586"/>
+<point lat="37.74822" lon="-122.48477"/>
+<point lat="37.74828" lon="-122.48347"/>
+<point lat="37.74836" lon="-122.48157"/>
+<point lat="37.74845" lon="-122.47943"/>
+<point lat="37.7485799" lon="-122.47622"/>
+<point lat="37.74867" lon="-122.47408"/>
+<point lat="37.74872" lon="-122.47298"/>
+<point lat="37.74879" lon="-122.47287"/>
+<point lat="37.75054" lon="-122.47295"/>
+<point lat="37.7524" lon="-122.47309"/>
+<point lat="37.75425" lon="-122.47321"/>
+<point lat="37.75555" lon="-122.47334"/>
+<point lat="37.75624" lon="-122.47368"/>
+<point lat="37.7563" lon="-122.47361"/>
+<point lat="37.75685" lon="-122.47344"/>
+<point lat="37.75759" lon="-122.47366"/>
+<point lat="37.75811" lon="-122.47367"/>
+<point lat="37.75908" lon="-122.47376"/>
+<point lat="37.75929" lon="-122.47365"/>
+<point lat="37.75916" lon="-122.47269"/>
+<point lat="37.75905" lon="-122.47196"/>
+<point lat="37.75894" lon="-122.47166"/>
+<point lat="37.75871" lon="-122.47125"/>
+<point lat="37.75842" lon="-122.47095"/>
+<point lat="37.7582499" lon="-122.47056"/>
+<point lat="37.7582" lon="-122.47003"/>
+<point lat="37.75824" lon="-122.46812"/>
+<point lat="37.75839" lon="-122.46605"/>
+<point lat="37.75849" lon="-122.46485"/>
+<point lat="37.76222" lon="-122.46511"/>
+<point lat="37.76204" lon="-122.46624"/>
+</path>
+</route>
+</body>

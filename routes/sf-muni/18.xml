@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="18" title="18-46th Avenue" color="996699" oppositeColor="000000" latMin="37.70913" latMax="37.7850199" lonMin="-122.51079" lonMax="-122.47505">
+<stop tag="4873" title="Legion Of Honor" lat="37.7850199" lon="-122.49959" stopId="14873"/>
+<stop tag="4874" title="Legion Of Honor" lat="37.78498" lon="-122.4996899" stopId="14874"/>
+<stop tag="5261" title="Legion Of Honor Dr &amp; Clement St" lat="37.78165" lon="-122.49461" stopId="15261"/>
+<stop tag="3556" title="33rd Ave &amp; Clement St" lat="37.7814999" lon="-122.4935099" stopId="13556"/>
+<stop tag="3558" title="33rd Ave &amp; Geary Blvd" lat="37.7798199" lon="-122.49339" stopId="13558"/>
+<stop tag="3551" title="33rd Ave &amp; Anza St" lat="37.77786" lon="-122.49325" stopId="13551"/>
+<stop tag="3554" title="33rd Ave &amp; Balboa St" lat="37.7759999" lon="-122.4931299" stopId="13554"/>
+<stop tag="3060" title="Balboa St &amp; 35th Ave" lat="37.7758999" lon="-122.49458" stopId="13060"/>
+<stop tag="3061" title="Balboa St &amp; 37th Ave" lat="37.77578" lon="-122.4971999" stopId="13061"/>
+<stop tag="3063" title="Balboa St &amp; 40th Ave" lat="37.7756399" lon="-122.5004" stopId="13063"/>
+<stop tag="3065" title="Balboa St &amp; 43rd Ave" lat="37.77548" lon="-122.5036199" stopId="13065"/>
+<stop tag="3571" title="45th Ave &amp; Balboa St" lat="37.7752099" lon="-122.5059599" stopId="13571"/>
+<stop tag="3573" title="45th Ave &amp; Cabrillo St" lat="37.77354" lon="-122.50583" stopId="13573"/>
+<stop tag="3924" title="Cabrillo St &amp; 47th Ave" lat="37.7734199" lon="-122.50777" stopId="13924"/>
+<stop tag="4843" title="La Playa St &amp; Cabrillo St" lat="37.7732099" lon="-122.51006" stopId="14843"/>
+<stop tag="4227" title="Fulton St &amp; Great Hwy" lat="37.7714199" lon="-122.51079" stopId="14227"/>
+<stop tag="4780" title="Great Hwy &amp; Ocean Beach" lat="37.76737" lon="-122.51046" stopId="14780"/>
+<stop tag="5329" title="Lincoln Way &amp; La Playa St" lat="37.76393" lon="-122.50957" stopId="15329"/>
+<stop tag="3583" title="46th Ave &amp; Lincoln Way" lat="37.76405" lon="-122.5062699" stopId="13583"/>
+<stop tag="3574" title="46th Ave &amp; Irving St" lat="37.7623799" lon="-122.5061399" stopId="13574"/>
+<stop tag="3576" title="46th Ave &amp; Judah St" lat="37.7605199" lon="-122.50601" stopId="13576"/>
+<stop tag="3578" title="46th Ave &amp; Kirkham St" lat="37.7586599" lon="-122.5058899" stopId="13578"/>
+<stop tag="3580" title="46th Ave &amp; Lawton St" lat="37.7567799" lon="-122.5057499" stopId="13580"/>
+<stop tag="3584" title="46th Ave &amp; Moraga St" lat="37.7549299" lon="-122.5056199" stopId="13584"/>
+<stop tag="3587" title="46th Ave &amp; Noriega St" lat="37.7528399" lon="-122.5054799" stopId="13587"/>
+<stop tag="3588" title="46th Ave &amp; Ortega St" lat="37.75119" lon="-122.50537" stopId="13588"/>
+<stop tag="3590" title="46th Ave &amp; Pacheco St" lat="37.7493299" lon="-122.5052399" stopId="13590"/>
+<stop tag="3592" title="46th Ave &amp; Quintara St" lat="37.7474599" lon="-122.5050999" stopId="13592"/>
+<stop tag="3594" title="46th Ave &amp; Rivera St" lat="37.7455899" lon="-122.5049699" stopId="13594"/>
+<stop tag="3596" title="46th Ave &amp; Santiago St" lat="37.74374" lon="-122.50483" stopId="13596"/>
+<stop tag="3598" title="46th Ave &amp; Taraval St" lat="37.7418499" lon="-122.5047099" stopId="13598"/>
+<stop tag="3600" title="46th Ave &amp; Ulloa St" lat="37.7399999" lon="-122.5045799" stopId="13600"/>
+<stop tag="3602" title="46th Ave &amp; Vicente St" lat="37.73814" lon="-122.50444" stopId="13602"/>
+<stop tag="6836" title="Vicente St &amp; 47th Ave" lat="37.7380799" lon="-122.5053099" stopId="16836"/>
+<stop tag="3606" title="47th Ave &amp; Wawona St" lat="37.7360199" lon="-122.50537" stopId="13606"/>
+<stop tag="7208" title="Sloat Blvd &amp; 47th Ave" lat="37.73539" lon="-122.50493" stopId="17208"/>
+<stop tag="6451" title="Sloat Blvd &amp; 45th Ave" lat="37.73537" lon="-122.50278" stopId="16451"/>
+<stop tag="6449" title="Sloat Blvd &amp; 43rd Ave" lat="37.73501" lon="-122.50075" stopId="16449"/>
+<stop tag="6447" title="Sloat Blvd &amp; 41st Ave" lat="37.73413" lon="-122.49896" stopId="16447"/>
+<stop tag="6434" title="Skyline Blvd &amp; Sloat Blvd" lat="37.7336" lon="-122.4968399" stopId="16434"/>
+<stop tag="7624" title="Herbst Rd &amp; Amory Rd" lat="37.73067" lon="-122.5016999" stopId="17624"/>
+<stop tag="6430" title="Skyline Blvd &amp; Harding Rd" lat="37.72676" lon="-122.5025299" stopId="16430"/>
+<stop tag="5132" title="John Muir Dr &amp; Skyline Blvd" lat="37.7187399" lon="-122.4999099" stopId="15132"/>
+<stop tag="5130" title="655 John Muir Ave" lat="37.7167699" lon="-122.49766" stopId="15130"/>
+<stop tag="5126" title="515 John Muir Dr" lat="37.7160699" lon="-122.4953899" stopId="15126"/>
+<stop tag="4828" title="1100 Lake Merced Blvd" lat="37.70913" lon="-122.48498" stopId="14828"/>
+<stop tag="4836" title="Lake Merced &amp; Lake Merced Hills" lat="37.71153" lon="-122.4852699" stopId="14836"/>
+<stop tag="4830" title="Lake Merced &amp; Brotherhood Wy" lat="37.71457" lon="-122.4851499" stopId="14830"/>
+<stop tag="4834" title="Lake Merced &amp; Higuera Ave" lat="37.7187" lon="-122.485" stopId="14834"/>
+<stop tag="4833" title="Lake Merced &amp; Font Blvd" lat="37.72423" lon="-122.4848899" stopId="14833"/>
+<stop tag="6955" title="Winston Dr &amp; Lake Merced Blvd" lat="37.72698" lon="-122.4833099" stopId="16955"/>
+<stop tag="6953" title="Winston Dr &amp; Buckingham Way" lat="37.728" lon="-122.47867" stopId="16953"/>
+<stop tag="6951" title="Winston Dr &amp; 20th Ave" lat="37.72688" lon="-122.47574" stopId="16951"/>
+<stop tag="33352" title="19th Ave &amp; Buckingham Way" lat="37.7257899" lon="-122.47505" stopId="133352"/>
+<stop tag="3352" title="19th Ave &amp; Buckingham Way" lat="37.7257899" lon="-122.47505" stopId="13352"/>
+<stop tag="3408" title="20th Ave &amp; Winston Dr" lat="37.7268699" lon="-122.47594" stopId="13408"/>
+<stop tag="6952" title="Winston Dr &amp; Buckingham Way" lat="37.72806" lon="-122.47849" stopId="16952"/>
+<stop tag="6954" title="Winston Dr &amp; Lake Merced Blvd" lat="37.7271199" lon="-122.4833" stopId="16954"/>
+<stop tag="4840" title="Lake Merced &amp; State Dr-Sfsu" lat="37.7260599" lon="-122.48434" stopId="14840"/>
+<stop tag="7237" title="Lake Merced &amp; Font St" lat="37.72412" lon="-122.4851599" stopId="17237"/>
+<stop tag="4835" title="Lake Merced &amp; Higuera Ave" lat="37.71842" lon="-122.4852099" stopId="14835"/>
+<stop tag="4831" title="Lake Merced &amp; Brotherhood Wy" lat="37.7148699" lon="-122.48535" stopId="14831"/>
+<stop tag="4837" title="Lake Merced &amp; Lake Merced Hill" lat="37.7111999" lon="-122.4855099" stopId="14837"/>
+<stop tag="4829" title="1100 Lake Merced Blvd" lat="37.70931" lon="-122.48529" stopId="14829"/>
+<stop tag="5125" title="515 John Muir Dr" lat="37.71624" lon="-122.49534" stopId="15125"/>
+<stop tag="5129" title="655 John Muir Dr" lat="37.7170099" lon="-122.49777" stopId="15129"/>
+<stop tag="5131" title="John Muir Dr &amp; Skyline Blvd" lat="37.7189999" lon="-122.50003" stopId="15131"/>
+<stop tag="6431" title="Skyline Blvd &amp; Harding Rd" lat="37.72639" lon="-122.5024499" stopId="16431"/>
+<stop tag="6429" title="Skyline Blvd &amp; Herbst Rd" lat="37.72822" lon="-122.5016899" stopId="16429"/>
+<stop tag="6432" title="Skyline Blvd &amp; Lake Merced Blvd" lat="37.73115" lon="-122.49922" stopId="16432"/>
+<stop tag="6433" title="Skyline Blvd &amp; Sloat Blvd" lat="37.73354" lon="-122.49664" stopId="16433"/>
+<stop tag="6446" title="Sloat Blvd &amp; 41st Ave" lat="37.7345699" lon="-122.4992899" stopId="16446"/>
+<stop tag="6448" title="Sloat Blvd &amp; 43rd Ave" lat="37.7353899" lon="-122.5013399" stopId="16448"/>
+<stop tag="6450" title="Sloat Blvd &amp; 45th Ave" lat="37.7355999" lon="-122.5034099" stopId="16450"/>
+<stop tag="3604" title="46th Ave &amp; Wawona St" lat="37.7361099" lon="-122.50414" stopId="13604"/>
+<stop tag="3603" title="46th Ave &amp; Vicente St" lat="37.7379699" lon="-122.5042699" stopId="13603"/>
+<stop tag="3601" title="46th Ave &amp; Ulloa St" lat="37.7398299" lon="-122.5044099" stopId="13601"/>
+<stop tag="3599" title="46th Ave &amp; Taraval St" lat="37.7416899" lon="-122.5045299" stopId="13599"/>
+<stop tag="3597" title="46th Ave &amp; Santiago St" lat="37.7435699" lon="-122.5046599" stopId="13597"/>
+<stop tag="3595" title="46th Ave &amp; Rivera St" lat="37.7454199" lon="-122.5047999" stopId="13595"/>
+<stop tag="3593" title="46th Ave &amp; Quintara St" lat="37.74729" lon="-122.50493" stopId="13593"/>
+<stop tag="3591" title="46th Ave &amp; Pacheco St" lat="37.74916" lon="-122.50507" stopId="13591"/>
+<stop tag="3589" title="46th Ave &amp; Ortega St" lat="37.7510199" lon="-122.5051899" stopId="13589"/>
+<stop tag="3586" title="46th Ave &amp; Noriega St" lat="37.75283" lon="-122.50532" stopId="13586"/>
+<stop tag="3585" title="46th Ave &amp; Moraga St" lat="37.75476" lon="-122.50545" stopId="13585"/>
+<stop tag="3581" title="46th Ave &amp; Lawton St" lat="37.75661" lon="-122.50558" stopId="13581"/>
+<stop tag="3579" title="46th Ave &amp; Kirkham St" lat="37.75849" lon="-122.50572" stopId="13579"/>
+<stop tag="3577" title="46th Ave &amp; Judah St" lat="37.7603499" lon="-122.50584" stopId="13577"/>
+<stop tag="3575" title="46th Ave &amp; Irving St" lat="37.7622099" lon="-122.5059699" stopId="13575"/>
+<stop tag="3582" title="46th Ave &amp; Lincoln Way" lat="37.76404" lon="-122.50611" stopId="13582"/>
+<stop tag="5324" title="Lincoln Way &amp; 47th Ave" lat="37.7641899" lon="-122.5074" stopId="15324"/>
+<stop tag="5328" title="Lincoln Way &amp; Great Hwy" lat="37.76413" lon="-122.5100499" stopId="15328"/>
+<stop tag="4779" title="Great Hwy &amp; Ocean Beach" lat="37.76788" lon="-122.51028" stopId="14779"/>
+<stop tag="4844" title="La Playa St &amp; Fulton St" lat="37.77169" lon="-122.50984" stopId="14844"/>
+<stop tag="7204" title="Cabrillo St &amp; La Playa St" lat="37.7732099" lon="-122.50988" stopId="17204"/>
+<stop tag="3925" title="Cabrillo St &amp; 47th Ave" lat="37.77329" lon="-122.5079799" stopId="13925"/>
+<stop tag="3572" title="45th Ave &amp; Cabrillo St" lat="37.77357" lon="-122.50567" stopId="13572"/>
+<stop tag="3570" title="45th Ave &amp; Balboa St" lat="37.7752399" lon="-122.5057999" stopId="13570"/>
+<stop tag="3066" title="Balboa St &amp; 43rd Ave" lat="37.77535" lon="-122.5038399" stopId="13066"/>
+<stop tag="3064" title="Balboa St &amp; 40th Ave" lat="37.7754999" lon="-122.50062" stopId="13064"/>
+<stop tag="3062" title="Balboa St &amp; 37th Ave" lat="37.7756499" lon="-122.49742" stopId="13062"/>
+<stop tag="3059" title="Balboa St &amp; 34th Ave" lat="37.7757899" lon="-122.4942" stopId="13059"/>
+<stop tag="3553" title="33rd Ave &amp; Balboa St" lat="37.77603" lon="-122.49297" stopId="13553"/>
+<stop tag="3552" title="33rd Ave &amp; Anza St" lat="37.77769" lon="-122.49308" stopId="13552"/>
+<stop tag="3559" title="33rd Ave &amp; Geary Blvd" lat="37.7795499" lon="-122.49321" stopId="13559"/>
+<stop tag="3555" title="33rd Ave &amp; Clement St" lat="37.7815399" lon="-122.4933499" stopId="13555"/>
+<stop tag="4069" title="Clement St &amp; Legion Of Honor Dr" lat="37.7816399" lon="-122.4943999" stopId="14069"/>
+<stop tag="34873" title="Legion Of Honor" lat="37.7850199" lon="-122.49959" stopId="134873"/>
+<direction tag="18_OB2" title="Outbound to Stonestown" name="Outbound" useForUI="true">
+  <stop tag="4873" />
+  <stop tag="4874" />
+  <stop tag="5261" />
+  <stop tag="3556" />
+  <stop tag="3558" />
+  <stop tag="3551" />
+  <stop tag="3554" />
+  <stop tag="3060" />
+  <stop tag="3061" />
+  <stop tag="3063" />
+  <stop tag="3065" />
+  <stop tag="3571" />
+  <stop tag="3573" />
+  <stop tag="3924" />
+  <stop tag="4843" />
+  <stop tag="4227" />
+  <stop tag="4780" />
+  <stop tag="5329" />
+  <stop tag="3583" />
+  <stop tag="3574" />
+  <stop tag="3576" />
+  <stop tag="3578" />
+  <stop tag="3580" />
+  <stop tag="3584" />
+  <stop tag="3587" />
+  <stop tag="3588" />
+  <stop tag="3590" />
+  <stop tag="3592" />
+  <stop tag="3594" />
+  <stop tag="3596" />
+  <stop tag="3598" />
+  <stop tag="3600" />
+  <stop tag="3602" />
+  <stop tag="6836" />
+  <stop tag="3606" />
+  <stop tag="7208" />
+  <stop tag="6451" />
+  <stop tag="6449" />
+  <stop tag="6447" />
+  <stop tag="6434" />
+  <stop tag="7624" />
+  <stop tag="6430" />
+  <stop tag="5132" />
+  <stop tag="5130" />
+  <stop tag="5126" />
+  <stop tag="4828" />
+  <stop tag="4836" />
+  <stop tag="4830" />
+  <stop tag="4834" />
+  <stop tag="4833" />
+  <stop tag="6955" />
+  <stop tag="6953" />
+  <stop tag="6951" />
+  <stop tag="33352" />
+</direction>
+<direction tag="18_IB2" title="Inbound to the Richmond District" name="Inbound" useForUI="true">
+  <stop tag="3352" />
+  <stop tag="3408" />
+  <stop tag="6952" />
+  <stop tag="6954" />
+  <stop tag="4840" />
+  <stop tag="7237" />
+  <stop tag="4835" />
+  <stop tag="4831" />
+  <stop tag="4837" />
+  <stop tag="4829" />
+  <stop tag="5125" />
+  <stop tag="5129" />
+  <stop tag="5131" />
+  <stop tag="6431" />
+  <stop tag="6429" />
+  <stop tag="6432" />
+  <stop tag="6433" />
+  <stop tag="6446" />
+  <stop tag="6448" />
+  <stop tag="6450" />
+  <stop tag="3604" />
+  <stop tag="3603" />
+  <stop tag="3601" />
+  <stop tag="3599" />
+  <stop tag="3597" />
+  <stop tag="3595" />
+  <stop tag="3593" />
+  <stop tag="3591" />
+  <stop tag="3589" />
+  <stop tag="3586" />
+  <stop tag="3585" />
+  <stop tag="3581" />
+  <stop tag="3579" />
+  <stop tag="3577" />
+  <stop tag="3575" />
+  <stop tag="3582" />
+  <stop tag="5324" />
+  <stop tag="5328" />
+  <stop tag="4779" />
+  <stop tag="4844" />
+  <stop tag="7204" />
+  <stop tag="3925" />
+  <stop tag="3572" />
+  <stop tag="3570" />
+  <stop tag="3066" />
+  <stop tag="3064" />
+  <stop tag="3062" />
+  <stop tag="3059" />
+  <stop tag="3553" />
+  <stop tag="3552" />
+  <stop tag="3559" />
+  <stop tag="3555" />
+  <stop tag="4069" />
+  <stop tag="34873" />
+</direction>
+<path>
+<point lat="37.78502" lon="-122.49959"/>
+<point lat="37.78498" lon="-122.49969"/>
+<point lat="37.78482" lon="-122.49952"/>
+<point lat="37.78447" lon="-122.49932"/>
+<point lat="37.78402" lon="-122.49891"/>
+<point lat="37.78334" lon="-122.49783"/>
+<point lat="37.7831" lon="-122.49718"/>
+<point lat="37.78298" lon="-122.49663"/>
+<point lat="37.78266" lon="-122.49563"/>
+<point lat="37.78221" lon="-122.49487"/>
+<point lat="37.78203" lon="-122.49467"/>
+<point lat="37.78165" lon="-122.49461"/>
+<point lat="37.78158" lon="-122.49452"/>
+<point lat="37.78163" lon="-122.49345"/>
+<point lat="37.7815" lon="-122.49351"/>
+<point lat="37.77982" lon="-122.49339"/>
+</path>
+<path>
+<point lat="37.71701" lon="-122.49777"/>
+<point lat="37.71716" lon="-122.4984"/>
+<point lat="37.71801" lon="-122.49932"/>
+<point lat="37.71878" lon="-122.49986"/>
+<point lat="37.719" lon="-122.50003"/>
+<point lat="37.71896" lon="-122.50021"/>
+<point lat="37.72012" lon="-122.50029"/>
+<point lat="37.7206" lon="-122.50046"/>
+<point lat="37.72334" lon="-122.5026"/>
+<point lat="37.7238" lon="-122.50284"/>
+<point lat="37.72472" lon="-122.50302"/>
+<point lat="37.72526" lon="-122.50303"/>
+<point lat="37.72639" lon="-122.50245"/>
+<point lat="37.72822" lon="-122.50169"/>
+<point lat="37.7288799" lon="-122.50149"/>
+<point lat="37.72969" lon="-122.50089"/>
+<point lat="37.7312" lon="-122.49934"/>
+<point lat="37.73115" lon="-122.49922"/>
+<point lat="37.73158" lon="-122.49905"/>
+<point lat="37.73227" lon="-122.4981"/>
+<point lat="37.73302" lon="-122.49745"/>
+<point lat="37.73359" lon="-122.49675"/>
+<point lat="37.73354" lon="-122.49664"/>
+<point lat="37.73382" lon="-122.49722"/>
+<point lat="37.73418" lon="-122.49887"/>
+<point lat="37.7343199" lon="-122.49919"/>
+<point lat="37.73457" lon="-122.49929"/>
+<point lat="37.73448" lon="-122.49942"/>
+<point lat="37.73516" lon="-122.50089"/>
+<point lat="37.73539" lon="-122.50134"/>
+<point lat="37.7354" lon="-122.50201"/>
+<point lat="37.7356" lon="-122.50341"/>
+<point lat="37.73548" lon="-122.50419"/>
+<point lat="37.7361099" lon="-122.50414"/>
+</path>
+<path>
+<point lat="37.72579" lon="-122.47505"/>
+<point lat="37.7257" lon="-122.47549"/>
+<point lat="37.7254999" lon="-122.47581"/>
+<point lat="37.72571" lon="-122.47599"/>
+<point lat="37.72596" lon="-122.47608"/>
+<point lat="37.72687" lon="-122.47594"/>
+<point lat="37.72695" lon="-122.47604"/>
+<point lat="37.72701" lon="-122.4778"/>
+<point lat="37.72711" lon="-122.47824"/>
+<point lat="37.72742" lon="-122.47853"/>
+<point lat="37.72765" lon="-122.47858"/>
+<point lat="37.72806" lon="-122.47849"/>
+<point lat="37.7281" lon="-122.47859"/>
+<point lat="37.72835" lon="-122.47882"/>
+<point lat="37.72854" lon="-122.47928"/>
+<point lat="37.72854" lon="-122.47978"/>
+<point lat="37.72843" lon="-122.48009"/>
+<point lat="37.72734" lon="-122.48148"/>
+<point lat="37.72711" lon="-122.48192"/>
+<point lat="37.72712" lon="-122.4833"/>
+<point lat="37.72702" lon="-122.48386"/>
+<point lat="37.72668" lon="-122.48392"/>
+<point lat="37.7260599" lon="-122.48434"/>
+<point lat="37.72412" lon="-122.48516"/>
+<point lat="37.72401" lon="-122.48507"/>
+<point lat="37.71842" lon="-122.48521"/>
+<point lat="37.71487" lon="-122.48535"/>
+<point lat="37.7112" lon="-122.48551"/>
+<point lat="37.71058" lon="-122.48541"/>
+<point lat="37.70931" lon="-122.48529"/>
+<point lat="37.70924" lon="-122.48513"/>
+<point lat="37.70885" lon="-122.48522"/>
+<point lat="37.70839" lon="-122.48556"/>
+<point lat="37.70809" lon="-122.48572"/>
+<point lat="37.70892" lon="-122.48734"/>
+<point lat="37.70943" lon="-122.4878"/>
+<point lat="37.71169" lon="-122.4889"/>
+<point lat="37.71207" lon="-122.48929"/>
+<point lat="37.7133899" lon="-122.49125"/>
+<point lat="37.71448" lon="-122.49208"/>
+<point lat="37.71524" lon="-122.49296"/>
+<point lat="37.7157399" lon="-122.49406"/>
+<point lat="37.71624" lon="-122.49534"/>
+<point lat="37.71673" lon="-122.49739"/>
+<point lat="37.71701" lon="-122.49777"/>
+</path>
+<path>
+<point lat="37.77321" lon="-122.51006"/>
+<point lat="37.7713899" lon="-122.50989"/>
+<point lat="37.77142" lon="-122.51079"/>
+<point lat="37.77134" lon="-122.51104"/>
+<point lat="37.76737" lon="-122.51046"/>
+<point lat="37.76544" lon="-122.51024"/>
+<point lat="37.76401" lon="-122.51034"/>
+<point lat="37.76393" lon="-122.50957"/>
+<point lat="37.76417" lon="-122.50619"/>
+<point lat="37.76405" lon="-122.50627"/>
+<point lat="37.76238" lon="-122.50614"/>
+<point lat="37.76052" lon="-122.50601"/>
+</path>
+<path>
+<point lat="37.73602" lon="-122.50537"/>
+<point lat="37.73547" lon="-122.50525"/>
+<point lat="37.73539" lon="-122.50493"/>
+<point lat="37.73537" lon="-122.50278"/>
+<point lat="37.7354" lon="-122.50201"/>
+<point lat="37.73521" lon="-122.50109"/>
+<point lat="37.73501" lon="-122.50075"/>
+<point lat="37.73448" lon="-122.49942"/>
+<point lat="37.7343199" lon="-122.49919"/>
+<point lat="37.73413" lon="-122.49896"/>
+<point lat="37.73418" lon="-122.49887"/>
+<point lat="37.73387" lon="-122.49768"/>
+<point lat="37.73378" lon="-122.49681"/>
+<point lat="37.7336" lon="-122.49684"/>
+<point lat="37.73227" lon="-122.4981"/>
+<point lat="37.73158" lon="-122.49905"/>
+<point lat="37.73144" lon="-122.49953"/>
+<point lat="37.73067" lon="-122.5017"/>
+<point lat="37.73021" lon="-122.50261"/>
+<point lat="37.72951" lon="-122.50211"/>
+<point lat="37.7284" lon="-122.50176"/>
+<point lat="37.72676" lon="-122.50253"/>
+<point lat="37.72526" lon="-122.50303"/>
+<point lat="37.7238" lon="-122.50284"/>
+<point lat="37.72293" lon="-122.50232"/>
+<point lat="37.7209" lon="-122.50062"/>
+<point lat="37.7206" lon="-122.50046"/>
+<point lat="37.72012" lon="-122.50029"/>
+<point lat="37.71917" lon="-122.50021"/>
+<point lat="37.7187399" lon="-122.49991"/>
+<point lat="37.71801" lon="-122.49932"/>
+<point lat="37.71716" lon="-122.4984"/>
+<point lat="37.7167699" lon="-122.49766"/>
+</path>
+<path>
+<point lat="37.7361099" lon="-122.50414"/>
+<point lat="37.73797" lon="-122.50427"/>
+<point lat="37.73983" lon="-122.50441"/>
+<point lat="37.74169" lon="-122.50453"/>
+<point lat="37.74357" lon="-122.50466"/>
+<point lat="37.74542" lon="-122.5048"/>
+<point lat="37.74729" lon="-122.50493"/>
+<point lat="37.74916" lon="-122.50507"/>
+<point lat="37.7510199" lon="-122.50519"/>
+<point lat="37.75283" lon="-122.50532"/>
+<point lat="37.75476" lon="-122.50545"/>
+<point lat="37.75661" lon="-122.50558"/>
+<point lat="37.75849" lon="-122.50572"/>
+<point lat="37.76035" lon="-122.50584"/>
+</path>
+<path>
+<point lat="37.77321" lon="-122.50988"/>
+<point lat="37.77329" lon="-122.50798"/>
+<point lat="37.77346" lon="-122.50575"/>
+<point lat="37.77357" lon="-122.50567"/>
+<point lat="37.7752399" lon="-122.5058"/>
+<point lat="37.77532" lon="-122.50588"/>
+<point lat="37.77535" lon="-122.50384"/>
+<point lat="37.7755" lon="-122.50062"/>
+<point lat="37.77565" lon="-122.49742"/>
+<point lat="37.77579" lon="-122.4942"/>
+<point lat="37.77591" lon="-122.49304"/>
+<point lat="37.77603" lon="-122.49297"/>
+<point lat="37.77769" lon="-122.49308"/>
+<point lat="37.77955" lon="-122.49321"/>
+</path>
+<path>
+<point lat="37.76052" lon="-122.50601"/>
+<point lat="37.75866" lon="-122.50589"/>
+<point lat="37.75678" lon="-122.50575"/>
+<point lat="37.75493" lon="-122.50562"/>
+<point lat="37.75284" lon="-122.50548"/>
+<point lat="37.75119" lon="-122.50537"/>
+<point lat="37.74933" lon="-122.50524"/>
+<point lat="37.7474599" lon="-122.5051"/>
+<point lat="37.74559" lon="-122.50497"/>
+<point lat="37.74374" lon="-122.50483"/>
+<point lat="37.74185" lon="-122.50471"/>
+<point lat="37.74" lon="-122.50458"/>
+<point lat="37.73814" lon="-122.50444"/>
+<point lat="37.73805" lon="-122.50435"/>
+<point lat="37.7380799" lon="-122.50531"/>
+<point lat="37.73801" lon="-122.50542"/>
+<point lat="37.73602" lon="-122.50537"/>
+</path>
+<path>
+<point lat="37.77955" lon="-122.49321"/>
+<point lat="37.78154" lon="-122.49335"/>
+<point lat="37.78163" lon="-122.49345"/>
+<point lat="37.78164" lon="-122.4944"/>
+<point lat="37.78158" lon="-122.49452"/>
+<point lat="37.78187" lon="-122.49458"/>
+<point lat="37.78221" lon="-122.49487"/>
+<point lat="37.78266" lon="-122.49563"/>
+<point lat="37.78306" lon="-122.49704"/>
+<point lat="37.78334" lon="-122.49783"/>
+<point lat="37.78346" lon="-122.49808"/>
+<point lat="37.78402" lon="-122.49891"/>
+<point lat="37.78431" lon="-122.4992"/>
+<point lat="37.78502" lon="-122.49959"/>
+</path>
+<path>
+<point lat="37.7167699" lon="-122.49766"/>
+<point lat="37.71673" lon="-122.49739"/>
+<point lat="37.71607" lon="-122.49539"/>
+<point lat="37.7157399" lon="-122.49406"/>
+<point lat="37.71524" lon="-122.49296"/>
+<point lat="37.71448" lon="-122.49208"/>
+<point lat="37.7133899" lon="-122.49125"/>
+<point lat="37.71207" lon="-122.48929"/>
+<point lat="37.71169" lon="-122.4889"/>
+<point lat="37.70943" lon="-122.4878"/>
+<point lat="37.70892" lon="-122.48734"/>
+<point lat="37.70809" lon="-122.48572"/>
+<point lat="37.70839" lon="-122.48556"/>
+<point lat="37.70885" lon="-122.48522"/>
+<point lat="37.70913" lon="-122.48498"/>
+<point lat="37.70924" lon="-122.48513"/>
+<point lat="37.71058" lon="-122.48541"/>
+<point lat="37.71153" lon="-122.48527"/>
+<point lat="37.71457" lon="-122.48515"/>
+<point lat="37.7187" lon="-122.485"/>
+<point lat="37.72401" lon="-122.48507"/>
+<point lat="37.72423" lon="-122.48489"/>
+<point lat="37.72668" lon="-122.48392"/>
+<point lat="37.72702" lon="-122.48386"/>
+<point lat="37.72698" lon="-122.48331"/>
+<point lat="37.72711" lon="-122.48192"/>
+<point lat="37.72734" lon="-122.48148"/>
+<point lat="37.72834" lon="-122.48025"/>
+<point lat="37.72849" lon="-122.47997"/>
+<point lat="37.72856" lon="-122.47955"/>
+<point lat="37.72844" lon="-122.47899"/>
+<point lat="37.72821" lon="-122.47869"/>
+<point lat="37.728" lon="-122.47867"/>
+<point lat="37.72742" lon="-122.47853"/>
+<point lat="37.72711" lon="-122.47824"/>
+<point lat="37.72701" lon="-122.4778"/>
+<point lat="37.72688" lon="-122.47574"/>
+<point lat="37.72693" lon="-122.47518"/>
+<point lat="37.72579" lon="-122.47505"/>
+</path>
+<path>
+<point lat="37.77982" lon="-122.49339"/>
+<point lat="37.7778599" lon="-122.49325"/>
+<point lat="37.776" lon="-122.49313"/>
+<point lat="37.77591" lon="-122.49304"/>
+<point lat="37.7759" lon="-122.49458"/>
+<point lat="37.77578" lon="-122.4972"/>
+<point lat="37.77564" lon="-122.5004"/>
+<point lat="37.77548" lon="-122.50362"/>
+<point lat="37.77532" lon="-122.50588"/>
+<point lat="37.77521" lon="-122.50596"/>
+<point lat="37.7735399" lon="-122.50583"/>
+<point lat="37.77346" lon="-122.50575"/>
+<point lat="37.77342" lon="-122.50777"/>
+<point lat="37.77325" lon="-122.51002"/>
+<point lat="37.77321" lon="-122.51006"/>
+</path>
+<path>
+<point lat="37.76035" lon="-122.50584"/>
+<point lat="37.76221" lon="-122.50597"/>
+<point lat="37.76404" lon="-122.50611"/>
+<point lat="37.76417" lon="-122.50619"/>
+<point lat="37.76419" lon="-122.5074"/>
+<point lat="37.76413" lon="-122.51005"/>
+<point lat="37.76401" lon="-122.51034"/>
+<point lat="37.76788" lon="-122.51028"/>
+<point lat="37.77113" lon="-122.51104"/>
+<point lat="37.7713899" lon="-122.50989"/>
+<point lat="37.77169" lon="-122.50984"/>
+<point lat="37.77325" lon="-122.51002"/>
+<point lat="37.77321" lon="-122.50988"/>
+</path>
+</route>
+</body>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="81X" title="81X-Caltrain Express" color="cc0033" oppositeColor="ffffff" latMin="37.7768899" latMax="37.79175" lonMin="-122.4037199" lonMax="-122.39404">
+<stop tag="3164" title="4th St &amp; Townsend St" lat="37.7768899" lon="-122.39489" stopId="13164"/>
+<stop tag="3136" title="3rd St &amp; Mission St" lat="37.7863699" lon="-122.40211" stopId="13136"/>
+<stop tag="4821" title="Kearny St &amp; Geary Blvd" lat="37.7881999" lon="-122.4034599" stopId="14821"/>
+<stop tag="4826" title="Kearny St &amp; Sutter St" lat="37.7897499" lon="-122.4037199" stopId="14826"/>
+<stop tag="3815" title="Bush St &amp; Montgomery St" lat="37.7909599" lon="-122.40208" stopId="13815"/>
+<stop tag="7188" title="Bush St &amp; Battery St" lat="37.7913199" lon="-122.39968" stopId="17188"/>
+<stop tag="3089" title="Beale St &amp; Mission St" lat="37.79175" lon="-122.3967" stopId="13089"/>
+<stop tag="7619" title="Bealemst &amp; Howard St" lat="37.7896899" lon="-122.39404" stopId="17619"/>
+<direction tag="81X_IB" title="Inbound to Beal &amp; Howard" name="Inbound" useForUI="true">
+  <stop tag="3164" />
+  <stop tag="3136" />
+  <stop tag="4821" />
+  <stop tag="4826" />
+  <stop tag="3815" />
+  <stop tag="7188" />
+  <stop tag="3089" />
+  <stop tag="7619" />
+</direction>
+<path>
+<point lat="37.77689" lon="-122.39489"/>
+<point lat="37.77632" lon="-122.39404"/>
+<point lat="37.77812" lon="-122.39184"/>
+<point lat="37.78637" lon="-122.40211"/>
+</path>
+<path>
+<point lat="37.78637" lon="-122.40211"/>
+<point lat="37.78727" lon="-122.40335"/>
+<point lat="37.7882" lon="-122.40346"/>
+<point lat="37.78975" lon="-122.40372"/>
+<point lat="37.79076" lon="-122.40403"/>
+<point lat="37.79096" lon="-122.40208"/>
+<point lat="37.79132" lon="-122.39968"/>
+<point lat="37.79132" lon="-122.39957"/>
+<point lat="37.79101" lon="-122.39915"/>
+<point lat="37.7924" lon="-122.39739"/>
+<point lat="37.79175" lon="-122.3967"/>
+<point lat="37.78969" lon="-122.39404"/>
+</path>
+</route>
+</body>

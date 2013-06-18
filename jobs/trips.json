@@ -1,0 +1,20 @@
+{
+	"phases": [
+		{
+			"type": "map",
+			"exec": "/assets/bpijewski/stor/munistats/assets/generate_trips.sh",
+			"assets": [
+				"/bpijewski/stor/munistats/assets/generate_trips.sh",
+				"/bpijewski/stor/munistats/assets/trips.jar"
+			]
+		},
+		{
+			"type": "reduce",
+			"exec": "sort -n -k 5",
+			"assets": [
+				"/bpijewski/stor/munistats/assets/generate_trips.sh",
+				"/bpijewski/stor/munistats/assets/trips.jar"
+			]
+		}
+	]
+}

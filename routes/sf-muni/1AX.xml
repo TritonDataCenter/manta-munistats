@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="1AX" title="1AX-California A Express" color="990000" oppositeColor="ffffff" latMin="37.7797999" latMax="37.7931399" lonMin="-122.4935099" lonMax="-122.39753">
+<stop tag="5942" title="Pine St &amp; Davis St" lat="37.7925399" lon="-122.39772" stopId="15942"/>
+<stop tag="5944" title="Pine St &amp; Montgomery St" lat="37.7919699" lon="-122.40245" stopId="15944"/>
+<stop tag="7160" title="California St &amp; 8th Ave" lat="37.7847899" lon="-122.46682" stopId="17160"/>
+<stop tag="3828" title="California St &amp; 10th Ave" lat="37.78467" lon="-122.4691599" stopId="13828"/>
+<stop tag="3831" title="California St &amp; 12th Ave" lat="37.7845899" lon="-122.47085" stopId="13831"/>
+<stop tag="3886" title="California St &amp; Park Presidio Blvd" lat="37.7845199" lon="-122.47325" stopId="13886"/>
+<stop tag="3833" title="California St &amp; 16th Ave" lat="37.7843899" lon="-122.47523" stopId="13833"/>
+<stop tag="3835" title="California St &amp; 19th Ave" lat="37.78424" lon="-122.4784499" stopId="13835"/>
+<stop tag="3837" title="California St &amp; 22nd Ave" lat="37.7841" lon="-122.4816599" stopId="13837"/>
+<stop tag="3839" title="California St &amp; 25th Ave" lat="37.78395" lon="-122.4848199" stopId="13839"/>
+<stop tag="3841" title="California St &amp; 28th Ave" lat="37.7837999" lon="-122.48807" stopId="13841"/>
+<stop tag="3843" title="California St &amp; 30th Ave" lat="37.7836699" lon="-122.49051" stopId="13843"/>
+<stop tag="3547" title="32nd Ave &amp; California St" lat="37.7834299" lon="-122.4925499" stopId="13547"/>
+<stop tag="3549" title="32nd Ave &amp; Clement St" lat="37.7817999" lon="-122.4924199" stopId="13549"/>
+<stop tag="3556" title="33rd Ave &amp; Clement St" lat="37.7814999" lon="-122.4935099" stopId="13556"/>
+<stop tag="4278" title="Geary Blvd &amp; 33rd Ave" lat="37.7797999" lon="-122.49344" stopId="14278"/>
+<stop tag="3557" title="33rd Ave &amp; Geary Blvd" lat="37.7798199" lon="-122.49323" stopId="13557"/>
+<stop tag="3555" title="33rd Ave &amp; Clement St" lat="37.7815399" lon="-122.4933499" stopId="13555"/>
+<stop tag="3548" title="32nd Ave &amp; Clement St" lat="37.782" lon="-122.49233" stopId="13548"/>
+<stop tag="3546" title="32nd Ave &amp; California St" lat="37.7834199" lon="-122.4924399" stopId="13546"/>
+<stop tag="3844" title="California St &amp; 30th Ave" lat="37.7835799" lon="-122.49009" stopId="13844"/>
+<stop tag="3842" title="California St &amp; 28th Ave" lat="37.7836599" lon="-122.48846" stopId="13842"/>
+<stop tag="3840" title="California St &amp; 25th Ave" lat="37.7838099" lon="-122.48529" stopId="13840"/>
+<stop tag="3838" title="California St &amp; 22nd Ave" lat="37.7839399" lon="-122.48189" stopId="13838"/>
+<stop tag="3836" title="California St &amp; 19th Ave" lat="37.78411" lon="-122.4787099" stopId="13836"/>
+<stop tag="3834" title="California St &amp; 16th Ave" lat="37.78425" lon="-122.4754999" stopId="13834"/>
+<stop tag="3887" title="California St &amp; Park Presidio Blvd" lat="37.7843699" lon="-122.47276" stopId="13887"/>
+<stop tag="3832" title="California St &amp; 12th Ave" lat="37.7844499" lon="-122.4711" stopId="13832"/>
+<stop tag="3830" title="California St &amp; 10th Ave" lat="37.78455" lon="-122.4689599" stopId="13830"/>
+<stop tag="3827" title="California St &amp; 8th Ave" lat="37.7846299" lon="-122.46682" stopId="13827"/>
+<stop tag="7302" title="Bush St &amp; Sansome St" lat="37.79107" lon="-122.4009499" stopId="17302"/>
+<stop tag="6332" title="Sansome St &amp; Pine St" lat="37.7920199" lon="-122.4008599" stopId="16332"/>
+<stop tag="3851" title="California St &amp; Battery St" lat="37.7931399" lon="-122.39987" stopId="13851"/>
+<stop tag="4347" title="Davis St &amp; Pine St" lat="37.7926099" lon="-122.39753" stopId="14347"/>
+<direction tag="01AX_OB" title="Outbound to the Richmond District" name="Outbound" useForUI="true">
+  <stop tag="5942" />
+  <stop tag="5944" />
+  <stop tag="7160" />
+  <stop tag="3828" />
+  <stop tag="3831" />
+  <stop tag="3886" />
+  <stop tag="3833" />
+  <stop tag="3835" />
+  <stop tag="3837" />
+  <stop tag="3839" />
+  <stop tag="3841" />
+  <stop tag="3843" />
+  <stop tag="3547" />
+  <stop tag="3549" />
+  <stop tag="3556" />
+  <stop tag="4278" />
+</direction>
+<direction tag="01AX_IB" title="Inbound to Downtown" name="Inbound" useForUI="true">
+  <stop tag="3557" />
+  <stop tag="3555" />
+  <stop tag="3548" />
+  <stop tag="3546" />
+  <stop tag="3844" />
+  <stop tag="3842" />
+  <stop tag="3840" />
+  <stop tag="3838" />
+  <stop tag="3836" />
+  <stop tag="3834" />
+  <stop tag="3887" />
+  <stop tag="3832" />
+  <stop tag="3830" />
+  <stop tag="3827" />
+  <stop tag="7302" />
+  <stop tag="6332" />
+  <stop tag="3851" />
+  <stop tag="4347" />
+</direction>
+<path>
+<point lat="37.78445" lon="-122.4711"/>
+<point lat="37.78455" lon="-122.46896"/>
+<point lat="37.78463" lon="-122.46682"/>
+</path>
+<path>
+<point lat="37.78437" lon="-122.47276"/>
+<point lat="37.78445" lon="-122.4711"/>
+</path>
+<path>
+<point lat="37.77982" lon="-122.49323"/>
+<point lat="37.78154" lon="-122.49335"/>
+<point lat="37.7816199" lon="-122.49343"/>
+<point lat="37.78167" lon="-122.49237"/>
+<point lat="37.7819999" lon="-122.49233"/>
+<point lat="37.78342" lon="-122.49244"/>
+<point lat="37.78354" lon="-122.49251"/>
+<point lat="37.78358" lon="-122.49009"/>
+<point lat="37.78366" lon="-122.48846"/>
+<point lat="37.78381" lon="-122.48529"/>
+<point lat="37.78394" lon="-122.48189"/>
+<point lat="37.78411" lon="-122.47871"/>
+<point lat="37.78425" lon="-122.4755"/>
+<point lat="37.78437" lon="-122.47276"/>
+</path>
+<path>
+<point lat="37.78452" lon="-122.47325"/>
+<point lat="37.78439" lon="-122.47523"/>
+<point lat="37.7842399" lon="-122.47845"/>
+<point lat="37.7841" lon="-122.48166"/>
+<point lat="37.78395" lon="-122.48482"/>
+<point lat="37.7838" lon="-122.48807"/>
+<point lat="37.78367" lon="-122.49051"/>
+<point lat="37.78354" lon="-122.49251"/>
+<point lat="37.78343" lon="-122.49255"/>
+<point lat="37.7817999" lon="-122.49242"/>
+<point lat="37.78167" lon="-122.49237"/>
+<point lat="37.7816199" lon="-122.49343"/>
+<point lat="37.7815" lon="-122.49351"/>
+<point lat="37.7798" lon="-122.49344"/>
+</path>
+<path>
+<point lat="37.78463" lon="-122.46682"/>
+<point lat="37.78726" lon="-122.44679"/>
+<point lat="37.78537" lon="-122.44643"/>
+<point lat="37.79107" lon="-122.40095"/>
+<point lat="37.79117" lon="-122.40075"/>
+<point lat="37.79202" lon="-122.40086"/>
+<point lat="37.7930599" lon="-122.40113"/>
+<point lat="37.79314" lon="-122.39987"/>
+<point lat="37.7935" lon="-122.39761"/>
+<point lat="37.79261" lon="-122.39753"/>
+</path>
+<path>
+<point lat="37.78479" lon="-122.46682"/>
+<point lat="37.78467" lon="-122.46916"/>
+<point lat="37.78459" lon="-122.47085"/>
+<point lat="37.78452" lon="-122.47325"/>
+</path>
+<path>
+<point lat="37.79254" lon="-122.39772"/>
+<point lat="37.79197" lon="-122.40245"/>
+<point lat="37.78629" lon="-122.44662"/>
+<point lat="37.78726" lon="-122.44679"/>
+<point lat="37.78479" lon="-122.46682"/>
+</path>
+</route>
+</body>

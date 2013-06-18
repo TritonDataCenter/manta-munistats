@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="60" title="Powell/Hyde Cable Car" color="4444a4" oppositeColor="ffffff" latMin="37.7846399" latMax="37.8068999" lonMin="-122.42111" lonMax="-122.40768">
+<stop tag="5156" title="Jackson St &amp; Mason St" lat="37.7954499" lon="-122.41171" stopId="15156"/>
+<stop tag="5164" title="Jackson St &amp; Taylor St" lat="37.7952599" lon="-122.4132" stopId="15164"/>
+<stop tag="5152" title="Jackson St &amp; Jones St" lat="37.7950399" lon="-122.41484" stopId="15152"/>
+<stop tag="5154" title="Jackson St &amp; Leavenworth St" lat="37.79485" lon="-122.4163699" stopId="15154"/>
+<stop tag="5150" title="Jackson St &amp; Hyde St" lat="37.79464" lon="-122.4179899" stopId="15150"/>
+<stop tag="5082" title="Hyde St &amp; Pacific Ave" lat="37.7954" lon="-122.4182" stopId="15082"/>
+<stop tag="5062" title="Hyde St &amp; Broadway" lat="37.7963499" lon="-122.4183899" stopId="15062"/>
+<stop tag="5090" title="Hyde St &amp; Vallejo St" lat="37.7974399" lon="-122.4186299" stopId="15090"/>
+<stop tag="5074" title="Hyde St &amp; Green St" lat="37.7983099" lon="-122.4187799" stopId="15074"/>
+<stop tag="5088" title="Hyde St &amp; Union St" lat="37.7992399" lon="-122.41898" stopId="15088"/>
+<stop tag="5069" title="Hyde St &amp; Filbert St" lat="37.8001699" lon="-122.4191599" stopId="15069"/>
+<stop tag="5073" title="Hyde St &amp; Greenwich St" lat="37.8009899" lon="-122.4193199" stopId="15073"/>
+<stop tag="5077" title="Hyde St &amp; Lombard St" lat="37.80204" lon="-122.41954" stopId="15077"/>
+<stop tag="5066" title="Hyde St &amp; Chestnut St" lat="37.80284" lon="-122.4197" stopId="15066"/>
+<stop tag="5059" title="Hyde St &amp; Bay St" lat="37.8048" lon="-122.4201" stopId="15059"/>
+<stop tag="5080" title="Hyde St &amp; North Point St" lat="37.8056299" lon="-122.4202699" stopId="15080"/>
+<stop tag="5064" title="Hyde St &amp; Beach St" lat="37.8064299" lon="-122.42043" stopId="15064"/>
+<stop tag="6063" title="Powell St &amp; Market St" lat="37.7847999" lon="-122.40768" stopId="16063"/>
+<stop tag="6068" title="Powell St &amp; O&apos;Farrell St" lat="37.78632" lon="-122.40793" stopId="16068"/>
+<stop tag="6058" title="Powell St &amp; Geary St" lat="37.78727" lon="-122.40813" stopId="16058"/>
+<stop tag="6072" title="Powell St &amp; Post St" lat="37.7881999" lon="-122.4082999" stopId="16072"/>
+<stop tag="6075" title="Powell St &amp; Sutter St" lat="37.7891299" lon="-122.40849" stopId="16075"/>
+<stop tag="6047" title="Powell St &amp; Bush St" lat="37.7901599" lon="-122.4087099" stopId="16047"/>
+<stop tag="6069" title="Powell St &amp; Pine St" lat="37.7910999" lon="-122.4088999" stopId="16069"/>
+<stop tag="6049" title="Powell St &amp; California St" lat="37.7922999" lon="-122.40914" stopId="16049"/>
+<stop tag="6073" title="Powell St &amp; Sacramento St" lat="37.7928799" lon="-122.4092599" stopId="16073"/>
+<stop tag="6051" title="Powell St &amp; Clay St" lat="37.7937599" lon="-122.4094599" stopId="16051"/>
+<stop tag="6077" title="Powell St &amp; Washington St" lat="37.79464" lon="-122.40964" stopId="16077"/>
+<stop tag="6059" title="Powell St &amp; Jackson St" lat="37.7953199" lon="-122.4097699" stopId="16059"/>
+<stop tag="5063" title="Hyde St &amp; Beach St" lat="37.8068999" lon="-122.42111" stopId="15063"/>
+<stop tag="5081" title="Hyde St &amp; North Point St" lat="37.8057099" lon="-122.4204499" stopId="15081"/>
+<stop tag="5060" title="Hyde St &amp; Bay St" lat="37.8047799" lon="-122.4202599" stopId="15060"/>
+<stop tag="5067" title="Hyde St &amp; Chestnut St" lat="37.8029099" lon="-122.4198799" stopId="15067"/>
+<stop tag="5078" title="Hyde St &amp; Lombard St" lat="37.80186" lon="-122.41966" stopId="15078"/>
+<stop tag="5072" title="Hyde St &amp; Greenwich St" lat="37.8010099" lon="-122.4194899" stopId="15072"/>
+<stop tag="5070" title="Hyde St &amp; Filbert St" lat="37.80021" lon="-122.41933" stopId="15070"/>
+<stop tag="5089" title="Hyde St &amp; Union St" lat="37.7991799" lon="-122.41914" stopId="15089"/>
+<stop tag="5075" title="Hyde St &amp; Green St" lat="37.79834" lon="-122.41896" stopId="15075"/>
+<stop tag="5091" title="Hyde St &amp; Vallejo St" lat="37.79741" lon="-122.41877" stopId="15091"/>
+<stop tag="5061" title="Hyde St &amp; Broadway" lat="37.7965" lon="-122.41858" stopId="15061"/>
+<stop tag="5083" title="Hyde St &amp; Pacific Ave" lat="37.79535" lon="-122.41836" stopId="15083"/>
+<stop tag="5076" title="Hyde St &amp; Jackson St" lat="37.7945399" lon="-122.4181899" stopId="15076"/>
+<stop tag="6922" title="Washington St &amp; Leavenworth St" lat="37.7938299" lon="-122.41629" stopId="16922"/>
+<stop tag="6920" title="Washington St &amp; Jones St" lat="37.7940399" lon="-122.41469" stopId="16920"/>
+<stop tag="6929" title="Washington St &amp; Taylor St" lat="37.7942599" lon="-122.41301" stopId="16929"/>
+<stop tag="6925" title="Washington St &amp; Mason St" lat="37.79444" lon="-122.4115299" stopId="16925"/>
+<stop tag="6927" title="Washington St &amp; Powell St" lat="37.7946299" lon="-122.41004" stopId="16927"/>
+<stop tag="6052" title="Powell St &amp; Clay St" lat="37.79384" lon="-122.40963" stopId="16052"/>
+<stop tag="6074" title="Powell St &amp; Sacramento St" lat="37.79296" lon="-122.40944" stopId="16074"/>
+<stop tag="6050" title="Powell St &amp; California St" lat="37.7922099" lon="-122.40929" stopId="16050"/>
+<stop tag="6070" title="Powell St &amp; Pine St" lat="37.79108" lon="-122.40907" stopId="16070"/>
+<stop tag="6048" title="Powell St &amp; Bush St" lat="37.79014" lon="-122.40887" stopId="16048"/>
+<stop tag="6076" title="Powell St &amp; Sutter St" lat="37.7890599" lon="-122.40864" stopId="16076"/>
+<stop tag="6071" title="Powell St &amp; Post St" lat="37.78839" lon="-122.4085" stopId="16071"/>
+<stop tag="6057" title="Powell St &amp; Geary St" lat="37.7874599" lon="-122.4083199" stopId="16057"/>
+<stop tag="6067" title="Powell St &amp; O&apos;Farrell St" lat="37.78651" lon="-122.40814" stopId="16067"/>
+<stop tag="6064" title="Powell St &amp; Market St" lat="37.7846399" lon="-122.40778" stopId="16064"/>
+<direction tag="60__TOB3" title="Outbound to Hyde &amp; Beach" name="Outbound" useForUI="true">
+  <stop tag="6063" />
+  <stop tag="6068" />
+  <stop tag="6058" />
+  <stop tag="6072" />
+  <stop tag="6075" />
+  <stop tag="6047" />
+  <stop tag="6069" />
+  <stop tag="6049" />
+  <stop tag="6073" />
+  <stop tag="6051" />
+  <stop tag="6077" />
+  <stop tag="6059" />
+  <stop tag="5156" />
+  <stop tag="5164" />
+  <stop tag="5152" />
+  <stop tag="5154" />
+  <stop tag="5150" />
+  <stop tag="5082" />
+  <stop tag="5062" />
+  <stop tag="5090" />
+  <stop tag="5074" />
+  <stop tag="5088" />
+  <stop tag="5069" />
+  <stop tag="5073" />
+  <stop tag="5077" />
+  <stop tag="5066" />
+  <stop tag="5059" />
+  <stop tag="5080" />
+  <stop tag="5064" />
+</direction>
+<direction tag="60__IB2" title="Inbound to Powell &amp; Market" name="Inbound" useForUI="true">
+  <stop tag="5063" />
+  <stop tag="5081" />
+  <stop tag="5060" />
+  <stop tag="5067" />
+  <stop tag="5078" />
+  <stop tag="5072" />
+  <stop tag="5070" />
+  <stop tag="5089" />
+  <stop tag="5075" />
+  <stop tag="5091" />
+  <stop tag="5061" />
+  <stop tag="5083" />
+  <stop tag="5076" />
+  <stop tag="6922" />
+  <stop tag="6920" />
+  <stop tag="6929" />
+  <stop tag="6925" />
+  <stop tag="6927" />
+  <stop tag="6052" />
+  <stop tag="6074" />
+  <stop tag="6050" />
+  <stop tag="6070" />
+  <stop tag="6048" />
+  <stop tag="6076" />
+  <stop tag="6071" />
+  <stop tag="6057" />
+  <stop tag="6067" />
+  <stop tag="6064" />
+</direction>
+<path>
+<point lat="37.79918" lon="-122.41914"/>
+<point lat="37.79834" lon="-122.41896"/>
+<point lat="37.79741" lon="-122.41877"/>
+<point lat="37.7965" lon="-122.41858"/>
+<point lat="37.79535" lon="-122.41836"/>
+<point lat="37.79454" lon="-122.41819"/>
+<point lat="37.79368" lon="-122.41794"/>
+<point lat="37.79383" lon="-122.41629"/>
+<point lat="37.79404" lon="-122.41469"/>
+<point lat="37.79426" lon="-122.41301"/>
+<point lat="37.79444" lon="-122.41153"/>
+</path>
+<path>
+<point lat="37.79545" lon="-122.41171"/>
+<point lat="37.79526" lon="-122.4132"/>
+<point lat="37.79504" lon="-122.41484"/>
+<point lat="37.7948499" lon="-122.41637"/>
+<point lat="37.79464" lon="-122.41799"/>
+<point lat="37.79456" lon="-122.41812"/>
+<point lat="37.7954" lon="-122.4182"/>
+<point lat="37.7963499" lon="-122.41839"/>
+<point lat="37.79744" lon="-122.41863"/>
+<point lat="37.79831" lon="-122.41878"/>
+<point lat="37.79924" lon="-122.41898"/>
+</path>
+<path>
+<point lat="37.7923" lon="-122.40914"/>
+<point lat="37.7928799" lon="-122.40926"/>
+<point lat="37.79376" lon="-122.40946"/>
+<point lat="37.79464" lon="-122.40964"/>
+<point lat="37.7953199" lon="-122.40977"/>
+<point lat="37.79561" lon="-122.4099"/>
+<point lat="37.79545" lon="-122.41171"/>
+</path>
+<path>
+<point lat="37.8069" lon="-122.42111"/>
+<point lat="37.80665" lon="-122.42057"/>
+<point lat="37.80571" lon="-122.42045"/>
+<point lat="37.80478" lon="-122.42026"/>
+<point lat="37.80291" lon="-122.41988"/>
+<point lat="37.80186" lon="-122.41966"/>
+<point lat="37.80101" lon="-122.41949"/>
+<point lat="37.80021" lon="-122.41933"/>
+<point lat="37.79918" lon="-122.41914"/>
+</path>
+<path>
+<point lat="37.79918" lon="-122.41914"/>
+<point lat="37.79834" lon="-122.41896"/>
+<point lat="37.79741" lon="-122.41877"/>
+<point lat="37.7965" lon="-122.41858"/>
+<point lat="37.79535" lon="-122.41836"/>
+<point lat="37.79454" lon="-122.41819"/>
+<point lat="37.79368" lon="-122.41794"/>
+<point lat="37.79383" lon="-122.41629"/>
+<point lat="37.79404" lon="-122.41469"/>
+<point lat="37.79426" lon="-122.41301"/>
+<point lat="37.79444" lon="-122.41153"/>
+<point lat="37.79463" lon="-122.41004"/>
+<point lat="37.79473" lon="-122.40973"/>
+<point lat="37.79384" lon="-122.40963"/>
+<point lat="37.79296" lon="-122.40944"/>
+<point lat="37.79221" lon="-122.40929"/>
+</path>
+<path>
+<point lat="37.79221" lon="-122.40929"/>
+<point lat="37.79108" lon="-122.40907"/>
+<point lat="37.79014" lon="-122.40887"/>
+<point lat="37.78906" lon="-122.40864"/>
+</path>
+<path>
+<point lat="37.78913" lon="-122.40849"/>
+<point lat="37.79016" lon="-122.40871"/>
+<point lat="37.7911" lon="-122.4089"/>
+<point lat="37.7923" lon="-122.40914"/>
+</path>
+<path>
+<point lat="37.79924" lon="-122.41898"/>
+<point lat="37.80017" lon="-122.41916"/>
+<point lat="37.80099" lon="-122.41932"/>
+<point lat="37.80204" lon="-122.41954"/>
+<point lat="37.80284" lon="-122.4197"/>
+<point lat="37.8048" lon="-122.4201"/>
+<point lat="37.80563" lon="-122.42027"/>
+<point lat="37.80643" lon="-122.42043"/>
+</path>
+<path>
+<point lat="37.78906" lon="-122.40864"/>
+<point lat="37.78839" lon="-122.4085"/>
+<point lat="37.78746" lon="-122.40832"/>
+<point lat="37.78651" lon="-122.40814"/>
+<point lat="37.78464" lon="-122.40778"/>
+</path>
+<path>
+<point lat="37.7848" lon="-122.40768"/>
+<point lat="37.78632" lon="-122.40793"/>
+<point lat="37.78727" lon="-122.40813"/>
+<point lat="37.7882" lon="-122.4083"/>
+<point lat="37.78913" lon="-122.40849"/>
+</path>
+</route>
+</body>

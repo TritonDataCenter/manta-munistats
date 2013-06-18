@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="35" title="35-Eureka" color="ff6633" oppositeColor="000000" latMin="37.7366599" latMax="37.7626699" lonMin="-122.4382799" lonMax="-122.42953">
+<stop tag="4334" title="Castro St &amp; Market St" lat="37.7621399" lon="-122.43519" stopId="14334"/>
+<stop tag="4315" title="Castro St &amp; 18th St" lat="37.76075" lon="-122.43507" stopId="14315"/>
+<stop tag="4316" title="Castro St &amp; 19th St" lat="37.7593899" lon="-122.4349099" stopId="14316"/>
+<stop tag="4318" title="Castro St &amp; 20th St" lat="37.7577799" lon="-122.4347699" stopId="14318"/>
+<stop tag="3414" title="20th St &amp; Collingwood St" lat="37.7576799" lon="-122.43597" stopId="13414"/>
+<stop tag="3415" title="20th St &amp; Eureka St" lat="37.7575599" lon="-122.43784" stopId="13415"/>
+<stop tag="4538" title="Eureka St &amp; 21st St" lat="37.7559699" lon="-122.4378999" stopId="14538"/>
+<stop tag="4540" title="Eureka St &amp; 22nd St" lat="37.75437" lon="-122.43774" stopId="14540"/>
+<stop tag="4542" title="Eureka St &amp; 23rd St" lat="37.75279" lon="-122.43759" stopId="14542"/>
+<stop tag="3448" title="23rd St &amp; Diamond St" lat="37.7527" lon="-122.4365399" stopId="13448"/>
+<stop tag="4370" title="Diamond St &amp; 24th St" lat="37.7512599" lon="-122.4363799" stopId="14370"/>
+<stop tag="4372" title="Diamond St &amp; 25th St" lat="37.7496499" lon="-122.4362099" stopId="14372"/>
+<stop tag="4390" title="Diamond St &amp; Clipper St" lat="37.7488499" lon="-122.4361599" stopId="14390"/>
+<stop tag="4375" title="Diamond St &amp; 26th St" lat="37.7478499" lon="-122.4360699" stopId="14375"/>
+<stop tag="4385" title="Diamond St &amp; Cesar Chavez St" lat="37.7470699" lon="-122.4359899" stopId="14385"/>
+<stop tag="4377" title="Diamond St &amp; 27th St" lat="37.7462599" lon="-122.4359199" stopId="14377"/>
+<stop tag="4398" title="Diamond St &amp; Duncan St" lat="37.74564" lon="-122.43586" stopId="14398"/>
+<stop tag="4379" title="Diamond St &amp; 28th St" lat="37.74465" lon="-122.43576" stopId="14379"/>
+<stop tag="4380" title="Diamond St &amp; 29th St" lat="37.74325" lon="-122.43566" stopId="14380"/>
+<stop tag="4397" title="Diamond St &amp; Diamond Heights Blvd" lat="37.7419199" lon="-122.43548" stopId="14397"/>
+<stop tag="3615" title="Addison St &amp; Diamond Heights Blvd" lat="37.74004" lon="-122.4357199" stopId="13615"/>
+<stop tag="3618" title="Addison St &amp; Farnum St" lat="37.74006" lon="-122.4344299" stopId="13618"/>
+<stop tag="4579" title="Farnum St &amp; Moffitt St" lat="37.73833" lon="-122.4340699" stopId="14579"/>
+<stop tag="5634" title="33 Moffitt St" lat="37.73683" lon="-122.4321899" stopId="15634"/>
+<stop tag="3096" title="Bemis St &amp; Moffitt St" lat="37.7366599" lon="-122.43118" stopId="13096"/>
+<stop tag="33693" title="Bemis St &amp; Addison St" lat="37.7377299" lon="-122.42953" stopId="133693"/>
+<stop tag="3693" title="Bemis St &amp; Addison St" lat="37.7377299" lon="-122.42953" stopId="13693"/>
+<stop tag="3613" title="46 Addison St" lat="37.7377399" lon="-122.43101" stopId="13613"/>
+<stop tag="3614" title="164 Addison St" lat="37.7381699" lon="-122.4328099" stopId="13614"/>
+<stop tag="3616" title="Addison St &amp; Digby St" lat="37.7399999" lon="-122.43361" stopId="13616"/>
+<stop tag="3617" title="Addison St &amp; Farnum St" lat="37.7401899" lon="-122.4342199" stopId="13617"/>
+<stop tag="4360" title="Diamond Heights &amp; Addison St" lat="37.7401999" lon="-122.43576" stopId="14360"/>
+<stop tag="4394" title="Diamond St &amp; Diamond Heights" lat="37.7415999" lon="-122.43535" stopId="14394"/>
+<stop tag="4381" title="Diamond St &amp; 29th St" lat="37.7430799" lon="-122.4354899" stopId="14381"/>
+<stop tag="4378" title="Diamond St &amp; 28th St" lat="37.7446899" lon="-122.4355999" stopId="14378"/>
+<stop tag="4399" title="Diamond St &amp; Duncan St" lat="37.7454699" lon="-122.4356899" stopId="14399"/>
+<stop tag="4376" title="Diamond St &amp; 27th St" lat="37.74629" lon="-122.43576" stopId="14376"/>
+<stop tag="4384" title="Diamond St &amp; Cesar Chavez St" lat="37.7470999" lon="-122.4358399" stopId="14384"/>
+<stop tag="4374" title="Diamond St &amp; 26th St" lat="37.74789" lon="-122.43591" stopId="14374"/>
+<stop tag="4391" title="Diamond St &amp; Clipper St" lat="37.7486799" lon="-122.4359899" stopId="14391"/>
+<stop tag="4373" title="Diamond St &amp; 25th St" lat="37.7494899" lon="-122.4360599" stopId="14373"/>
+<stop tag="4371" title="Diamond St &amp; 24th St" lat="37.75108" lon="-122.43622" stopId="14371"/>
+<stop tag="3449" title="23rd St &amp; Eureka St" lat="37.7527699" lon="-122.4373899" stopId="13449"/>
+<stop tag="4541" title="Eureka St &amp; 22nd St" lat="37.75422" lon="-122.43757" stopId="14541"/>
+<stop tag="4539" title="Eureka St &amp; 21st St" lat="37.7558099" lon="-122.4377299" stopId="14539"/>
+<stop tag="4537" title="Eureka St &amp; 20th St" lat="37.75741" lon="-122.43788" stopId="14537"/>
+<stop tag="4536" title="Eureka St &amp; 19th St" lat="37.75903" lon="-122.43804" stopId="14536"/>
+<stop tag="4535" title="Eureka St &amp; 18th St" lat="37.7606299" lon="-122.4381899" stopId="14535"/>
+<stop tag="4543" title="Eureka St &amp; Market St" lat="37.7615899" lon="-122.4382799" stopId="14543"/>
+<stop tag="7253" title="Market &amp; Castro Mb-S/SB" lat="37.7626699" lon="-122.4352" stopId="17253"/>
+<direction tag="35_OB3" title="Outbound to Diamond Heights" name="Outbound" useForUI="true">
+  <stop tag="4334" />
+  <stop tag="4315" />
+  <stop tag="4316" />
+  <stop tag="4318" />
+  <stop tag="3414" />
+  <stop tag="3415" />
+  <stop tag="4538" />
+  <stop tag="4540" />
+  <stop tag="4542" />
+  <stop tag="3448" />
+  <stop tag="4370" />
+  <stop tag="4372" />
+  <stop tag="4390" />
+  <stop tag="4375" />
+  <stop tag="4385" />
+  <stop tag="4377" />
+  <stop tag="4398" />
+  <stop tag="4379" />
+  <stop tag="4380" />
+  <stop tag="4397" />
+  <stop tag="3615" />
+  <stop tag="3618" />
+  <stop tag="4579" />
+  <stop tag="5634" />
+  <stop tag="3096" />
+  <stop tag="33693" />
+</direction>
+<direction tag="35_IB3" title="Inbound to Castro Station" name="Inbound" useForUI="true">
+  <stop tag="3693" />
+  <stop tag="3613" />
+  <stop tag="3614" />
+  <stop tag="3616" />
+  <stop tag="3617" />
+  <stop tag="4360" />
+  <stop tag="4394" />
+  <stop tag="4381" />
+  <stop tag="4378" />
+  <stop tag="4399" />
+  <stop tag="4376" />
+  <stop tag="4384" />
+  <stop tag="4374" />
+  <stop tag="4391" />
+  <stop tag="4373" />
+  <stop tag="4371" />
+  <stop tag="3449" />
+  <stop tag="4541" />
+  <stop tag="4539" />
+  <stop tag="4537" />
+  <stop tag="4536" />
+  <stop tag="4535" />
+  <stop tag="4543" />
+  <stop tag="7253" />
+</direction>
+<path>
+<point lat="37.7416" lon="-122.43535"/>
+<point lat="37.74193" lon="-122.43539"/>
+<point lat="37.74308" lon="-122.43549"/>
+<point lat="37.74469" lon="-122.4356"/>
+<point lat="37.74547" lon="-122.43569"/>
+<point lat="37.74629" lon="-122.43576"/>
+<point lat="37.7471" lon="-122.43584"/>
+<point lat="37.74789" lon="-122.43591"/>
+<point lat="37.74868" lon="-122.43599"/>
+<point lat="37.74949" lon="-122.43606"/>
+<point lat="37.75108" lon="-122.43622"/>
+<point lat="37.75276" lon="-122.43646"/>
+<point lat="37.75277" lon="-122.43739"/>
+<point lat="37.7527" lon="-122.4375"/>
+<point lat="37.7542199" lon="-122.43757"/>
+<point lat="37.7558099" lon="-122.43773"/>
+<point lat="37.75741" lon="-122.43788"/>
+<point lat="37.75903" lon="-122.43804"/>
+<point lat="37.76063" lon="-122.43819"/>
+<point lat="37.76159" lon="-122.43828"/>
+<point lat="37.76171" lon="-122.43837"/>
+<point lat="37.76214" lon="-122.43625"/>
+<point lat="37.76267" lon="-122.4352"/>
+</path>
+<path>
+<point lat="37.74192" lon="-122.43548"/>
+<point lat="37.74166" lon="-122.43538"/>
+<point lat="37.74147" lon="-122.43566"/>
+<point lat="37.74068" lon="-122.43564"/>
+<point lat="37.74015" lon="-122.43584"/>
+<point lat="37.74004" lon="-122.43572"/>
+<point lat="37.74006" lon="-122.43554"/>
+<point lat="37.74006" lon="-122.43443"/>
+<point lat="37.74012" lon="-122.43433"/>
+<point lat="37.73945" lon="-122.43432"/>
+<point lat="37.73878" lon="-122.43404"/>
+<point lat="37.73833" lon="-122.43407"/>
+<point lat="37.73814" lon="-122.43395"/>
+<point lat="37.73747" lon="-122.43317"/>
+<point lat="37.7372299" lon="-122.43297"/>
+<point lat="37.73702" lon="-122.43273"/>
+<point lat="37.73691" lon="-122.43243"/>
+<point lat="37.73683" lon="-122.43219"/>
+<point lat="37.7369" lon="-122.43198"/>
+<point lat="37.73683" lon="-122.43156"/>
+<point lat="37.73662" lon="-122.43135"/>
+<point lat="37.73666" lon="-122.43118"/>
+<point lat="37.73773" lon="-122.42953"/>
+</path>
+<path>
+<point lat="37.73773" lon="-122.42953"/>
+<point lat="37.73782" lon="-122.43011"/>
+<point lat="37.73786" lon="-122.4304"/>
+<point lat="37.73774" lon="-122.43101"/>
+<point lat="37.73749" lon="-122.43142"/>
+<point lat="37.73746" lon="-122.43198"/>
+<point lat="37.7381699" lon="-122.43281"/>
+<point lat="37.73837" lon="-122.43312"/>
+<point lat="37.73866" lon="-122.43324"/>
+<point lat="37.73898" lon="-122.4333"/>
+<point lat="37.73989" lon="-122.43367"/>
+<point lat="37.74" lon="-122.43361"/>
+<point lat="37.74013" lon="-122.43419"/>
+<point lat="37.74019" lon="-122.43422"/>
+<point lat="37.74006" lon="-122.43526"/>
+<point lat="37.74015" lon="-122.43584"/>
+<point lat="37.7402" lon="-122.43576"/>
+<point lat="37.74068" lon="-122.43564"/>
+<point lat="37.74138" lon="-122.43564"/>
+<point lat="37.74158" lon="-122.43549"/>
+<point lat="37.7416" lon="-122.43535"/>
+</path>
+<path>
+<point lat="37.76214" lon="-122.43519"/>
+<point lat="37.76075" lon="-122.43507"/>
+<point lat="37.75939" lon="-122.43491"/>
+<point lat="37.7577799" lon="-122.43477"/>
+<point lat="37.7576899" lon="-122.4347"/>
+<point lat="37.75768" lon="-122.43597"/>
+<point lat="37.75756" lon="-122.43784"/>
+<point lat="37.75749" lon="-122.43796"/>
+<point lat="37.75597" lon="-122.4379"/>
+<point lat="37.75437" lon="-122.43774"/>
+<point lat="37.75279" lon="-122.43759"/>
+<point lat="37.7527" lon="-122.4375"/>
+<point lat="37.7527" lon="-122.43654"/>
+<point lat="37.75276" lon="-122.43646"/>
+<point lat="37.75126" lon="-122.43638"/>
+<point lat="37.74965" lon="-122.43621"/>
+<point lat="37.74885" lon="-122.43616"/>
+<point lat="37.74785" lon="-122.43607"/>
+<point lat="37.74707" lon="-122.43599"/>
+<point lat="37.74626" lon="-122.43592"/>
+<point lat="37.74564" lon="-122.43586"/>
+<point lat="37.74465" lon="-122.43576"/>
+<point lat="37.74325" lon="-122.43566"/>
+<point lat="37.74192" lon="-122.43548"/>
+</path>
+</route>
+</body>

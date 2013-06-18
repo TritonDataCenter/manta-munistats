@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="82X" title="82X-Levi Plaza Express" color="cc0033" oppositeColor="ffffff" latMin="37.7768899" latMax="37.8023399" lonMin="-122.40294" lonMax="-122.39333">
+<stop tag="3026" title="Battery St &amp; Filbert St" lat="37.8021599" lon="-122.40184" stopId="13026"/>
+<stop tag="3029" title="Battery St &amp; Green St" lat="37.8005499" lon="-122.4015099" stopId="13029"/>
+<stop tag="3025" title="Battery St &amp; Broadway" lat="37.7983099" lon="-122.4010899" stopId="13025"/>
+<stop tag="3030" title="Battery St &amp; Jackson St" lat="37.7968599" lon="-122.4007699" stopId="13030"/>
+<stop tag="4017" title="Clay St &amp; Front St" lat="37.7950999" lon="-122.39902" stopId="14017"/>
+<stop tag="4346" title="Davis St &amp; California St" lat="37.79363" lon="-122.3977" stopId="14346"/>
+<stop tag="3089" title="Beale St &amp; Mission St" lat="37.7917499" lon="-122.3967" stopId="13089"/>
+<stop tag="7619" title="Bealemst &amp; Howard St" lat="37.78969" lon="-122.39404" stopId="17619"/>
+<stop tag="3163" title="4th St &amp; Townsend St" lat="37.7771099" lon="-122.39513" stopId="13163"/>
+<stop tag="3164" title="4th St &amp; Townsend St" lat="37.7768899" lon="-122.39489" stopId="13164"/>
+<stop tag="7623" title="Main St &amp; Howard St" lat="37.79061" lon="-122.39333" stopId="17623"/>
+<stop tag="5336" title="Main St &amp; Market St" lat="37.79253" lon="-122.39567" stopId="15336"/>
+<stop tag="4445" title="Drumm St &amp; California St" lat="37.7939799" lon="-122.3963499" stopId="14445"/>
+<stop tag="6294" title="Sacramento St &amp; Davis St" lat="37.7944999" lon="-122.39761" stopId="16294"/>
+<stop tag="6290" title="Sacramento St &amp; Battery St" lat="37.7941399" lon="-122.40018" stopId="16290"/>
+<stop tag="6333" title="Sansome St &amp; Sacramento St" lat="37.79428" lon="-122.40131" stopId="16333"/>
+<stop tag="6337" title="Sansome St &amp; Washington St" lat="37.7960599" lon="-122.4016599" stopId="16337"/>
+<stop tag="6331" title="Sansome St &amp; Pacific Ave" lat="37.79778" lon="-122.40202" stopId="16331"/>
+<stop tag="6336" title="Sansome St &amp; Vallejo St" lat="37.7996699" lon="-122.4023999" stopId="16336"/>
+<stop tag="6329" title="Sansome St &amp; Filbert St" lat="37.8023399" lon="-122.40294" stopId="16329"/>
+<direction tag="82X_OB" title="Outbound to Caltrain Depot" name="Outbound" useForUI="true">
+  <stop tag="3026" />
+  <stop tag="3029" />
+  <stop tag="3025" />
+  <stop tag="3030" />
+  <stop tag="4017" />
+  <stop tag="4346" />
+  <stop tag="3089" />
+  <stop tag="7619" />
+  <stop tag="3163" />
+</direction>
+<direction tag="82X_IB" title="Inbound to Sansome &amp; Filbert" name="Inbound" useForUI="true">
+  <stop tag="3164" />
+  <stop tag="7623" />
+  <stop tag="5336" />
+  <stop tag="4445" />
+  <stop tag="6294" />
+  <stop tag="6290" />
+  <stop tag="6333" />
+  <stop tag="6337" />
+  <stop tag="6331" />
+  <stop tag="6336" />
+  <stop tag="6329" />
+</direction>
+<path>
+<point lat="37.7951" lon="-122.39902"/>
+<point lat="37.7953" lon="-122.39798"/>
+<point lat="37.79363" lon="-122.3977"/>
+<point lat="37.7924" lon="-122.39739"/>
+<point lat="37.79175" lon="-122.3967"/>
+</path>
+<path>
+<point lat="37.79414" lon="-122.40018"/>
+<point lat="37.79398" lon="-122.40131"/>
+<point lat="37.79428" lon="-122.40131"/>
+<point lat="37.79606" lon="-122.40166"/>
+<point lat="37.79778" lon="-122.40202"/>
+<point lat="37.79967" lon="-122.4024"/>
+<point lat="37.80234" lon="-122.40294"/>
+</path>
+<path>
+<point lat="37.77689" lon="-122.39489"/>
+<point lat="37.77632" lon="-122.39404"/>
+<point lat="37.78039" lon="-122.38887"/>
+<point lat="37.7807" lon="-122.3886"/>
+<point lat="37.78105" lon="-122.3884"/>
+<point lat="37.78149" lon="-122.38831"/>
+<point lat="37.7871" lon="-122.38787"/>
+<point lat="37.7871" lon="-122.3884"/>
+<point lat="37.78689" lon="-122.38879"/>
+<point lat="37.79061" lon="-122.39333"/>
+<point lat="37.79253" lon="-122.39567"/>
+<point lat="37.79309" lon="-122.39651"/>
+<point lat="37.79325" lon="-122.3963"/>
+<point lat="37.79398" lon="-122.39635"/>
+<point lat="37.79458" lon="-122.39659"/>
+<point lat="37.7945" lon="-122.39761"/>
+<point lat="37.79414" lon="-122.40018"/>
+</path>
+<path>
+<point lat="37.79175" lon="-122.3967"/>
+<point lat="37.78969" lon="-122.39404"/>
+<point lat="37.78868" lon="-122.39273"/>
+<point lat="37.7908199" lon="-122.39001"/>
+<point lat="37.78957" lon="-122.38849"/>
+<point lat="37.78929" lon="-122.38826"/>
+<point lat="37.78901" lon="-122.38812"/>
+<point lat="37.7879099" lon="-122.38782"/>
+<point lat="37.78477" lon="-122.38803"/>
+<point lat="37.78475" lon="-122.38836"/>
+<point lat="37.7783299" lon="-122.39653"/>
+<point lat="37.77711" lon="-122.39513"/>
+</path>
+<path>
+<point lat="37.80216" lon="-122.40184"/>
+<point lat="37.80055" lon="-122.40151"/>
+<point lat="37.79831" lon="-122.40109"/>
+<point lat="37.79686" lon="-122.40077"/>
+<point lat="37.79501" lon="-122.40034"/>
+<point lat="37.7951" lon="-122.39902"/>
+</path>
+</route>
+</body>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="83X" title="83X-Caltrain" color="cc0033" oppositeColor="ffffff" latMin="37.7702299" latMax="37.7784999" lonMin="-122.4163" lonMax="-122.39513">
+<stop tag="7669" title="9th St &amp; Market St" lat="37.7773799" lon="-122.4163" stopId="17669"/>
+<stop tag="3209" title="8th St &amp; Market St" lat="37.7784999" lon="-122.4146" stopId="13209"/>
+<stop tag="7684" title="Brannan &amp; 8 St." lat="37.7713199" lon="-122.40524" stopId="17684"/>
+<stop tag="33163" title="4th St &amp; Townsend St" lat="37.7771099" lon="-122.39513" stopId="133163"/>
+<stop tag="3163" title="4th St &amp; Townsend St" lat="37.7771099" lon="-122.39513" stopId="13163"/>
+<stop tag="7683" title="Townsend St &amp; 8 St" lat="37.7702299" lon="-122.40383" stopId="17683"/>
+<stop tag="37669" title="9th St &amp; Market St" lat="37.7773799" lon="-122.4163" stopId="137669"/>
+<direction tag="83X_OB" title="Outbound" name="Outbound" useForUI="true">
+  <stop tag="7669" />
+  <stop tag="3209" />
+  <stop tag="7684" />
+  <stop tag="33163" />
+</direction>
+<direction tag="83X_IB" title="Inbound" name="Inbound" useForUI="true">
+  <stop tag="3163" />
+  <stop tag="7683" />
+  <stop tag="37669" />
+</direction>
+<path>
+<point lat="37.77711" lon="-122.39513"/>
+<point lat="37.77023" lon="-122.40383"/>
+<point lat="37.77006" lon="-122.40388"/>
+<point lat="37.76975" lon="-122.40439"/>
+<point lat="37.76966" lon="-122.40594"/>
+<point lat="37.76946" lon="-122.40621"/>
+<point lat="37.77738" lon="-122.4163"/>
+</path>
+<path>
+<point lat="37.7785" lon="-122.4146"/>
+<point lat="37.7712999" lon="-122.40542"/>
+<point lat="37.77132" lon="-122.40524"/>
+<point lat="37.7783299" lon="-122.39653"/>
+<point lat="37.77711" lon="-122.39513"/>
+</path>
+<path>
+<point lat="37.77738" lon="-122.4163"/>
+<point lat="37.77872" lon="-122.41474"/>
+<point lat="37.7785" lon="-122.4146"/>
+</path>
+</route>
+</body>

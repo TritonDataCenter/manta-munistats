@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="38AX" title="38AX-Geary A Express" color="990000" oppositeColor="ffffff" latMin="37.7790199" latMax="37.79314" lonMin="-122.50941" lonMax="-122.39753">
+<stop tag="5942" title="Pine St &amp; Davis St" lat="37.7925399" lon="-122.39772" stopId="15942"/>
+<stop tag="5944" title="Pine St &amp; Montgomery St" lat="37.7919699" lon="-122.40245" stopId="15944"/>
+<stop tag="4269" title="Geary Blvd &amp; 25th Ave" lat="37.7802199" lon="-122.48461" stopId="14269"/>
+<stop tag="4271" title="Geary Blvd &amp; 28th Ave" lat="37.7800099" lon="-122.48781" stopId="14271"/>
+<stop tag="4273" title="Geary Blvd &amp; 30th Ave" lat="37.7799599" lon="-122.48997" stopId="14273"/>
+<stop tag="4278" title="Geary Blvd &amp; 33rd Ave" lat="37.7797999" lon="-122.49344" stopId="14278"/>
+<stop tag="4280" title="Geary Blvd &amp; 36th Ave" lat="37.7796699" lon="-122.4964" stopId="14280"/>
+<stop tag="4282" title="Geary Blvd &amp; 40th Ave" lat="37.7794699" lon="-122.50068" stopId="14282"/>
+<stop tag="6109" title="Point Lobos Ave &amp; 42nd Ave" lat="37.77965" lon="-122.50285" stopId="16109"/>
+<stop tag="6111" title="Point Lobos Ave &amp; 44th Ave" lat="37.77984" lon="-122.50501" stopId="16111"/>
+<stop tag="6129" title="Point Lobos Ave &amp; 46th Ave" lat="37.7800399" lon="-122.5074399" stopId="16129"/>
+<stop tag="33608" title="48th Ave &amp; Point Lobos Ave" lat="37.7790199" lon="-122.50941" stopId="133608"/>
+<stop tag="3608" title="48th Ave &amp; Point Lobos Ave" lat="37.7790199" lon="-122.50941" stopId="13608"/>
+<stop tag="4286" title="Geary Blvd &amp; 45th Ave" lat="37.7790399" lon="-122.50626" stopId="14286"/>
+<stop tag="4285" title="Geary Blvd &amp; 42nd Ave" lat="37.77915" lon="-122.5027699" stopId="14285"/>
+<stop tag="4283" title="Geary Blvd &amp; 39th Ave" lat="37.7792899" lon="-122.49983" stopId="14283"/>
+<stop tag="4281" title="Geary Blvd &amp; 36th Ave" lat="37.77944" lon="-122.4966199" stopId="14281"/>
+<stop tag="4279" title="Geary Blvd &amp; 33rd Ave" lat="37.7795699" lon="-122.4934" stopId="14279"/>
+<stop tag="4275" title="Geary Blvd &amp; 32nd Ave" lat="37.7796499" lon="-122.49207" stopId="14275"/>
+<stop tag="4274" title="Geary Blvd &amp; 30th Ave" lat="37.7797299" lon="-122.49019" stopId="14274"/>
+<stop tag="4272" title="Geary Blvd &amp; 28th Ave" lat="37.77986" lon="-122.4880499" stopId="14272"/>
+<stop tag="4270" title="Geary Blvd &amp; 25th Ave" lat="37.7799799" lon="-122.48482" stopId="14270"/>
+<stop tag="7302" title="Bush St &amp; Sansome St" lat="37.79107" lon="-122.4009499" stopId="17302"/>
+<stop tag="6332" title="Sansome St &amp; Pine St" lat="37.7920199" lon="-122.4008599" stopId="16332"/>
+<stop tag="3851" title="California St &amp; Battery St" lat="37.79314" lon="-122.3998699" stopId="13851"/>
+<stop tag="4347" title="Davis St &amp; Pine St" lat="37.7926099" lon="-122.39753" stopId="14347"/>
+<direction tag="38AX_OB" title="Outbound to the Richmond District" name="Outbound" useForUI="true">
+  <stop tag="5942" />
+  <stop tag="5944" />
+  <stop tag="4269" />
+  <stop tag="4271" />
+  <stop tag="4273" />
+  <stop tag="4278" />
+  <stop tag="4280" />
+  <stop tag="4282" />
+  <stop tag="6109" />
+  <stop tag="6111" />
+  <stop tag="6129" />
+  <stop tag="33608" />
+</direction>
+<direction tag="38AX_IB" title="Inbound to Downtown" name="Inbound" useForUI="true">
+  <stop tag="3608" />
+  <stop tag="4286" />
+  <stop tag="4285" />
+  <stop tag="4283" />
+  <stop tag="4281" />
+  <stop tag="4279" />
+  <stop tag="4275" />
+  <stop tag="4274" />
+  <stop tag="4272" />
+  <stop tag="4270" />
+  <stop tag="7302" />
+  <stop tag="6332" />
+  <stop tag="3851" />
+  <stop tag="4347" />
+</direction>
+<path>
+<point lat="37.77998" lon="-122.48482"/>
+<point lat="37.7822699" lon="-122.44755"/>
+<point lat="37.78257" lon="-122.44723"/>
+<point lat="37.7830299" lon="-122.44716"/>
+<point lat="37.7849" lon="-122.44755"/>
+<point lat="37.78537" lon="-122.44643"/>
+<point lat="37.79107" lon="-122.40095"/>
+<point lat="37.79117" lon="-122.40075"/>
+<point lat="37.79202" lon="-122.40086"/>
+<point lat="37.7930599" lon="-122.40113"/>
+<point lat="37.79314" lon="-122.39987"/>
+<point lat="37.7935" lon="-122.39761"/>
+<point lat="37.79261" lon="-122.39753"/>
+</path>
+<path>
+<point lat="37.7798" lon="-122.49344"/>
+<point lat="37.77967" lon="-122.4964"/>
+<point lat="37.77947" lon="-122.50068"/>
+<point lat="37.77935" lon="-122.50079"/>
+<point lat="37.7796499" lon="-122.50285"/>
+<point lat="37.77984" lon="-122.50501"/>
+<point lat="37.77998" lon="-122.50729"/>
+<point lat="37.78004" lon="-122.50744"/>
+<point lat="37.77984" lon="-122.50942"/>
+<point lat="37.77902" lon="-122.50941"/>
+</path>
+<path>
+<point lat="37.79254" lon="-122.39772"/>
+<point lat="37.79197" lon="-122.40245"/>
+<point lat="37.78629" lon="-122.44662"/>
+<point lat="37.78541" lon="-122.44754"/>
+<point lat="37.78519" lon="-122.44763"/>
+<point lat="37.7830299" lon="-122.44716"/>
+<point lat="37.78271" lon="-122.44718"/>
+<point lat="37.78238" lon="-122.44731"/>
+<point lat="37.78247" lon="-122.44807"/>
+<point lat="37.78022" lon="-122.48461"/>
+</path>
+<path>
+<point lat="37.77902" lon="-122.50941"/>
+<point lat="37.77904" lon="-122.50626"/>
+<point lat="37.77915" lon="-122.50277"/>
+<point lat="37.77929" lon="-122.49983"/>
+<point lat="37.77944" lon="-122.49662"/>
+<point lat="37.77957" lon="-122.4934"/>
+<point lat="37.7796499" lon="-122.49207"/>
+<point lat="37.77973" lon="-122.49019"/>
+<point lat="37.77986" lon="-122.48805"/>
+<point lat="37.77998" lon="-122.48482"/>
+</path>
+<path>
+<point lat="37.78022" lon="-122.48461"/>
+<point lat="37.78001" lon="-122.48781"/>
+<point lat="37.77996" lon="-122.48997"/>
+<point lat="37.7798" lon="-122.49344"/>
+</path>
+</route>
+</body>

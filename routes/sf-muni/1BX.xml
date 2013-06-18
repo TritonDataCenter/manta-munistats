@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="1BX" title="1BX-California B Express" color="cc3333" oppositeColor="ffffff" latMin="37.7846699" latMax="37.7931399" lonMin="-122.46494" lonMax="-122.39753">
+<stop tag="5942" title="Pine St &amp; Davis St" lat="37.7925399" lon="-122.39772" stopId="15942"/>
+<stop tag="5944" title="Pine St &amp; Montgomery St" lat="37.7919699" lon="-122.40245" stopId="15944"/>
+<stop tag="3861" title="California St &amp; Fillmore St" lat="37.7889299" lon="-122.43415" stopId="13861"/>
+<stop tag="3884" title="California St &amp; Pierce St" lat="37.7885199" lon="-122.43748" stopId="13884"/>
+<stop tag="3858" title="California St &amp; Divisadero St" lat="37.78809" lon="-122.4408699" stopId="13858"/>
+<stop tag="3847" title="California St &amp; Baker St" lat="37.7877399" lon="-122.44363" stopId="13847"/>
+<stop tag="3892" title="California St &amp; Presidio Ave" lat="37.7873299" lon="-122.44691" stopId="13892"/>
+<stop tag="3875" title="California St &amp; Laurel St" lat="37.7869199" lon="-122.44996" stopId="13875"/>
+<stop tag="3896" title="California St &amp; Spruce St" lat="37.7865" lon="-122.4532799" stopId="13896"/>
+<stop tag="3879" title="California St &amp; Maple St" lat="37.7862499" lon="-122.45521" stopId="13879"/>
+<stop tag="3852" title="California St &amp; Cherry St" lat="37.78604" lon="-122.4568299" stopId="13852"/>
+<stop tag="3845" title="California St &amp; Arguello Blvd" lat="37.7856999" lon="-122.45929" stopId="13845"/>
+<stop tag="3822" title="California St &amp; 4th Ave" lat="37.78535" lon="-122.4622899" stopId="13822"/>
+<stop tag="3824" title="California St &amp; 6th Ave" lat="37.7850199" lon="-122.46494" stopId="13824"/>
+<stop tag="3182" title="6th Ave &amp; Cornwall St" lat="37.7846699" lon="-122.46448" stopId="13182"/>
+<stop tag="3823" title="California St &amp; 4th Ave" lat="37.7851799" lon="-122.46257" stopId="13823"/>
+<stop tag="3846" title="California St &amp; Arguello Blvd" lat="37.7856599" lon="-122.45904" stopId="13846"/>
+<stop tag="3853" title="California St &amp; Cherry St" lat="37.7859699" lon="-122.45633" stopId="13853"/>
+<stop tag="3897" title="California St &amp; Spruce St" lat="37.7863299" lon="-122.45352" stopId="13897"/>
+<stop tag="3876" title="California St &amp; Laurel St" lat="37.78671" lon="-122.4502599" stopId="13876"/>
+<stop tag="3893" title="California St &amp; Presidio Ave" lat="37.7871499" lon="-122.44688" stopId="13893"/>
+<stop tag="3848" title="California St &amp; Baker St" lat="37.7876199" lon="-122.44338" stopId="13848"/>
+<stop tag="3859" title="California St &amp; Divisadero St" lat="37.7879499" lon="-122.44072" stopId="13859"/>
+<stop tag="3885" title="California St &amp; Pierce St" lat="37.7884599" lon="-122.43681" stopId="13885"/>
+<stop tag="3862" title="California St &amp; Fillmore St" lat="37.7887899" lon="-122.43392" stopId="13862"/>
+<stop tag="7302" title="Bush St &amp; Sansome St" lat="37.7910699" lon="-122.40095" stopId="17302"/>
+<stop tag="6332" title="Sansome St &amp; Pine St" lat="37.7920199" lon="-122.4008599" stopId="16332"/>
+<stop tag="3851" title="California St &amp; Battery St" lat="37.7931399" lon="-122.39987" stopId="13851"/>
+<stop tag="4347" title="Davis St &amp; Pine St" lat="37.7926099" lon="-122.39753" stopId="14347"/>
+<direction tag="01BX_OB" title="Outbound to the Richmond District" name="Outbound" useForUI="true">
+  <stop tag="5942" />
+  <stop tag="5944" />
+  <stop tag="3861" />
+  <stop tag="3884" />
+  <stop tag="3858" />
+  <stop tag="3847" />
+  <stop tag="3892" />
+  <stop tag="3875" />
+  <stop tag="3896" />
+  <stop tag="3879" />
+  <stop tag="3852" />
+  <stop tag="3845" />
+  <stop tag="3822" />
+  <stop tag="3824" />
+</direction>
+<direction tag="01BX_IB" title="Inbound to Downtown" name="Inbound" useForUI="true">
+  <stop tag="3182" />
+  <stop tag="3823" />
+  <stop tag="3846" />
+  <stop tag="3853" />
+  <stop tag="3897" />
+  <stop tag="3876" />
+  <stop tag="3893" />
+  <stop tag="3848" />
+  <stop tag="3859" />
+  <stop tag="3885" />
+  <stop tag="3862" />
+  <stop tag="7302" />
+  <stop tag="6332" />
+  <stop tag="3851" />
+  <stop tag="4347" />
+</direction>
+<path>
+<point lat="37.78467" lon="-122.46448"/>
+<point lat="37.78499" lon="-122.46456"/>
+<point lat="37.7851799" lon="-122.46257"/>
+<point lat="37.78566" lon="-122.45904"/>
+<point lat="37.78597" lon="-122.45633"/>
+<point lat="37.78633" lon="-122.45352"/>
+<point lat="37.78671" lon="-122.45026"/>
+<point lat="37.7871499" lon="-122.44688"/>
+</path>
+<path>
+<point lat="37.78879" lon="-122.43392"/>
+<point lat="37.78701" lon="-122.43346"/>
+<point lat="37.79107" lon="-122.40095"/>
+<point lat="37.79117" lon="-122.40075"/>
+<point lat="37.79202" lon="-122.40086"/>
+<point lat="37.7930599" lon="-122.40113"/>
+<point lat="37.79314" lon="-122.39987"/>
+<point lat="37.7935" lon="-122.39761"/>
+<point lat="37.79261" lon="-122.39753"/>
+</path>
+<path>
+<point lat="37.78893" lon="-122.43415"/>
+<point lat="37.78852" lon="-122.43748"/>
+<point lat="37.7880899" lon="-122.44087"/>
+<point lat="37.78774" lon="-122.44363"/>
+<point lat="37.78733" lon="-122.44691"/>
+</path>
+<path>
+<point lat="37.79254" lon="-122.39772"/>
+<point lat="37.79197" lon="-122.40245"/>
+<point lat="37.78794" lon="-122.43366"/>
+<point lat="37.7889" lon="-122.43384"/>
+<point lat="37.78893" lon="-122.43415"/>
+</path>
+<path>
+<point lat="37.78733" lon="-122.44691"/>
+<point lat="37.78692" lon="-122.44996"/>
+<point lat="37.7864999" lon="-122.45328"/>
+<point lat="37.78625" lon="-122.45521"/>
+<point lat="37.78604" lon="-122.45683"/>
+<point lat="37.7857" lon="-122.45929"/>
+<point lat="37.78535" lon="-122.46229"/>
+<point lat="37.78499" lon="-122.46456"/>
+<point lat="37.78502" lon="-122.46494"/>
+</path>
+<path>
+<point lat="37.7871499" lon="-122.44688"/>
+<point lat="37.7876199" lon="-122.44338"/>
+<point lat="37.78795" lon="-122.44072"/>
+<point lat="37.78846" lon="-122.43681"/>
+<point lat="37.7889" lon="-122.43384"/>
+<point lat="37.78879" lon="-122.43392"/>
+</path>
+</route>
+</body>

@@ -1,0 +1,12 @@
+{
+	"phases": [
+		{
+			"type": "map",
+			"exec": "/assets/bpijewski/stor/munistats/assets/segment_by_hour.sh",
+			"assets": [
+				"/bpijewski/stor/munistats/assets/segment_by_hour.sh"
+				"/bpijewski/stor/munistats/assets/trips.jar"
+			]
+		}
+	]
+}

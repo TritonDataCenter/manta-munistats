@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="31AX" title="31AX-Balboa A Express" color="990000" oppositeColor="ffffff" latMin="37.77321" latMax="37.79314" lonMin="-122.50993" lonMax="-122.39753">
+<stop tag="4347" title="Davis St &amp; Pine St" lat="37.7926099" lon="-122.39753" stopId="14347"/>
+<stop tag="5944" title="Pine St &amp; Montgomery St" lat="37.79197" lon="-122.4024499" stopId="15944"/>
+<stop tag="3070" title="Balboa St &amp; Park Presidio Blvd" lat="37.7768999" lon="-122.47223" stopId="13070"/>
+<stop tag="3043" title="Balboa St &amp; 17th Ave" lat="37.77676" lon="-122.4757699" stopId="13043"/>
+<stop tag="3045" title="Balboa St &amp; 19th Ave" lat="37.7766599" lon="-122.47791" stopId="13045"/>
+<stop tag="3047" title="Balboa St &amp; 21st Ave" lat="37.7765599" lon="-122.48006" stopId="13047"/>
+<stop tag="3049" title="Balboa St &amp; 23rd Ave" lat="37.77647" lon="-122.4821899" stopId="13049"/>
+<stop tag="3051" title="Balboa St &amp; 25th Ave" lat="37.7763599" lon="-122.48461" stopId="13051"/>
+<stop tag="3053" title="Balboa St &amp; 28th Ave" lat="37.7762199" lon="-122.48755" stopId="13053"/>
+<stop tag="3055" title="Balboa St &amp; 30th Ave" lat="37.77611" lon="-122.4899599" stopId="13055"/>
+<stop tag="3057" title="Balboa St &amp; 32nd Ave" lat="37.77602" lon="-122.4918399" stopId="13057"/>
+<stop tag="3060" title="Balboa St &amp; 35th Ave" lat="37.7758999" lon="-122.49458" stopId="13060"/>
+<stop tag="3061" title="Balboa St &amp; 37th Ave" lat="37.77578" lon="-122.4971999" stopId="13061"/>
+<stop tag="3063" title="Balboa St &amp; 40th Ave" lat="37.7756399" lon="-122.5004" stopId="13063"/>
+<stop tag="3065" title="Balboa St &amp; 43rd Ave" lat="37.77548" lon="-122.5036199" stopId="13065"/>
+<stop tag="3571" title="45th Ave &amp; Balboa St" lat="37.7752099" lon="-122.5059599" stopId="13571"/>
+<stop tag="3573" title="45th Ave &amp; Cabrillo St" lat="37.77354" lon="-122.50583" stopId="13573"/>
+<stop tag="3924" title="Cabrillo St &amp; 47th Ave" lat="37.7734199" lon="-122.50777" stopId="13924"/>
+<stop tag="33927" title="Cabrillo St &amp; La Playa St" lat="37.7733199" lon="-122.50993" stopId="133927"/>
+<stop tag="3927" title="Cabrillo St &amp; La Playa St" lat="37.7733199" lon="-122.50993" stopId="13927"/>
+<stop tag="7204" title="Cabrillo St &amp; La Playa St" lat="37.77321" lon="-122.5098799" stopId="17204"/>
+<stop tag="3925" title="Cabrillo St &amp; 47th Ave" lat="37.7732899" lon="-122.50798" stopId="13925"/>
+<stop tag="3572" title="45th Ave &amp; Cabrillo St" lat="37.7735699" lon="-122.50567" stopId="13572"/>
+<stop tag="3570" title="45th Ave &amp; Balboa St" lat="37.77524" lon="-122.5058" stopId="13570"/>
+<stop tag="3066" title="Balboa St &amp; 43rd Ave" lat="37.77535" lon="-122.5038399" stopId="13066"/>
+<stop tag="3064" title="Balboa St &amp; 40th Ave" lat="37.7754999" lon="-122.50062" stopId="13064"/>
+<stop tag="3062" title="Balboa St &amp; 37th Ave" lat="37.77565" lon="-122.4974199" stopId="13062"/>
+<stop tag="3059" title="Balboa St &amp; 34th Ave" lat="37.77579" lon="-122.4941999" stopId="13059"/>
+<stop tag="3058" title="Balboa St &amp; 32nd Ave" lat="37.77589" lon="-122.4920599" stopId="13058"/>
+<stop tag="3056" title="Balboa St &amp; 30th Ave" lat="37.7759899" lon="-122.48991" stopId="13056"/>
+<stop tag="3054" title="Balboa St &amp; 28th Ave" lat="37.7760899" lon="-122.48777" stopId="13054"/>
+<stop tag="3052" title="Balboa St &amp; 25th Ave" lat="37.77624" lon="-122.4842999" stopId="13052"/>
+<stop tag="3050" title="Balboa St &amp; 23rd Ave" lat="37.77633" lon="-122.4824199" stopId="13050"/>
+<stop tag="3048" title="Balboa St &amp; 21st Ave" lat="37.7764299" lon="-122.48027" stopId="13048"/>
+<stop tag="3046" title="Balboa St &amp; 19th Ave" lat="37.7765299" lon="-122.47813" stopId="13046"/>
+<stop tag="3044" title="Balboa St &amp; 17th Ave" lat="37.7766299" lon="-122.47599" stopId="13044"/>
+<stop tag="3042" title="Balboa St &amp; 14th Ave" lat="37.77678" lon="-122.4726999" stopId="13042"/>
+<stop tag="3071" title="Balboa St &amp; Park Presidio Blvd" lat="37.7767899" lon="-122.47241" stopId="13071"/>
+<stop tag="7302" title="Bush St &amp; Sansome St" lat="37.79107" lon="-122.4009499" stopId="17302"/>
+<stop tag="6332" title="Sansome St &amp; Pine St" lat="37.79202" lon="-122.40086" stopId="16332"/>
+<stop tag="3851" title="California St &amp; Battery St" lat="37.79314" lon="-122.3998699" stopId="13851"/>
+<stop tag="34347" title="Davis St &amp; Pine St" lat="37.7926099" lon="-122.39753" stopId="134347"/>
+<direction tag="31AX_OB" title="Outbound to the Richmond District" name="Outbound" useForUI="true">
+  <stop tag="4347" />
+  <stop tag="5944" />
+  <stop tag="3070" />
+  <stop tag="3043" />
+  <stop tag="3045" />
+  <stop tag="3047" />
+  <stop tag="3049" />
+  <stop tag="3051" />
+  <stop tag="3053" />
+  <stop tag="3055" />
+  <stop tag="3057" />
+  <stop tag="3060" />
+  <stop tag="3061" />
+  <stop tag="3063" />
+  <stop tag="3065" />
+  <stop tag="3571" />
+  <stop tag="3573" />
+  <stop tag="3924" />
+  <stop tag="33927" />
+</direction>
+<direction tag="31AX_IB" title="Inbound to Downtown" name="Inbound" useForUI="true">
+  <stop tag="3927" />
+  <stop tag="7204" />
+  <stop tag="3925" />
+  <stop tag="3572" />
+  <stop tag="3570" />
+  <stop tag="3066" />
+  <stop tag="3064" />
+  <stop tag="3062" />
+  <stop tag="3059" />
+  <stop tag="3058" />
+  <stop tag="3056" />
+  <stop tag="3054" />
+  <stop tag="3052" />
+  <stop tag="3050" />
+  <stop tag="3048" />
+  <stop tag="3046" />
+  <stop tag="3044" />
+  <stop tag="3042" />
+  <stop tag="3071" />
+  <stop tag="7302" />
+  <stop tag="6332" />
+  <stop tag="3851" />
+  <stop tag="34347" />
+</direction>
+<path>
+<point lat="37.7769" lon="-122.47223"/>
+<point lat="37.77676" lon="-122.47577"/>
+<point lat="37.77666" lon="-122.47791"/>
+<point lat="37.77656" lon="-122.48006"/>
+<point lat="37.77647" lon="-122.48219"/>
+<point lat="37.7763599" lon="-122.48461"/>
+<point lat="37.77622" lon="-122.48755"/>
+<point lat="37.77611" lon="-122.48996"/>
+<point lat="37.77602" lon="-122.49184"/>
+<point lat="37.7759" lon="-122.49458"/>
+<point lat="37.77578" lon="-122.4972"/>
+<point lat="37.77564" lon="-122.5004"/>
+<point lat="37.77548" lon="-122.50362"/>
+<point lat="37.77532" lon="-122.50588"/>
+<point lat="37.77521" lon="-122.50596"/>
+<point lat="37.7735399" lon="-122.50583"/>
+<point lat="37.7734499" lon="-122.50574"/>
+<point lat="37.77342" lon="-122.50777"/>
+<point lat="37.77326" lon="-122.50978"/>
+<point lat="37.77332" lon="-122.50993"/>
+</path>
+<path>
+<point lat="37.79261" lon="-122.39753"/>
+<point lat="37.79197" lon="-122.40245"/>
+<point lat="37.78629" lon="-122.44662"/>
+<point lat="37.78541" lon="-122.44754"/>
+<point lat="37.78519" lon="-122.44763"/>
+<point lat="37.7830299" lon="-122.44716"/>
+<point lat="37.78271" lon="-122.44718"/>
+<point lat="37.78238" lon="-122.44731"/>
+<point lat="37.78247" lon="-122.44807"/>
+<point lat="37.78065" lon="-122.47231"/>
+<point lat="37.77686" lon="-122.47203"/>
+<point lat="37.7769" lon="-122.47223"/>
+</path>
+<path>
+<point lat="37.77679" lon="-122.47241"/>
+<point lat="37.7769199" lon="-122.47202"/>
+<point lat="37.78065" lon="-122.47231"/>
+<point lat="37.78228" lon="-122.44789"/>
+<point lat="37.7822699" lon="-122.44755"/>
+<point lat="37.78257" lon="-122.44723"/>
+<point lat="37.7830299" lon="-122.44716"/>
+<point lat="37.7849" lon="-122.44755"/>
+<point lat="37.78537" lon="-122.44643"/>
+<point lat="37.79107" lon="-122.40095"/>
+<point lat="37.79117" lon="-122.40075"/>
+<point lat="37.79202" lon="-122.40086"/>
+<point lat="37.7930599" lon="-122.40113"/>
+<point lat="37.79314" lon="-122.39987"/>
+<point lat="37.7935" lon="-122.39761"/>
+<point lat="37.79261" lon="-122.39753"/>
+</path>
+<path>
+<point lat="37.77332" lon="-122.50993"/>
+<point lat="37.77321" lon="-122.50988"/>
+<point lat="37.77329" lon="-122.50798"/>
+<point lat="37.7734499" lon="-122.50574"/>
+<point lat="37.77357" lon="-122.50567"/>
+<point lat="37.7752399" lon="-122.5058"/>
+<point lat="37.77532" lon="-122.50588"/>
+<point lat="37.77535" lon="-122.50384"/>
+<point lat="37.7755" lon="-122.50062"/>
+<point lat="37.77565" lon="-122.49742"/>
+<point lat="37.77579" lon="-122.4942"/>
+<point lat="37.7758899" lon="-122.49206"/>
+<point lat="37.77599" lon="-122.48991"/>
+<point lat="37.77609" lon="-122.48777"/>
+<point lat="37.77624" lon="-122.4843"/>
+<point lat="37.77633" lon="-122.48242"/>
+<point lat="37.77643" lon="-122.48027"/>
+<point lat="37.77653" lon="-122.47813"/>
+<point lat="37.77663" lon="-122.47599"/>
+<point lat="37.77678" lon="-122.4727"/>
+<point lat="37.77684" lon="-122.47257"/>
+<point lat="37.77679" lon="-122.47241"/>
+</path>
+</route>
+</body>

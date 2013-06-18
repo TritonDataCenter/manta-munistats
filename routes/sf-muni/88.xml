@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="88" title="88-B.A.R.T. Shuttle" color="555555" oppositeColor="ffffff" latMin="37.7086599" latMax="37.7210499" lonMin="-122.45478" lonMax="-122.44108">
+<stop tag="4805" title="Balboa Park Bart Station" lat="37.7208599" lon="-122.44723" stopId="14805"/>
+<stop tag="4816" title="Geneva Ave &amp; Delano Ave" lat="37.72007" lon="-122.44526" stopId="14816"/>
+<stop tag="4811" title="Geneva Ave &amp; Cayuga Ave" lat="37.7187199" lon="-122.4435499" stopId="14811"/>
+<stop tag="5592" title="Mission St &amp; Geneva Ave" lat="37.7164599" lon="-122.44115" stopId="15592"/>
+<stop tag="5604" title="Mission St &amp; Mt Vernon Ave" lat="37.7146999" lon="-122.44265" stopId="15604"/>
+<stop tag="5589" title="Mission St &amp; Foote Ave" lat="37.7128499" lon="-122.44462" stopId="15589"/>
+<stop tag="5602" title="Mission St &amp; Lowell St" lat="37.71147" lon="-122.4465299" stopId="15602"/>
+<stop tag="5627" title="Mission St &amp; Whittier St" lat="37.7104799" lon="-122.44834" stopId="15627"/>
+<stop tag="5600" title="Mission St &amp; Lawrence Ave" lat="37.7094999" lon="-122.45087" stopId="15600"/>
+<stop tag="5619" title="Mission St &amp; Sickles Ave" lat="37.7086599" lon="-122.45332" stopId="15619"/>
+<stop tag="6391" title="Sickles Ave &amp; Alemany Blvd" lat="37.7102899" lon="-122.45478" stopId="16391"/>
+<stop tag="5574" title="Mission St &amp; Acton St" lat="37.7088899" lon="-122.4522" stopId="15574"/>
+<stop tag="5608" title="Mission St &amp; Oliver St" lat="37.7096199" lon="-122.45006" stopId="15608"/>
+<stop tag="5628" title="Mission St &amp; Whittier St" lat="37.7102199" lon="-122.44845" stopId="15628"/>
+<stop tag="5601" title="Mission St &amp; Lowell St" lat="37.71172" lon="-122.4456899" stopId="15601"/>
+<stop tag="5595" title="Mission St &amp; Guttenberg St" lat="37.7125099" lon="-122.44475" stopId="15595"/>
+<stop tag="5575" title="Mission St &amp; Allison St" lat="37.71448" lon="-122.4426399" stopId="15575"/>
+<stop tag="4885" title="Geneva Ave &amp; Mission St" lat="37.7167099" lon="-122.44108" stopId="14885"/>
+<stop tag="4810" title="Geneva Ave &amp; Cayuga Ave" lat="37.7189299" lon="-122.4435499" stopId="14810"/>
+<stop tag="4879" title="Geneva Ave &amp; Delano Ave" lat="37.72028" lon="-122.44536" stopId="14879"/>
+<stop tag="4803" title="Balboa Park Bart Station" lat="37.7210499" lon="-122.44722" stopId="14803"/>
+<direction tag="88_IB" title="Inbound to Balboa Park Station" name="Inbound" useForUI="true">
+  <stop tag="6391" />
+  <stop tag="5574" />
+  <stop tag="5608" />
+  <stop tag="5628" />
+  <stop tag="5601" />
+  <stop tag="5595" />
+  <stop tag="5575" />
+  <stop tag="4885" />
+  <stop tag="4810" />
+  <stop tag="4879" />
+  <stop tag="4803" />
+</direction>
+<direction tag="88_OB" title="Outbound to Mission &amp; Sickles" name="Outbound" useForUI="true">
+  <stop tag="4805" />
+  <stop tag="4816" />
+  <stop tag="4811" />
+  <stop tag="5592" />
+  <stop tag="5604" />
+  <stop tag="5589" />
+  <stop tag="5602" />
+  <stop tag="5627" />
+  <stop tag="5600" />
+  <stop tag="5619" />
+</direction>
+<path>
+<point lat="37.71671" lon="-122.44108"/>
+<point lat="37.7168599" lon="-122.44125"/>
+<point lat="37.71726" lon="-122.44163"/>
+<point lat="37.71893" lon="-122.44355"/>
+<point lat="37.72009" lon="-122.44513"/>
+<point lat="37.72028" lon="-122.44536"/>
+<point lat="37.72105" lon="-122.44722"/>
+</path>
+<path>
+<point lat="37.72086" lon="-122.44723"/>
+<point lat="37.72007" lon="-122.44526"/>
+<point lat="37.72009" lon="-122.44513"/>
+<point lat="37.71872" lon="-122.44355"/>
+<point lat="37.71726" lon="-122.44163"/>
+<point lat="37.7168599" lon="-122.44125"/>
+<point lat="37.71646" lon="-122.44102"/>
+<point lat="37.71646" lon="-122.44115"/>
+</path>
+<path>
+<point lat="37.71029" lon="-122.45478"/>
+<point lat="37.70887" lon="-122.45288"/>
+<point lat="37.7088899" lon="-122.4522"/>
+<point lat="37.70962" lon="-122.45006"/>
+<point lat="37.71008" lon="-122.44892"/>
+<point lat="37.71022" lon="-122.44845"/>
+<point lat="37.71172" lon="-122.44569"/>
+<point lat="37.7118899" lon="-122.44553"/>
+<point lat="37.71251" lon="-122.44475"/>
+<point lat="37.71448" lon="-122.44264"/>
+<point lat="37.71531" lon="-122.4419"/>
+<point lat="37.71646" lon="-122.44102"/>
+<point lat="37.71671" lon="-122.44108"/>
+</path>
+<path>
+<point lat="37.71646" lon="-122.44115"/>
+<point lat="37.71543" lon="-122.4418"/>
+<point lat="37.7147" lon="-122.44265"/>
+<point lat="37.71285" lon="-122.44462"/>
+<point lat="37.7118899" lon="-122.44553"/>
+<point lat="37.71147" lon="-122.44653"/>
+<point lat="37.7104799" lon="-122.44834"/>
+<point lat="37.71008" lon="-122.44892"/>
+<point lat="37.7095" lon="-122.45087"/>
+<point lat="37.70881" lon="-122.45266"/>
+<point lat="37.70866" lon="-122.45332"/>
+</path>
+</route>
+</body>

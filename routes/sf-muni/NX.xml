@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="NX" title="NX-N Express" color="006633" oppositeColor="ffffff" latMin="37.7602599" latMax="37.7909599" lonMin="-122.5082" lonMax="-122.40067">
+<stop tag="6606" title="Sutter St &amp; Sansome St" lat="37.7902999" lon="-122.40067" stopId="16606"/>
+<stop tag="7629" title="19 Ave &amp; Juda St" lat="37.7617499" lon="-122.47707" stopId="17629"/>
+<stop tag="5202" title="Judah St &amp; 23rd Ave" lat="37.7615499" lon="-122.48116" stopId="15202"/>
+<stop tag="5203" title="Judah St &amp; 25th Ave" lat="37.76145" lon="-122.4832999" stopId="15203"/>
+<stop tag="5205" title="Judah St &amp; 28th Ave" lat="37.76131" lon="-122.4865099" stopId="15205"/>
+<stop tag="5207" title="Judah St &amp; 31st Ave" lat="37.76117" lon="-122.4897199" stopId="15207"/>
+<stop tag="5209" title="Judah St &amp; 34th Ave" lat="37.7610299" lon="-122.49293" stopId="15209"/>
+<stop tag="5224" title="Judah St &amp; Sunset Blvd" lat="37.7609099" lon="-122.49556" stopId="15224"/>
+<stop tag="5211" title="Judah St &amp; 40th Ave" lat="37.76074" lon="-122.4993599" stopId="15211"/>
+<stop tag="5213" title="Judah St &amp; 43rd Ave" lat="37.7606" lon="-122.5025699" stopId="15213"/>
+<stop tag="5215" title="Judah St &amp; 46th Ave" lat="37.7604899" lon="-122.50583" stopId="15215"/>
+<stop tag="7631" title="Judah St &amp; 48th Ave" lat="37.76039" lon="-122.50801" stopId="17631"/>
+<stop tag="5218" title="Judah St &amp; 48th Ave" lat="37.7602599" lon="-122.5082" stopId="15218"/>
+<stop tag="5216" title="Judah St &amp; 46th Ave" lat="37.76039" lon="-122.5060599" stopId="15216"/>
+<stop tag="5214" title="Judah St &amp; 43rd Ave" lat="37.76052" lon="-122.5028399" stopId="15214"/>
+<stop tag="7120" title="Judah St &amp; 40th Ave" lat="37.7606399" lon="-122.49914" stopId="17120"/>
+<stop tag="5225" title="Judah St &amp; Sunset Blvd" lat="37.7608299" lon="-122.49596" stopId="15225"/>
+<stop tag="5210" title="Judah St &amp; 34th Ave" lat="37.7609599" lon="-122.4932" stopId="15210"/>
+<stop tag="7092" title="Judah St &amp; 31st Ave" lat="37.7610699" lon="-122.48949" stopId="17092"/>
+<stop tag="5206" title="Judah St &amp; 28th Ave" lat="37.76123" lon="-122.4867599" stopId="15206"/>
+<stop tag="5204" title="Judah St &amp; 25th Ave" lat="37.76137" lon="-122.4835599" stopId="15204"/>
+<stop tag="7122" title="Judah St &amp; 22nd Ave" lat="37.76149" lon="-122.4798299" stopId="17122"/>
+<stop tag="5200" title="Judah St &amp; 19th Ave" lat="37.7616599" lon="-122.47719" stopId="15200"/>
+<stop tag="3815" title="Bush St &amp; Montgomery St" lat="37.7909599" lon="-122.40208" stopId="13815"/>
+<direction tag="NX_OB1" title="Outbound" name="Outbound" useForUI="true">
+  <stop tag="6606" />
+  <stop tag="7629" />
+  <stop tag="5202" />
+  <stop tag="5203" />
+  <stop tag="5205" />
+  <stop tag="5207" />
+  <stop tag="5209" />
+  <stop tag="5224" />
+  <stop tag="5211" />
+  <stop tag="5213" />
+  <stop tag="5215" />
+  <stop tag="7631" />
+</direction>
+<direction tag="NX_IB1" title="Inbound to Downtown" name="Inbound" useForUI="true">
+  <stop tag="5218" />
+  <stop tag="5216" />
+  <stop tag="5214" />
+  <stop tag="7120" />
+  <stop tag="5225" />
+  <stop tag="5210" />
+  <stop tag="7092" />
+  <stop tag="5206" />
+  <stop tag="5204" />
+  <stop tag="7122" />
+  <stop tag="5200" />
+  <stop tag="3815" />
+</direction>
+<path>
+<point lat="37.76026" lon="-122.5082"/>
+<point lat="37.76039" lon="-122.50606"/>
+<point lat="37.76052" lon="-122.50284"/>
+<point lat="37.76064" lon="-122.49914"/>
+<point lat="37.76083" lon="-122.49596"/>
+</path>
+<path>
+<point lat="37.76175" lon="-122.47707"/>
+<point lat="37.7617" lon="-122.47701"/>
+<point lat="37.76155" lon="-122.48116"/>
+<point lat="37.76145" lon="-122.4833"/>
+<point lat="37.76131" lon="-122.48651"/>
+<point lat="37.76117" lon="-122.48972"/>
+<point lat="37.76103" lon="-122.49293"/>
+<point lat="37.76091" lon="-122.49556"/>
+</path>
+<path>
+<point lat="37.7903" lon="-122.40067"/>
+<point lat="37.78713" lon="-122.42505"/>
+<point lat="37.78534" lon="-122.42469"/>
+<point lat="37.78372" lon="-122.43785"/>
+<point lat="37.78343" lon="-122.43864"/>
+<point lat="37.78066" lon="-122.47231"/>
+<point lat="37.77287" lon="-122.47173"/>
+<point lat="37.77261" lon="-122.47184"/>
+<point lat="37.77241" lon="-122.47209"/>
+<point lat="37.77232" lon="-122.4724"/>
+<point lat="37.77257" lon="-122.47466"/>
+<point lat="37.77227" lon="-122.47873"/>
+<point lat="37.77208" lon="-122.47912"/>
+<point lat="37.77182" lon="-122.47939"/>
+<point lat="37.7715" lon="-122.47952"/>
+<point lat="37.77122" lon="-122.47947"/>
+<point lat="37.76925" lon="-122.47844"/>
+<point lat="37.76762" lon="-122.47817"/>
+<point lat="37.76737" lon="-122.47806"/>
+<point lat="37.76663" lon="-122.47755"/>
+<point lat="37.76606" lon="-122.47736"/>
+<point lat="37.76175" lon="-122.47707"/>
+</path>
+<path>
+<point lat="37.76091" lon="-122.49556"/>
+<point lat="37.76074" lon="-122.49936"/>
+<point lat="37.7605999" lon="-122.50257"/>
+<point lat="37.76049" lon="-122.50583"/>
+<point lat="37.76039" lon="-122.50801"/>
+</path>
+<path>
+<point lat="37.76083" lon="-122.49596"/>
+<point lat="37.76096" lon="-122.4932"/>
+<point lat="37.7610699" lon="-122.48949"/>
+<point lat="37.76123" lon="-122.48676"/>
+<point lat="37.76137" lon="-122.48356"/>
+<point lat="37.76149" lon="-122.47983"/>
+<point lat="37.76166" lon="-122.47719"/>
+</path>
+<path>
+<point lat="37.76166" lon="-122.47719"/>
+<point lat="37.7617" lon="-122.47701"/>
+<point lat="37.76545" lon="-122.47731"/>
+<point lat="37.76621" lon="-122.46002"/>
+<point lat="37.76643" lon="-122.45983"/>
+<point lat="37.76703" lon="-122.45905"/>
+<point lat="37.7671599" lon="-122.45874"/>
+<point lat="37.76818" lon="-122.45528"/>
+<point lat="37.7683899" lon="-122.45504"/>
+<point lat="37.76884" lon="-122.45489"/>
+<point lat="37.76907" lon="-122.4549"/>
+<point lat="37.76932" lon="-122.45496"/>
+<point lat="37.77038" lon="-122.45545"/>
+<point lat="37.77065" lon="-122.45546"/>
+<point lat="37.77093" lon="-122.45529"/>
+<point lat="37.77143" lon="-122.45398"/>
+<point lat="37.77142" lon="-122.45354"/>
+<point lat="37.77123" lon="-122.45224"/>
+<point lat="37.77208" lon="-122.44572"/>
+<point lat="37.78151" lon="-122.4476"/>
+<point lat="37.78258" lon="-122.44723"/>
+<point lat="37.7830299" lon="-122.44715"/>
+<point lat="37.78491" lon="-122.44755"/>
+<point lat="37.78537" lon="-122.44642"/>
+<point lat="37.79096" lon="-122.40208"/>
+</path>
+</route>
+</body>

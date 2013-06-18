@@ -1,0 +1,11 @@
+{
+	"name": "munistats",
+	"description": "Track and analyze SF Muni buses",
+	"version": "0.0.1",
+	"author": "Bill Pijewski <bill.pijewski@gmail.com>",
+	"private": true,
+	"dependencies": {
+		"sprintf": "0.1.1",
+		"statsjs": "1.0.6"
+	}
+}

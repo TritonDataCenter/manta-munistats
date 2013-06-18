@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="munistats">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../../../Applications/eclipse"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+    <path id="munistats.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/log4j-1.2.17.jar"/>
+        <pathelement location="lib/jdom-2.0.4.jar"/>
+        <pathelement location="lib/httpclient-4.2.2.jar"/>
+        <pathelement location="lib/httpclient-cache-4.2.2.jar"/>
+        <pathelement location="lib/httpcore-4.2.2.jar"/>
+        <pathelement location="lib/httpmime-4.2.2.jar"/>
+        <pathelement location="lib/commons-codec-1.6.jar"/>
+        <pathelement location="lib/commons-logging-1.1.1.jar"/>
+        <pathelement location="lib/fluent-hc-4.2.2.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="munistats.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="ArrivalPredictor">
+        <java classname="com.billpijewski.nextbustracker.main.ArrivalPredictor" failonerror="true" fork="yes">
+            <classpath refid="munistats.classpath"/>
+        </java>
+    </target>
+    <target name="LineReader">
+        <java classname="com.billpijewski.nextbustracker.main.LineReader" failonerror="true" fork="yes">
+            <classpath refid="munistats.classpath"/>
+        </java>
+    </target>
+    <target name="NextBusTracker">
+        <java classname="com.billpijewski.nextbustracker.main.NextBusTracker" failonerror="true" fork="yes">
+            <classpath refid="munistats.classpath"/>
+        </java>
+    </target>
+    <target name="ScheduleEstimator">
+        <java classname="com.billpijewski.nextbustracker.main.ScheduleEstimator" failonerror="true" fork="yes">
+            <classpath refid="munistats.classpath"/>
+        </java>
+    </target>
+
+    <target name="create_arr_jar" depends="build-project">
+        <jar destfile="build/arrival_predictor.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="com.billpijewski.nextbustracker.main.ArrivalPredictor"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="bin"/>
+            <fileset dir="." includes="routes/*/*.xml,tools"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/log4j-1.2.17.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/jdom-2.0.4.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpclient-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpclient-cache-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpcore-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpmime-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/commons-codec-1.6.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/commons-logging-1.1.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/fluent-hc-4.2.2.jar"/>
+        </jar>
+    </target>
+
+    <target name="create_trips_jar" depends="build-project">
+        <jar destfile="build/trips.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="com.billpijewski.nextbustracker.main.ScheduleEstimator"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="bin"/>
+            <fileset dir="." includes="routes/*/*.xml,tools"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/log4j-1.2.17.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/jdom-2.0.4.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpclient-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpclient-cache-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpcore-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/httpmime-4.2.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/commons-codec-1.6.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/commons-logging-1.1.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="./lib/fluent-hc-4.2.2.jar"/>
+        </jar>
+    </target>
+
+
+</project>

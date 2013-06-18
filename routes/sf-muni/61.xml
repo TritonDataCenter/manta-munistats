@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="61" title="California Cable Car" color="9ac520" oppositeColor="000000" latMin="37.7904399" latMax="37.7937099" lonMin="-122.42202" lonMax="-122.39614">
+<stop tag="3867" title="California St &amp; Hyde St" lat="37.7910199" lon="-122.41756" stopId="13867"/>
+<stop tag="3873" title="California St &amp; Larkin St" lat="37.79087" lon="-122.4188899" stopId="13873"/>
+<stop tag="3888" title="California St &amp; Polk St" lat="37.79066" lon="-122.4205399" stopId="13888"/>
+<stop tag="37142" title="California St &amp; Van Ness Ave" lat="37.7904399" lon="-122.42202" stopId="137142"/>
+<stop tag="3860" title="California St &amp; Drumm St" lat="37.7937099" lon="-122.39614" stopId="13860"/>
+<stop tag="3855" title="California St &amp; Davis St" lat="37.79359" lon="-122.3974599" stopId="13855"/>
+<stop tag="3863" title="California St &amp; Front St" lat="37.79344" lon="-122.3986399" stopId="13863"/>
+<stop tag="3849" title="California St &amp; Battery St" lat="37.7933" lon="-122.3998099" stopId="13849"/>
+<stop tag="3894" title="California St &amp; Sansome St" lat="37.7931499" lon="-122.40098" stopId="13894"/>
+<stop tag="3883" title="California St &amp; Montgomery St" lat="37.79293" lon="-122.4026199" stopId="13883"/>
+<stop tag="3871" title="California St &amp; Kearny St" lat="37.7927199" lon="-122.40427" stopId="13871"/>
+<stop tag="3865" title="California St &amp; Grant Ave" lat="37.7925" lon="-122.4059599" stopId="13865"/>
+<stop tag="3899" title="California St &amp; Stockton St" lat="37.79231" lon="-122.4075499" stopId="13899"/>
+<stop tag="3890" title="California St &amp; Powell St" lat="37.7920699" lon="-122.40942" stopId="13890"/>
+<stop tag="3880" title="California St &amp; Mason St" lat="37.7918699" lon="-122.41098" stopId="13880"/>
+<stop tag="3901" title="California St &amp; Taylor St" lat="37.7917099" lon="-122.41232" stopId="13901"/>
+<stop tag="3869" title="California St &amp; Jones St" lat="37.79147" lon="-122.4141199" stopId="13869"/>
+<stop tag="3877" title="California St &amp; Leavenworth St" lat="37.79129" lon="-122.4156099" stopId="13877"/>
+<stop tag="7142" title="California St &amp; Van Ness Ave" lat="37.7904399" lon="-122.42202" stopId="17142"/>
+<stop tag="3889" title="California St &amp; Polk St" lat="37.79049" lon="-122.4208299" stopId="13889"/>
+<stop tag="3874" title="California St &amp; Larkin St" lat="37.7907" lon="-122.4191599" stopId="13874"/>
+<stop tag="3868" title="California St &amp; Hyde St" lat="37.7908999" lon="-122.41739" stopId="13868"/>
+<stop tag="3878" title="California St &amp; Leavenworth St" lat="37.7911299" lon="-122.41575" stopId="13878"/>
+<stop tag="3870" title="California St &amp; Jones St" lat="37.79135" lon="-122.4140999" stopId="13870"/>
+<stop tag="3902" title="California St &amp; Taylor St" lat="37.7915399" lon="-122.41261" stopId="13902"/>
+<stop tag="3881" title="California St &amp; Mason St" lat="37.79175" lon="-122.4109599" stopId="13881"/>
+<stop tag="3891" title="California St &amp; Powell St" lat="37.7919499" lon="-122.40934" stopId="13891"/>
+<stop tag="3900" title="California St &amp; Stockton St" lat="37.79218" lon="-122.4075299" stopId="13900"/>
+<stop tag="3866" title="California St &amp; Grant Ave" lat="37.7923799" lon="-122.40593" stopId="13866"/>
+<stop tag="3872" title="California St &amp; Kearny St" lat="37.79259" lon="-122.4042499" stopId="13872"/>
+<stop tag="3882" title="California St &amp; Montgomery St" lat="37.79276" lon="-122.4029099" stopId="13882"/>
+<stop tag="3895" title="California St &amp; Sansome St" lat="37.79298" lon="-122.4012699" stopId="13895"/>
+<stop tag="7444" title="California St &amp; Battery St" lat="37.79313" lon="-122.4000999" stopId="17444"/>
+<stop tag="3864" title="California St &amp; Front St" lat="37.79327" lon="-122.3989199" stopId="13864"/>
+<stop tag="3857" title="California St &amp; Davis St" lat="37.7934199" lon="-122.39775" stopId="13857"/>
+<stop tag="7294" title="California St &amp; Davis St" lat="37.7935299" lon="-122.3968" stopId="17294"/>
+<stop tag="33860" title="California St &amp; Drumm St" lat="37.7937099" lon="-122.39614" stopId="133860"/>
+<direction tag="61_OB2" title="Outbound to Van Ness Av." name="Outbound" useForUI="true">
+  <stop tag="3860" />
+  <stop tag="3855" />
+  <stop tag="3863" />
+  <stop tag="3849" />
+  <stop tag="3894" />
+  <stop tag="3883" />
+  <stop tag="3871" />
+  <stop tag="3865" />
+  <stop tag="3899" />
+  <stop tag="3890" />
+  <stop tag="3880" />
+  <stop tag="3901" />
+  <stop tag="3869" />
+  <stop tag="3877" />
+  <stop tag="3867" />
+  <stop tag="3873" />
+  <stop tag="3888" />
+  <stop tag="37142" />
+</direction>
+<direction tag="61_IB1" title="Inbound to Market St." name="Inbound" useForUI="true">
+  <stop tag="7142" />
+  <stop tag="3889" />
+  <stop tag="3874" />
+  <stop tag="3868" />
+  <stop tag="3878" />
+  <stop tag="3870" />
+  <stop tag="3902" />
+  <stop tag="3881" />
+  <stop tag="3891" />
+  <stop tag="3900" />
+  <stop tag="3866" />
+  <stop tag="3872" />
+  <stop tag="3882" />
+  <stop tag="3895" />
+  <stop tag="7444" />
+  <stop tag="3864" />
+  <stop tag="3857" />
+  <stop tag="7294" />
+  <stop tag="33860" />
+</direction>
+<path>
+<point lat="37.7904399" lon="-122.42202"/>
+<point lat="37.79049" lon="-122.42083"/>
+<point lat="37.7907" lon="-122.41916"/>
+</path>
+<path>
+<point lat="37.79195" lon="-122.40934"/>
+<point lat="37.79218" lon="-122.40753"/>
+<point lat="37.79238" lon="-122.40593"/>
+<point lat="37.7925899" lon="-122.40425"/>
+<point lat="37.79276" lon="-122.40291"/>
+<point lat="37.79298" lon="-122.40127"/>
+<point lat="37.79313" lon="-122.4001"/>
+<point lat="37.79327" lon="-122.39892"/>
+<point lat="37.79342" lon="-122.39775"/>
+<point lat="37.7935299" lon="-122.3968"/>
+<point lat="37.79371" lon="-122.39614"/>
+</path>
+<path>
+<point lat="37.7909" lon="-122.41739"/>
+<point lat="37.79113" lon="-122.41575"/>
+<point lat="37.79135" lon="-122.4141"/>
+<point lat="37.79154" lon="-122.41261"/>
+<point lat="37.79175" lon="-122.41096"/>
+<point lat="37.79195" lon="-122.40934"/>
+</path>
+<path>
+<point lat="37.79102" lon="-122.41756"/>
+<point lat="37.79087" lon="-122.41889"/>
+<point lat="37.79066" lon="-122.42054"/>
+<point lat="37.7904399" lon="-122.42202"/>
+</path>
+<path>
+<point lat="37.79371" lon="-122.39614"/>
+<point lat="37.79359" lon="-122.39746"/>
+<point lat="37.7934399" lon="-122.39864"/>
+<point lat="37.7933" lon="-122.39981"/>
+<point lat="37.79315" lon="-122.40098"/>
+<point lat="37.79293" lon="-122.40262"/>
+<point lat="37.79272" lon="-122.40427"/>
+<point lat="37.7924999" lon="-122.40596"/>
+<point lat="37.79231" lon="-122.40755"/>
+<point lat="37.79207" lon="-122.40942"/>
+</path>
+<path>
+<point lat="37.7904399" lon="-122.42202"/>
+<point lat="37.79049" lon="-122.42083"/>
+<point lat="37.7907" lon="-122.41916"/>
+<point lat="37.7909" lon="-122.41739"/>
+</path>
+<path>
+<point lat="37.79207" lon="-122.40942"/>
+<point lat="37.79187" lon="-122.41098"/>
+<point lat="37.79171" lon="-122.41232"/>
+<point lat="37.7914699" lon="-122.41412"/>
+<point lat="37.7912899" lon="-122.41561"/>
+<point lat="37.79102" lon="-122.41756"/>
+</path>
+</route>
+</body>

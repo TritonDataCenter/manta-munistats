@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="80X" title="80X-Gateway Express" color="cc0033" oppositeColor="ffffff" latMin="37.7770099" latMax="37.7945" lonMin="-122.40018" lonMax="-122.3933299">
+<stop tag="3165" title="4th St &amp; Townsend St" lat="37.7770099" lon="-122.39475" stopId="13165"/>
+<stop tag="7623" title="Main St &amp; Howard St" lat="37.7906099" lon="-122.3933299" stopId="17623"/>
+<stop tag="5336" title="Main St &amp; Market St" lat="37.7925299" lon="-122.3956699" stopId="15336"/>
+<stop tag="4445" title="Drumm St &amp; California St" lat="37.79398" lon="-122.39635" stopId="14445"/>
+<stop tag="6294" title="Sacramento St &amp; Davis St" lat="37.7945" lon="-122.3976099" stopId="16294"/>
+<stop tag="6290" title="Sacramento St &amp; Battery St" lat="37.7941399" lon="-122.40018" stopId="16290"/>
+<direction tag="80X_IB" title="Inbound to Sacramento &amp; Battery" name="Inbound" useForUI="true">
+  <stop tag="3165" />
+  <stop tag="7623" />
+  <stop tag="5336" />
+  <stop tag="4445" />
+  <stop tag="6294" />
+  <stop tag="6290" />
+</direction>
+<path>
+<point lat="37.77701" lon="-122.39475"/>
+<point lat="37.77708" lon="-122.39499"/>
+<point lat="37.78151" lon="-122.38939"/>
+<point lat="37.78179" lon="-122.38876"/>
+<point lat="37.78179" lon="-122.38831"/>
+<point lat="37.7871" lon="-122.38787"/>
+<point lat="37.7871" lon="-122.3884"/>
+<point lat="37.78689" lon="-122.38879"/>
+<point lat="37.79061" lon="-122.39333"/>
+<point lat="37.79253" lon="-122.39567"/>
+<point lat="37.79309" lon="-122.39651"/>
+<point lat="37.79325" lon="-122.3963"/>
+<point lat="37.79398" lon="-122.39635"/>
+<point lat="37.79458" lon="-122.39659"/>
+<point lat="37.7945" lon="-122.39761"/>
+<point lat="37.79414" lon="-122.40018"/>
+</path>
+</route>
+</body>

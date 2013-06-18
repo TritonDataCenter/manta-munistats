@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright San Francisco Muni 2012.">
+<route tag="108" title="108-Treasure Island" color="555555" oppositeColor="ffffff" latMin="37.7893899" latMax="37.8298499" lonMin="-122.39424" lonMax="-122.36633">
+<stop tag="7617" title="Beale &amp; Folsom Mb-W" lat="37.7893899" lon="-122.39375" stopId="17617"/>
+<stop tag="7254" title="Treasure Island Rd &amp; Macalla" lat="37.81313" lon="-122.3710199" stopId="17254"/>
+<stop tag="6684" title="Treasure Island Gate" lat="37.8162199" lon="-122.37144" stopId="16684"/>
+<stop tag="3905" title="California St &amp; Avenue D" lat="37.8184999" lon="-122.36953" stopId="13905"/>
+<stop tag="7555" title="Ave H &amp; California St" lat="37.8199999" lon="-122.36633" stopId="17555"/>
+<stop tag="7556" title="Avenue H &amp; 5th St" lat="37.8223799" lon="-122.3679699" stopId="17556"/>
+<stop tag="7557" title="Avenue H &amp; 9th St" lat="37.8252299" lon="-122.3699099" stopId="17557"/>
+<stop tag="37558" title="Ave H &amp; 13th St." lat="37.8283099" lon="-122.37196" stopId="137558"/>
+<stop tag="7558" title="Ave H &amp; 13th St." lat="37.8283099" lon="-122.37196" stopId="17558"/>
+<stop tag="4936" title="Gateview Ave &amp; North Point St" lat="37.8298199" lon="-122.3734799" stopId="14936"/>
+<stop tag="4934" title="Gateview Ave &amp; Bayside Dr" lat="37.8298499" lon="-122.37525" stopId="14934"/>
+<stop tag="4935" title="Gateview Ave &amp; Mason Ct" lat="37.8281799" lon="-122.37722" stopId="14935"/>
+<stop tag="3670" title="Avenue B &amp; Gateview Ct" lat="37.82695" lon="-122.3774" stopId="13670"/>
+<stop tag="7004" title="Avenue B &amp; 9th Ave" lat="37.8232499" lon="-122.3749899" stopId="17004"/>
+<stop tag="7590" title="9th St &amp; Ave D" lat="37.8235199" lon="-122.37391" stopId="17590"/>
+<stop tag="7560" title="9th St &amp; Ave D" lat="37.8240599" lon="-122.37271" stopId="17560"/>
+<stop tag="3229" title="9th St &amp; Avenue H" lat="37.8252" lon="-122.3700599" stopId="13229"/>
+<stop tag="3674" title="Avenue H &amp; 6th St" lat="37.82363" lon="-122.36893" stopId="13674"/>
+<stop tag="3673" title="Avenue H &amp; 4th St" lat="37.82194" lon="-122.3678" stopId="13673"/>
+<stop tag="3675" title="Avenue H &amp; California St" lat="37.81994" lon="-122.36642" stopId="13675"/>
+<stop tag="3904" title="California St &amp; Avenue C" lat="37.81833" lon="-122.3701399" stopId="13904"/>
+<stop tag="6685" title="Treasure Island Main Gate" lat="37.8160199" lon="-122.3718" stopId="16685"/>
+<stop tag="7620" title="Main St &amp; Howard St" lat="37.7905499" lon="-122.3932999" stopId="17620"/>
+<stop tag="7605" title="Beal &amp; Howard" lat="37.7898099" lon="-122.39424" stopId="17605"/>
+<direction tag="108_IB1" title="Inbound to Transbay Terminal" name="Inbound" useForUI="true">
+  <stop tag="7558" />
+  <stop tag="4936" />
+  <stop tag="4934" />
+  <stop tag="4935" />
+  <stop tag="3670" />
+  <stop tag="7004" />
+  <stop tag="7590" />
+  <stop tag="7560" />
+  <stop tag="3229" />
+  <stop tag="3674" />
+  <stop tag="3673" />
+  <stop tag="3675" />
+  <stop tag="3904" />
+  <stop tag="6685" />
+  <stop tag="7620" />
+  <stop tag="7605" />
+</direction>
+<direction tag="108_OB1" title="Outbound to Treasure Island" name="Outbound" useForUI="true">
+  <stop tag="7617" />
+  <stop tag="7254" />
+  <stop tag="6684" />
+  <stop tag="3905" />
+  <stop tag="7555" />
+  <stop tag="7556" />
+  <stop tag="7557" />
+  <stop tag="37558" />
+</direction>
+<path>
+<point lat="37.82831" lon="-122.37196"/>
+<point lat="37.82951" lon="-122.37305"/>
+<point lat="37.82978" lon="-122.37345"/>
+<point lat="37.82982" lon="-122.37348"/>
+<point lat="37.82993" lon="-122.37383"/>
+<point lat="37.82999" lon="-122.37428"/>
+<point lat="37.82999" lon="-122.37459"/>
+<point lat="37.82989" lon="-122.37508"/>
+<point lat="37.82985" lon="-122.37525"/>
+<point lat="37.82933" lon="-122.37628"/>
+<point lat="37.82909" lon="-122.37664"/>
+<point lat="37.82883" lon="-122.37687"/>
+<point lat="37.82818" lon="-122.37722"/>
+<point lat="37.8270399" lon="-122.37759"/>
+<point lat="37.8269499" lon="-122.3774"/>
+<point lat="37.82698" lon="-122.37727"/>
+<point lat="37.8265699" lon="-122.37692"/>
+<point lat="37.82379" lon="-122.37512"/>
+<point lat="37.82325" lon="-122.37499"/>
+<point lat="37.82318" lon="-122.37491"/>
+<point lat="37.82352" lon="-122.37391"/>
+<point lat="37.82406" lon="-122.37271"/>
+<point lat="37.8252" lon="-122.37006"/>
+<point lat="37.82527" lon="-122.36998"/>
+<point lat="37.82363" lon="-122.36893"/>
+<point lat="37.82194" lon="-122.3678"/>
+<point lat="37.81994" lon="-122.36642"/>
+<point lat="37.8198999" lon="-122.36634"/>
+<point lat="37.81833" lon="-122.37014"/>
+<point lat="37.81732" lon="-122.37245"/>
+<point lat="37.81602" lon="-122.3718"/>
+</path>
+<path>
+<point lat="37.81622" lon="-122.37144"/>
+<point lat="37.8173" lon="-122.37225"/>
+<point lat="37.8185" lon="-122.36953"/>
+<point lat="37.8198999" lon="-122.36634"/>
+<point lat="37.82" lon="-122.36633"/>
+<point lat="37.82238" lon="-122.36797"/>
+<point lat="37.82523" lon="-122.36991"/>
+<point lat="37.82831" lon="-122.37196"/>
+</path>
+<path>
+<point lat="37.81602" lon="-122.3718"/>
+<point lat="37.81505" lon="-122.37109"/>
+<point lat="37.81464" lon="-122.37097"/>
+<point lat="37.81424" lon="-122.37093"/>
+<point lat="37.81385" lon="-122.37095"/>
+<point lat="37.81333" lon="-122.37108"/>
+<point lat="37.81312" lon="-122.37068"/>
+<point lat="37.8128699" lon="-122.37039"/>
+<point lat="37.81238" lon="-122.37023"/>
+<point lat="37.81204" lon="-122.37001"/>
+<point lat="37.81187" lon="-122.3698"/>
+<point lat="37.81156" lon="-122.36844"/>
+<point lat="37.8114599" lon="-122.36818"/>
+<point lat="37.81123" lon="-122.36775"/>
+<point lat="37.81111" lon="-122.36641"/>
+<point lat="37.81121" lon="-122.36606"/>
+<point lat="37.81141" lon="-122.36585"/>
+<point lat="37.81163" lon="-122.36578"/>
+<point lat="37.81182" lon="-122.36553"/>
+<point lat="37.81195" lon="-122.36516"/>
+<point lat="37.81196" lon="-122.36484"/>
+<point lat="37.81175" lon="-122.36387"/>
+<point lat="37.81096" lon="-122.3646"/>
+<point lat="37.81073" lon="-122.36466"/>
+<point lat="37.80984" lon="-122.36533"/>
+<point lat="37.78582" lon="-122.39103"/>
+<point lat="37.7853" lon="-122.39194"/>
+<point lat="37.78505" lon="-122.39267"/>
+<point lat="37.78498" lon="-122.39299"/>
+<point lat="37.78495" lon="-122.39343"/>
+<point lat="37.78499" lon="-122.39381"/>
+<point lat="37.78513" lon="-122.39425"/>
+<point lat="37.78532" lon="-122.39457"/>
+<point lat="37.7864099" lon="-122.39587"/>
+<point lat="37.7866799" lon="-122.39601"/>
+<point lat="37.78696" lon="-122.39602"/>
+<point lat="37.78723" lon="-122.39588"/>
+<point lat="37.78844" lon="-122.39454"/>
+<point lat="37.7879999" lon="-122.3936"/>
+<point lat="37.78937" lon="-122.39186"/>
+<point lat="37.79055" lon="-122.3933"/>
+<point lat="37.79061" lon="-122.39341"/>
+<point lat="37.78981" lon="-122.39424"/>
+</path>
+<path>
+<point lat="37.78939" lon="-122.39375"/>
+<point lat="37.78869" lon="-122.39272"/>
+<point lat="37.78638" lon="-122.39564"/>
+<point lat="37.78515" lon="-122.3941"/>
+<point lat="37.78525" lon="-122.39234"/>
+<point lat="37.7854" lon="-122.39179"/>
+<point lat="37.78583" lon="-122.39104"/>
+<point lat="37.80785" lon="-122.36747"/>
+<point lat="37.80857" lon="-122.3669"/>
+<point lat="37.80878" lon="-122.36678"/>
+<point lat="37.80898" lon="-122.36702"/>
+<point lat="37.8088" lon="-122.36774"/>
+<point lat="37.80879" lon="-122.36803"/>
+<point lat="37.80927" lon="-122.36954"/>
+<point lat="37.80937" lon="-122.37008"/>
+<point lat="37.80948" lon="-122.37046"/>
+<point lat="37.80963" lon="-122.37075"/>
+<point lat="37.80982" lon="-122.37103"/>
+<point lat="37.81007" lon="-122.37127"/>
+<point lat="37.81031" lon="-122.37143"/>
+<point lat="37.81056" lon="-122.37154"/>
+<point lat="37.81082" lon="-122.37159"/>
+<point lat="37.8110799" lon="-122.37159"/>
+<point lat="37.81313" lon="-122.37102"/>
+<point lat="37.81507" lon="-122.37088"/>
+<point lat="37.8155" lon="-122.37101"/>
+<point lat="37.81622" lon="-122.37144"/>
+</path>
+</route>
+</body>
