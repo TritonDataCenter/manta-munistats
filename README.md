@@ -37,7 +37,7 @@ The NextBus API provides an XML blob with a lit of vehicles for a given line:
 
 There are approximately 4000 of these files generated per line per day.  Since
 they're such small files, I created a tarball for each day so as not to have too
-many keys.  
+many keys.  Those files are stored in /bpijewski/stor/munistats/sf-muni/data.
 
 The first phase of this transformation takes the tarball and generates a
 transcript of which train arrives at which station:
@@ -66,7 +66,8 @@ transcript of which train arrives at which station:
 
 The job which generates that report is driven by jobs/arrivals.json and
 specifically the jobs/generate_arrivals.sh script.  The output of that job is a
-single key (per line, per day) which is the transcript of train arrivals.
+single key (per line, per day) which is the transcript of train arrivals.  Those
+files are stored in /bpijewski/stor/munistats/sf-muni/arrivals.
 
 Next, all the transcripts for a given line are fed into the next phase, which
 calculates the total duration for each trip between two stations.  The output
@@ -83,14 +84,15 @@ format is:
     M	M__OB1	16994	16259	06/11/2013   15:26:44	29 min	1410
 
 That shows a random sample of trips from the Joyent office back to my apartment.
+Those files are stored in /bpijewski/stor/munistats/sf-muni/trips.
 
 Finally, the last phase takes the list of trips between two stops and generates
 a report of average duration and standard deviation by hour:
 
     Weekday 000-100 25 28.80 3.06
-    Weekday 100-200 0 NaN 0.00
-    Weekday 200-300 0 NaN 0.00
-    Weekday 300-400 0 NaN 0.00
+    Weekday 100-200 0 0 0.00
+    Weekday 200-300 0 0 0.00
+    Weekday 300-400 0 0 0.00
     Weekday 400-500 11 29.09 0.30
     Weekday 500-600 26 29.69 1.05
     Weekday 600-700 62 28.98 4.55
@@ -112,11 +114,11 @@ a report of average duration and standard deviation by hour:
     Weekday 2200-2300 34 29.06 2.68
     Weekday 2300-2400 19 29.84 0.96
     Weekend 000-100 7 29.43 3.31
-    Weekend 100-200 0 NaN 0.00
-    Weekend 200-300 0 NaN 0.00
-    Weekend 300-400 0 NaN 0.00
-    Weekend 400-500 0 NaN 0.00
-    Weekend 500-600 0 NaN 0.00
+    Weekend 100-200 0 0 0.00
+    Weekend 200-300 0 0 0.00
+    Weekend 300-400 0 0 0.00
+    Weekend 400-500 0 0 0.00
+    Weekend 500-600 0 0 0.00
     Weekend 600-700 3 29.00 0.00
     Weekend 700-800 6 27.50 3.89
     Weekend 800-900 12 30.75 3.02
@@ -146,9 +148,11 @@ during that time as well.
   each XML blob as a single key.  It was easy enough to untar the tarball inside
   the job, made running jobs on those keys faster, and was easier to debug as I
   didn't have 100000s of keys in a single directory.
+
 - Manipulating XML sucks.  I thought it was a good idea to keep the original
   data intact as received from the API, but it would have been better to go
   straight to a text, column-based format.
+
 - For the second transforation, I ran a job for each (source, destination) pair.
   For example, different jobs for (Powell, Civic Center), (Powell, Church St.),
   (Powell, Castro), (Civic Center, Church St.) and so on.  It would have been
@@ -156,8 +160,27 @@ during that time as well.
   key for each (source, destination) pair.  For some of the longer lines, there
   are 2000-2500 pairs, so running that many jobs became untenable.
 
+- By far the hardest part was writing the program to take the GPS coordinates
+  and list the station arrivals.  It wasn't as simple as finding which was the
+  closest stop.  The vehicles report in every so often, and that period is
+  anywhere from a few seconds to a few minutes.  Between reports, the vehicle may
+  have remained at the current stop or advanced several stops down the line.  In
+  addition, several lines have multiple cars per train, and each car has its own
+  transponder.  Finally, there are lines which have U-turns, so even the closest
+  stop on the line may not be the next one.
+
+- The data from the API was a dirtier than expected.  Trains would appear in
+  multiple places at once, and there were situations where trains would pass
+  each other, yet there was no siding which would allow such passing.  If that
+  data is accurate (questionable), my theory was that technicians were carrying
+  transponders with them as they did track inspections or whatever.
+
 # TODO
 
-- Scripts to automate/simplify running of jobs
-- Small frontend to interact with API
+- Scripts to automate/simplify running of jobs.  Not all the reports have been
+  generated - I need to change the trip generation to emit all the station pairs
+  as explained above.
+
+- Small frontend/portal to interact with data
+
 - Move data to /public?
